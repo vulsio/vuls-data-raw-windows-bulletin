@@ -1,0 +1,17 @@
+[
+  {
+    "date_posted": "[$-110009]11/11/2014",
+    "bulletin_id": "MS14-073",
+    "bulletin_kb": "3000431",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft SharePoint Foundation Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2010 Service Pack 2",
+    "component_kb": "2889838",
+    "affected_component": "Microsoft SharePoint Foundation 2010 Service Pack 2",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4116"
+  }
+]

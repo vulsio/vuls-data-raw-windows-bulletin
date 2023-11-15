@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-80009]8/14/2012",
+    "bulletin_id": "MS12-053",
+    "bulletin_kb": "2723135",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Remote Desktop Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "2723135",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2012-2526"
+  }
+]

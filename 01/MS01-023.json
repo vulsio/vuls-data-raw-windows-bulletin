@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "05-01-01",
+    "bulletin_id": "MS01-023",
+    "bulletin_kb": "296576",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in ISAPI Extension Could Enable Compromise of IIS 5.0 Server",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "296576",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0241"
+  },
+  {
+    "date_posted": "05-01-01",
+    "bulletin_id": "MS01-023",
+    "bulletin_kb": "296576",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in ISAPI Extension Could Enable Compromise of IIS 5.0 Server",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "296576",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0241"
+  }
+]

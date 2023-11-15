@@ -1,0 +1,47 @@
+[
+  {
+    "date_posted": "[$-70009]7/9/2013",
+    "bulletin_id": "MS13-058",
+    "bulletin_kb": "2847927",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Defender Could Allow Elevation of Privilege",
+    "affected_product": "Windows 7 for 32-bit Systems Service Pack 1",
+    "component_kb": "2847927",
+    "affected_component": "Windows Defender",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2013-3154"
+  },
+  {
+    "date_posted": "[$-70009]7/9/2013",
+    "bulletin_id": "MS13-058",
+    "bulletin_kb": "2847927",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Defender Could Allow Elevation of Privilege",
+    "affected_product": "Windows 7 for x64-based Systems Service Pack 1",
+    "component_kb": "2847927",
+    "affected_component": "Windows Defender",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2013-3154"
+  },
+  {
+    "date_posted": "[$-70009]7/9/2013",
+    "bulletin_id": "MS13-058",
+    "bulletin_kb": "2847927",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Defender Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+    "component_kb": "2847927",
+    "affected_component": "Windows Defender",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2013-3154"
+  }
+]

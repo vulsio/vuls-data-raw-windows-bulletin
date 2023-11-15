@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-046",
+    "bulletin_kb": "899589",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in the Client Service for NetWare Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "899589",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CAN-2005-1985"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-046",
+    "bulletin_kb": "899589",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in the Client Service for NetWare Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "899589",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CAN-2005-1985"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-046",
+    "bulletin_kb": "899589",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in the Client Service for NetWare Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "899589",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CAN-2005-1985"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-046",
+    "bulletin_kb": "899589",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in the Client Service for NetWare Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003",
+    "component_kb": "899589",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CAN-2005-1985"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-046",
+    "bulletin_kb": "899589",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in the Client Service for NetWare Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 1",
+    "component_kb": "899589",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CAN-2005-1985"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "08-22-02",
+    "bulletin_id": "MS02-046",
+    "bulletin_kb": "327521",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Buffer Overrun in TSAC ActiveX Control Could Allow Code Execution",
+    "affected_product": "Microsoft Terminal Services Advanced Client (TSAC) ActiveX control",
+    "component_kb": "327521",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0726"
+  }
+]

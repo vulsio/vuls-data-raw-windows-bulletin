@@ -1,0 +1,54 @@
+[
+  {
+    "date_posted": "01-11-01",
+    "bulletin_id": "MS01-001",
+    "bulletin_kb": "282132",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Web Client Will Perform NTLM Authentication Regardless of Security Settings",
+    "affected_product": "Microsoft Office 2000",
+    "component_kb": "326585",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0003"
+  },
+  {
+    "date_posted": "01-11-01",
+    "bulletin_id": "MS01-001",
+    "bulletin_kb": "282132",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Web Client Will Perform NTLM Authentication Regardless of Security Settings",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "282132",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0003"
+  },
+  {
+    "date_posted": "01-11-01",
+    "bulletin_id": "MS01-001",
+    "bulletin_kb": "282132",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Web Client Will Perform NTLM Authentication Regardless of Security Settings",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "282132",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0003"
+  },
+  {
+    "date_posted": "01-11-01",
+    "bulletin_id": "MS01-001",
+    "bulletin_kb": "282132",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Web Client Will Perform NTLM Authentication Regardless of Security Settings",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "282132",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0003"
+  }
+]

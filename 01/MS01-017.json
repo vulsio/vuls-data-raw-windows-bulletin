@@ -1,0 +1,74 @@
+[
+  {
+    "date_posted": "03-22-01",
+    "bulletin_id": "MS01-017",
+    "bulletin_kb": "293818",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Erroneous VeriSign-Issued Digital Certificates Pose Spoofing Hazard",
+    "affected_product": "Microsoft Windows 95",
+    "component_kb": "293818",
+    "impact": "Spoofing",
+    "severity": "None"
+  },
+  {
+    "date_posted": "03-22-01",
+    "bulletin_id": "MS01-017",
+    "bulletin_kb": "293818",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Erroneous VeriSign-Issued Digital Certificates Pose Spoofing Hazard",
+    "affected_product": "Microsoft Windows 98",
+    "component_kb": "293818",
+    "impact": "Spoofing",
+    "severity": "None"
+  },
+  {
+    "date_posted": "03-22-01",
+    "bulletin_id": "MS01-017",
+    "bulletin_kb": "293818",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Erroneous VeriSign-Issued Digital Certificates Pose Spoofing Hazard",
+    "affected_product": "Microsoft Windows Me",
+    "component_kb": "293818",
+    "impact": "Spoofing",
+    "severity": "None"
+  },
+  {
+    "date_posted": "03-22-01",
+    "bulletin_id": "MS01-017",
+    "bulletin_kb": "293818",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Erroneous VeriSign-Issued Digital Certificates Pose Spoofing Hazard",
+    "affected_product": "Microsoft Windows NT 4.0",
+    "component_kb": "293818",
+    "impact": "Spoofing",
+    "severity": "None"
+  },
+  {
+    "date_posted": "03-22-01",
+    "bulletin_id": "MS01-017",
+    "bulletin_kb": "293818",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Erroneous VeriSign-Issued Digital Certificates Pose Spoofing Hazard",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "293818",
+    "impact": "Spoofing",
+    "severity": "None"
+  },
+  {
+    "date_posted": "03-22-01",
+    "bulletin_id": "MS01-017",
+    "bulletin_kb": "293818",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Erroneous VeriSign-Issued Digital Certificates Pose Spoofing Hazard",
+    "affected_product": "Microsoft Windows XP Beta 2",
+    "component_kb": "293818",
+    "impact": "Spoofing",
+    "severity": "None"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "06-25-01",
+    "bulletin_id": "MS01-036",
+    "bulletin_kb": "299687",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Function Exposed via LDAP over SSL Could Enable Passwords to be Changed",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "299687",
+    "affected_component": "LDAP",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "cves": "CAN-2001-0502"
+  },
+  {
+    "date_posted": "06-25-01",
+    "bulletin_id": "MS01-036",
+    "bulletin_kb": "299687",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Function Exposed via LDAP over SSL Could Enable Passwords to be Changed",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "299687",
+    "affected_component": "LDAP",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "cves": "CAN-2001-0502"
+  }
+]

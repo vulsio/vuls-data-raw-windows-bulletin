@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "08-08-06",
+    "bulletin_id": "MS06-049",
+    "bulletin_kb": "920958",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Result in Elevation of Privilege",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "920958",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2006-3444"
+  }
+]

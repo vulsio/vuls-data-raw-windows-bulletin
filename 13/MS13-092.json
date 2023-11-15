@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-110009]11/12/2013",
+    "bulletin_id": "MS13-092",
+    "bulletin_kb": "2893986",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Hyper-V Could Allow Elevation of Privilege",
+    "affected_product": "Windows 8 for x64-based Systems",
+    "component_kb": "2893986",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3898"
+  },
+  {
+    "date_posted": "[$-110009]11/12/2013",
+    "bulletin_id": "MS13-092",
+    "bulletin_kb": "2893986",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Hyper-V Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2012",
+    "component_kb": "2893986",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3898"
+  },
+  {
+    "date_posted": "[$-110009]11/12/2013",
+    "bulletin_id": "MS13-092",
+    "bulletin_kb": "2893986",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Hyper-V Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2012",
+    "component_kb": "2893986",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3898"
+  }
+]

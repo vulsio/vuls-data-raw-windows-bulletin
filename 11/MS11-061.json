@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-061",
+    "bulletin_kb": "2546250",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Remote Desktop Web Access Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems",
+    "component_kb": "2546250",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2011-1263"
+  },
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-061",
+    "bulletin_kb": "2546250",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Remote Desktop Web Access Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+    "component_kb": "2546250",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2011-1263"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-10009]1/10/2017",
+    "bulletin_id": "MS17-002",
+    "bulletin_kb": "3214291",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for Microsoft Office",
+    "affected_product": "Microsoft Word 2016 (32-bit edition)",
+    "component_kb": "3128057",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2017-0003"
+  },
+  {
+    "date_posted": "[$-10009]1/10/2017",
+    "bulletin_id": "MS17-002",
+    "bulletin_kb": "3214291",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for Microsoft Office",
+    "affected_product": "Microsoft Word 2016 (64-bit edition)",
+    "component_kb": "3128057",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2017-0003"
+  },
+  {
+    "date_posted": "[$-10009]1/10/2017",
+    "bulletin_id": "MS17-002",
+    "bulletin_kb": "3214291",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for Microsoft Office",
+    "affected_product": "Microsoft SharePoint Enterprise Server 2016",
+    "component_kb": "3141486",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2017-0003"
+  }
+]

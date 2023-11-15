@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "10-30-02",
+    "bulletin_id": "MS02-063",
+    "bulletin_kb": "329834",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Denial of Service",
+    "title": "Unchecked Buffer in PPTP Implementation Could Enable Denial of Service Attacks",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "329834",
+    "impact": "Denial of Service",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-1214"
+  },
+  {
+    "date_posted": "10-30-02",
+    "bulletin_id": "MS02-063",
+    "bulletin_kb": "329834",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Denial of Service",
+    "title": "Unchecked Buffer in PPTP Implementation Could Enable Denial of Service Attacks",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "329834",
+    "impact": "Denial of Service",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-1214"
+  }
+]

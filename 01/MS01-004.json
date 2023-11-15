@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "01-29-01",
+    "bulletin_id": "MS01-004",
+    "bulletin_kb": "285985",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Malformed .HTR Request Allows Reading of File Fragments",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "285985",
+    "affected_component": "Microsoft Internet Information Server 4.0",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0004"
+  },
+  {
+    "date_posted": "01-29-01",
+    "bulletin_id": "MS01-004",
+    "bulletin_kb": "285985",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Malformed .HTR Request Allows Reading of File Fragments",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "285985",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0004"
+  }
+]

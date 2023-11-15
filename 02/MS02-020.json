@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "04-17-02",
+    "bulletin_id": "MS02-020",
+    "bulletin_kb": "319507",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "SQL Extended Procedure Functions Contain Unchecked Buffers",
+    "affected_product": "Microsoft SQL Server 7.0",
+    "component_kb": "319507",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0154"
+  },
+  {
+    "date_posted": "04-17-02",
+    "bulletin_id": "MS02-020",
+    "bulletin_kb": "319507",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "SQL Extended Procedure Functions Contain Unchecked Buffers",
+    "affected_product": "Microsoft SQL Server 2000",
+    "component_kb": "319507",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0154"
+  }
+]

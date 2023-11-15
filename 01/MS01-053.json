@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "10-23-01",
+    "bulletin_id": "MS01-053",
+    "bulletin_kb": "311052",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Downloaded Applications Can Execute on Mac IE 5.1 for OS X",
+    "affected_product": "Microsoft Internet Explorer 5.1 for the Macintosh",
+    "component_kb": "311052",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2001-0720"
+  }
+]

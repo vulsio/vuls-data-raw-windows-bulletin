@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "03-07-02",
+    "bulletin_id": "MS02-014",
+    "bulletin_kb": "313829",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Windows Shell Could Lead to Code Execution",
+    "affected_product": "Microsoft Windows 98",
+    "component_kb": "313829",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0070"
+  },
+  {
+    "date_posted": "03-07-02",
+    "bulletin_id": "MS02-014",
+    "bulletin_kb": "313829",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Windows Shell Could Lead to Code Execution",
+    "affected_product": "Microsoft Windows 98 Second Edition",
+    "component_kb": "313829",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0070"
+  },
+  {
+    "date_posted": "03-07-02",
+    "bulletin_id": "MS02-014",
+    "bulletin_kb": "313829",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Windows Shell Could Lead to Code Execution",
+    "affected_product": "Microsoft Windows NT 4.0",
+    "component_kb": "313829",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0070"
+  },
+  {
+    "date_posted": "03-07-02",
+    "bulletin_id": "MS02-014",
+    "bulletin_kb": "313829",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Windows Shell Could Lead to Code Execution",
+    "affected_product": "Microsoft Windows NT Server 4.0 Terminal Server Edition",
+    "component_kb": "313829",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0070"
+  },
+  {
+    "date_posted": "03-07-02",
+    "bulletin_id": "MS02-014",
+    "bulletin_kb": "313829",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Windows Shell Could Lead to Code Execution",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "313829",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0070"
+  }
+]

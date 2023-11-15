@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "03-19-03",
+    "bulletin_id": "MS03-009",
+    "bulletin_kb": "331065",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Flaw In ISA Server DNS Intrusion Detection Filter Can Cause Denial Of Service",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000",
+    "component_kb": "331065",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2003-0011"
+  }
+]

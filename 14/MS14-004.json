@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-004",
+    "bulletin_kb": "2880826",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Dynamics AX Could Allow Denial of Service",
+    "affected_product": "Microsoft Dynamics AX 4.0 Service Pack 2",
+    "component_kb": "2920510",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-0261"
+  },
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-004",
+    "bulletin_kb": "2880826",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Dynamics AX Could Allow Denial of Service",
+    "affected_product": "Microsoft Dynamics AX 2009 Service Pack 1",
+    "component_kb": "2914058",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-0261"
+  },
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-004",
+    "bulletin_kb": "2880826",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Dynamics AX Could Allow Denial of Service",
+    "affected_product": "Microsoft Dynamics AX 2012 R2",
+    "component_kb": "2914057",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-0261"
+  },
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-004",
+    "bulletin_kb": "2880826",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Dynamics AX Could Allow Denial of Service",
+    "affected_product": "Microsoft Dynamics AX 2012",
+    "component_kb": "2914055",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-0261"
+  }
+]

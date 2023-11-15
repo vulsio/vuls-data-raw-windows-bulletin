@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "08-08-06",
+    "bulletin_id": "MS06-044",
+    "bulletin_kb": "917008",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Management Console Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "917008",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2006-3643"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-80009]8/14/2012",
+    "bulletin_id": "MS12-058",
+    "bulletin_kb": "2740358",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Exchange Server WebReady Document Viewing Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Exchange Server 2007 Service Pack 3",
+    "component_kb": "2756497",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2012-1766,CVE-2012-1767,CVE-2012-1768,CVE-2012-1769,CVE-2012-1770,CVE-2012-1771,CVE-2012-1772,CVE-2012-1773,CVE-2012-3106,CVE-2012-3107,CVE-2012-3108,CVE-2012-3109,CVE-2012-3110"
+  },
+  {
+    "date_posted": "[$-80009]8/14/2012",
+    "bulletin_id": "MS12-058",
+    "bulletin_kb": "2740358",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Exchange Server WebReady Document Viewing Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Exchange Server 2010 Service Pack 1",
+    "component_kb": "2756496",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2012-1766,CVE-2012-1767,CVE-2012-1768,CVE-2012-1769,CVE-2012-1770,CVE-2012-1771,CVE-2012-1772,CVE-2012-1773,CVE-2012-3106,CVE-2012-3107,CVE-2012-3108,CVE-2012-3109,CVE-2012-3110"
+  },
+  {
+    "date_posted": "[$-80009]8/14/2012",
+    "bulletin_id": "MS12-058",
+    "bulletin_kb": "2740358",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Exchange Server WebReady Document Viewing Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Exchange Server 2010 Service Pack 2",
+    "component_kb": "2756485",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2012-1766,CVE-2012-1767,CVE-2012-1768,CVE-2012-1769,CVE-2012-1770,CVE-2012-1771,CVE-2012-1772,CVE-2012-1773,CVE-2012-3106,CVE-2012-3107,CVE-2012-3108,CVE-2012-3109,CVE-2012-3110"
+  }
+]

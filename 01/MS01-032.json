@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "06-12-01",
+    "bulletin_id": "MS01-032",
+    "bulletin_kb": "299717",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "SQL Query Method Enables Cached Administrator Connection to be Reused",
+    "affected_product": "Microsoft SQL Server 7.0",
+    "component_kb": "299717",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "cves": "CAN-2001-0344"
+  },
+  {
+    "date_posted": "06-12-01",
+    "bulletin_id": "MS01-032",
+    "bulletin_kb": "299717",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "SQL Query Method Enables Cached Administrator Connection to be Reused",
+    "affected_product": "Microsoft SQL Server 2000",
+    "component_kb": "299717",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "cves": "CAN-2001-0344"
+  }
+]

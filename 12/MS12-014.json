@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-20009]2/14/2012",
+    "bulletin_id": "MS12-014",
+    "bulletin_kb": "2661637",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Indeo Codec Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "2661637",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-3138"
+  }
+]

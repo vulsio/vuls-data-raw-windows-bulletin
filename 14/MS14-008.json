@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-20009]2/11/2014",
+    "bulletin_id": "MS14-008",
+    "bulletin_kb": "2927022",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Forefront Protection for Exchange Could Allow Remote Code Execution",
+    "affected_product": "Forefront Protection 2010 for Exchange Server",
+    "component_kb": "2927022",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-0294"
+  }
+]

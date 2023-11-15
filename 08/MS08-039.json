@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "07-08-08",
+    "bulletin_id": "MS08-039",
+    "bulletin_kb": "953747",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Outlook Web Access for Exchange Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Exchange Server 2003 Service Pack 2",
+    "component_kb": "953747",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2008-2247,CVE-2008-2248"
+  },
+  {
+    "date_posted": "07-08-08",
+    "bulletin_id": "MS08-039",
+    "bulletin_kb": "953747",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Outlook Web Access for Exchange Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Exchange Server 2007",
+    "component_kb": "953747",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2008-2247,CVE-2008-2248"
+  },
+  {
+    "date_posted": "07-08-08",
+    "bulletin_id": "MS08-039",
+    "bulletin_kb": "953747",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Outlook Web Access for Exchange Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Exchange Server 2007 Service Pack 1",
+    "component_kb": "953747",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2008-2247,CVE-2008-2248"
+  }
+]

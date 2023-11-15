@@ -1,0 +1,55 @@
+[
+  {
+    "date_posted": "07-09-03",
+    "bulletin_id": "MS03-025",
+    "bulletin_kb": "822679",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Flaw in Windows Message Handling through Utility Manager Could Enable Privilege Elevation",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "822679",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0350"
+  },
+  {
+    "date_posted": "07-09-03",
+    "bulletin_id": "MS03-025",
+    "bulletin_kb": "822679",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Flaw in Windows Message Handling through Utility Manager Could Enable Privilege Elevation",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "822679",
+    "impact": "Not a Vulnerability",
+    "severity": "None",
+    "cves": "CAN-2003-0350"
+  },
+  {
+    "date_posted": "07-09-03",
+    "bulletin_id": "MS03-025",
+    "bulletin_kb": "822679",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Flaw in Windows Message Handling through Utility Manager Could Enable Privilege Elevation",
+    "affected_product": "Microsoft Windows 2000 Service Pack 3",
+    "component_kb": "822679",
+    "impact": "Not a Vulnerability",
+    "severity": "None",
+    "cves": "CAN-2003-0350"
+  },
+  {
+    "date_posted": "07-09-03",
+    "bulletin_id": "MS03-025",
+    "bulletin_kb": "822679",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Flaw in Windows Message Handling through Utility Manager Could Enable Privilege Elevation",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "822679",
+    "impact": "Not a Vulnerability",
+    "severity": "None",
+    "cves": "CAN-2003-0350"
+  }
+]

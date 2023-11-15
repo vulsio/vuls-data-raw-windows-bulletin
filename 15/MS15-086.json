@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-80009]8/11/2015",
+    "bulletin_id": "MS15-086",
+    "bulletin_kb": "3075158",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in System Center Operations Manager Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft System Center 2012 Operations Manager",
+    "component_kb": "3071089",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-2420"
+  },
+  {
+    "date_posted": "[$-80009]8/11/2015",
+    "bulletin_id": "MS15-086",
+    "bulletin_kb": "3075158",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in System Center Operations Manager Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft System Center 2012 Operations Manager Service Pack 1",
+    "component_kb": "3071088",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-2420"
+  },
+  {
+    "date_posted": "[$-80009]8/11/2015",
+    "bulletin_id": "MS15-086",
+    "bulletin_kb": "3075158",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in System Center Operations Manager Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft System Center 2012 Operations Manager R2",
+    "component_kb": "3064919",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-2420"
+  }
+]

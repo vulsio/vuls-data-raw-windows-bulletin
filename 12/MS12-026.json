@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-40009]4/12/2012",
+    "bulletin_id": "MS12-026",
+    "bulletin_kb": "2663860",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerabilities in Forefront Unified Access Gateway (UAG) Could Allow Information Disclosure",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010 Service Pack 1",
+    "component_kb": "2649261",
+    "impact": "Spoofing",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0146,CVE-2012-0147"
+  },
+  {
+    "date_posted": "[$-40009]4/12/2012",
+    "bulletin_id": "MS12-026",
+    "bulletin_kb": "2663860",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerabilities in Forefront Unified Access Gateway (UAG) Could Allow Information Disclosure",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010 Service Pack 1 Update 1",
+    "component_kb": "2649262",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0146,CVE-2012-0147"
+  }
+]

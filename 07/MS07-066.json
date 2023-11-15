@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "12-11-07",
+    "bulletin_id": "MS07-066",
+    "bulletin_kb": "943078",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Allow Elevation of Privilege",
+    "affected_product": "Windows Vista",
+    "component_kb": "943078",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-5350"
+  },
+  {
+    "date_posted": "12-11-07",
+    "bulletin_id": "MS07-066",
+    "bulletin_kb": "943078",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Allow Elevation of Privilege",
+    "affected_product": "Windows Vista x64 Edition",
+    "component_kb": "943078",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-5350"
+  }
+]

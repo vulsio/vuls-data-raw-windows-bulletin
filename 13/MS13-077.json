@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-90009]9/10/2013",
+    "bulletin_id": "MS13-077",
+    "bulletin_kb": "2872339",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Service Control Manager Could Allow Elevation of Privilege",
+    "affected_product": "Windows 7 for 32-bit Systems Service Pack 1",
+    "component_kb": "2872339",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3862"
+  },
+  {
+    "date_posted": "[$-90009]9/10/2013",
+    "bulletin_id": "MS13-077",
+    "bulletin_kb": "2872339",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Service Control Manager Could Allow Elevation of Privilege",
+    "affected_product": "Windows 7 for x64-based Systems Service Pack 1",
+    "component_kb": "2872339",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3862"
+  },
+  {
+    "date_posted": "[$-90009]9/10/2013",
+    "bulletin_id": "MS13-077",
+    "bulletin_kb": "2872339",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Service Control Manager Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+    "component_kb": "2872339",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3862"
+  },
+  {
+    "date_posted": "[$-90009]9/10/2013",
+    "bulletin_id": "MS13-077",
+    "bulletin_kb": "2872339",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Service Control Manager Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1",
+    "component_kb": "2872339",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3862"
+  },
+  {
+    "date_posted": "[$-90009]9/10/2013",
+    "bulletin_id": "MS13-077",
+    "bulletin_kb": "2872339",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Service Control Manager Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+    "component_kb": "2872339",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3862"
+  }
+]

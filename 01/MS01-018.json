@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "03-27-01",
+    "bulletin_id": "MS01-018",
+    "bulletin_kb": "281297",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Visual Studio VB T-SQL Object Contains Unchecked Buffer",
+    "affected_product": "Microsoft Visual Studio 6.0",
+    "component_kb": "281297",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0153"
+  },
+  {
+    "date_posted": "03-27-01",
+    "bulletin_id": "MS01-018",
+    "bulletin_kb": "281297",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Visual Studio VB T-SQL Object Contains Unchecked Buffer",
+    "affected_product": "Microsoft Visual Basic 6.0",
+    "component_kb": "281297",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0153"
+  }
+]

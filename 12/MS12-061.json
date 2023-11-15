@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-90009]9/11/2012",
+    "bulletin_id": "MS12-061",
+    "bulletin_kb": "2719584",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Visual Studio Team Foundation Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Visual Studio Team Foundation Server 2010 Service Pack 1",
+    "component_kb": "2719584",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2012-1892"
+  }
+]

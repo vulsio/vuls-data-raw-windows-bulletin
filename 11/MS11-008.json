@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-20009]2/8/2011",
+    "bulletin_id": "MS11-008",
+    "bulletin_kb": "2451879",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Visio Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Visio 2002 Service Pack 2",
+    "component_kb": "2434711",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-0092,CVE-2011-0093"
+  },
+  {
+    "date_posted": "[$-20009]2/8/2011",
+    "bulletin_id": "MS11-008",
+    "bulletin_kb": "2451879",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Visio Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Visio 2003 Service Pack 3",
+    "component_kb": "2434733",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-0092,CVE-2011-0093"
+  },
+  {
+    "date_posted": "[$-20009]2/8/2011",
+    "bulletin_id": "MS11-008",
+    "bulletin_kb": "2451879",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Visio Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Visio 2007 Service Pack 2",
+    "component_kb": "2434737",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-0092,CVE-2011-0093"
+  }
+]

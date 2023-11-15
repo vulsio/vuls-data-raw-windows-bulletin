@@ -1,0 +1,54 @@
+[
+  {
+    "date_posted": "03-06-01",
+    "bulletin_id": "MS01-015",
+    "bulletin_kb": "279328",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "IE can Divulge Location of Cached Content",
+    "affected_product": "Microsoft Internet Explorer 5.01",
+    "component_kb": "279328",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0002,CAN-2001-0148,CAN-2001-0149,CAN-2001-0150"
+  },
+  {
+    "date_posted": "03-06-01",
+    "bulletin_id": "MS01-015",
+    "bulletin_kb": "279328",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "IE can Divulge Location of Cached Content",
+    "affected_product": "Microsoft Internet Explorer 5.5",
+    "component_kb": "286045",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0002,CAN-2001-0148,CAN-2001-0149,CAN-2001-0150"
+  },
+  {
+    "date_posted": "03-06-01",
+    "bulletin_id": "MS01-015",
+    "bulletin_kb": "279328",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "IE can Divulge Location of Cached Content",
+    "affected_product": "Microsoft Windows Script Host 5.1",
+    "component_kb": "299618",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0002,CAN-2001-0148,CAN-2001-0149,CAN-2001-0150"
+  },
+  {
+    "date_posted": "03-06-01",
+    "bulletin_id": "MS01-015",
+    "bulletin_kb": "279328",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "IE can Divulge Location of Cached Content",
+    "affected_product": "Microsoft Windows Script Host 5.5",
+    "component_kb": "299618",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0002,CAN-2001-0148,CAN-2001-0149,CAN-2001-0150"
+  }
+]

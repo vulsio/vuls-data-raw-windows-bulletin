@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "05-30-03",
+    "bulletin_id": "MS03-019",
+    "bulletin_kb": "817772",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in ISAPI Extension for Windows Media Services Could Cause Code Execution",
+    "affected_product": "Microsoft Windows NT 4.0",
+    "component_kb": "817772",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2003-0227"
+  },
+  {
+    "date_posted": "05-30-03",
+    "bulletin_id": "MS03-019",
+    "bulletin_kb": "817772",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in ISAPI Extension for Windows Media Services Could Cause Code Execution",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "817772",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2003-0227"
+  }
+]

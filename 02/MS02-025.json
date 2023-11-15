@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "05-29-02",
+    "bulletin_id": "MS02-025",
+    "bulletin_kb": "320436",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed Mail Attribute can Cause Exchange 2000 to Exhaust CPU Resources",
+    "affected_product": "Microsoft Exchange Server 2000",
+    "component_kb": "320436",
+    "impact": "Denial of Service",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-0368"
+  }
+]

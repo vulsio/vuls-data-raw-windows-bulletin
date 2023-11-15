@@ -1,0 +1,17 @@
+[
+  {
+    "date_posted": "02-14-06",
+    "bulletin_id": "MS06-004",
+    "bulletin_kb": "910620",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Security Update for Internet Explorer",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "910620",
+    "affected_component": "Microsoft Internet Explorer 5.01 Service Pack 4",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2006-0020"
+  }
+]

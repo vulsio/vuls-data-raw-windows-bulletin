@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-60009]6/14/2016",
+    "bulletin_id": "MS16-071",
+    "bulletin_kb": "3164065",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for Microsoft Windows DNS Server",
+    "affected_product": "Windows Server 2012 R2",
+    "component_kb": "3161951",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3227"
+  },
+  {
+    "date_posted": "[$-60009]6/14/2016",
+    "bulletin_id": "MS16-071",
+    "bulletin_kb": "3164065",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for Microsoft Windows DNS Server",
+    "affected_product": "Windows Server 2012",
+    "component_kb": "3161951",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3227"
+  },
+  {
+    "date_posted": "[$-60009]6/14/2016",
+    "bulletin_id": "MS16-071",
+    "bulletin_kb": "3164065",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for Microsoft Windows DNS Server",
+    "affected_product": "Windows Server 2012 (Server Core installation)",
+    "component_kb": "3161951",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3227"
+  },
+  {
+    "date_posted": "[$-60009]6/14/2016",
+    "bulletin_id": "MS16-071",
+    "bulletin_kb": "3164065",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for Microsoft Windows DNS Server",
+    "affected_product": "Windows Server 2012 R2 (server core installation)",
+    "component_kb": "3161951",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3227"
+  }
+]

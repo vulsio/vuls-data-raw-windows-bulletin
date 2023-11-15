@@ -1,0 +1,15 @@
+[
+  {
+    "date_posted": "09-18-02",
+    "bulletin_id": "MS02-052",
+    "bulletin_kb": "329077",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Microsoft VM JDBC Classes Could Allow Code Execution",
+    "affected_product": "Microsoft Virtual Machine",
+    "component_kb": "329077",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2002-0865,CAN-2002-0866,CAN-2002-0867"
+  }
+]

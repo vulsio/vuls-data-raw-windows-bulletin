@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "10-30-02",
+    "bulletin_id": "MS02-062",
+    "bulletin_kb": "327696",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for Internet Information Service",
+    "affected_product": "Microsoft Internet Information Server 4.0",
+    "component_kb": "327696",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2002-0869,CAN-2002-1180,CAN-2002-1181,CAN-2002-1182"
+  },
+  {
+    "date_posted": "10-30-02",
+    "bulletin_id": "MS02-062",
+    "bulletin_kb": "327696",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for Internet Information Service",
+    "affected_product": "Microsoft Internet Information Services 5.0",
+    "component_kb": "327696",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2002-0869,CAN-2002-1180,CAN-2002-1181,CAN-2002-1182"
+  },
+  {
+    "date_posted": "10-30-02",
+    "bulletin_id": "MS02-062",
+    "bulletin_kb": "327696",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for Internet Information Service",
+    "affected_product": "Microsoft Internet Information Services 5.1",
+    "component_kb": "327696",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2002-0869,CAN-2002-1180,CAN-2002-1181,CAN-2002-1182"
+  }
+]

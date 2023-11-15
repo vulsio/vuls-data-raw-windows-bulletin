@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "10-18-01",
+    "bulletin_id": "MS01-052",
+    "bulletin_kb": "307454",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid RDP Data can Cause Terminal Service Failure",
+    "affected_product": "Microsoft Windows NT Server 4.0 Terminal Server Edition Service Pack 6",
+    "component_kb": "307454",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0663"
+  },
+  {
+    "date_posted": "10-18-01",
+    "bulletin_id": "MS01-052",
+    "bulletin_kb": "307454",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid RDP Data can Cause Terminal Service Failure",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "307454",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0663"
+  },
+  {
+    "date_posted": "10-18-01",
+    "bulletin_id": "MS01-052",
+    "bulletin_kb": "307454",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid RDP Data can Cause Terminal Service Failure",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "307454",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0663"
+  }
+]

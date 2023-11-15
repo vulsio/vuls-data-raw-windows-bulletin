@@ -1,0 +1,62 @@
+[
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-036",
+    "bulletin_kb": "3052044",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft SharePoint Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2013 Service Pack 1",
+    "component_kb": "2965219",
+    "affected_component": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-1640,CVE-2015-16453"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-036",
+    "bulletin_kb": "3052044",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft SharePoint Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2013 Service Pack 1",
+    "component_kb": "2965219",
+    "affected_component": "Microsoft SharePoint Server 2013 Service Pack 1",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-1640,CVE-2015-16453"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-036",
+    "bulletin_kb": "3052044",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft SharePoint Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2010 Service Pack 2",
+    "component_kb": "2965302",
+    "affected_component": "Microsoft Project Server 2010 Service Pack 2",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-1640,CVE-2015-16453"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-036",
+    "bulletin_kb": "3052044",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft SharePoint Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2013 Service Pack 1",
+    "component_kb": "2965278",
+    "affected_component": "Microsoft Project Server 2013 Service Pack 1",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-1640,CVE-2015-16453"
+  }
+]

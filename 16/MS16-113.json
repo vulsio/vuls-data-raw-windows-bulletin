@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-90009]9/13/2016",
+    "bulletin_id": "MS16-113",
+    "bulletin_kb": "3185876",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Security Update for Windows Secure Kernel Mode",
+    "affected_product": "Windows 10 Version 1511 for 32-bit Systems",
+    "component_kb": "3185614",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3344"
+  },
+  {
+    "date_posted": "[$-90009]9/13/2016",
+    "bulletin_id": "MS16-113",
+    "bulletin_kb": "3185876",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Security Update for Windows Secure Kernel Mode",
+    "affected_product": "Windows 10 Version 1511 for x64-based Systems",
+    "component_kb": "3185614",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3344"
+  },
+  {
+    "date_posted": "[$-90009]9/13/2016",
+    "bulletin_id": "MS16-113",
+    "bulletin_kb": "3185876",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Security Update for Windows Secure Kernel Mode",
+    "affected_product": "Windows 10 for x64-based Systems",
+    "component_kb": "3185611",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3344"
+  },
+  {
+    "date_posted": "[$-90009]9/13/2016",
+    "bulletin_id": "MS16-113",
+    "bulletin_kb": "3185876",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Security Update for Windows Secure Kernel Mode",
+    "affected_product": "Windows 10 for 32-bit Systems",
+    "component_kb": "3185611",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3344"
+  }
+]

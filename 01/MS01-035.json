@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-035",
+    "bulletin_kb": "300477",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "FrontPage Server Extension Sub-Component Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows NT 4.0 Service Pack 6a",
+    "component_kb": "300477",
+    "affected_component": "Microsoft Internet Information Server 4.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0341"
+  },
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-035",
+    "bulletin_kb": "300477",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "FrontPage Server Extension Sub-Component Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows NT 4.0 Service Pack 5",
+    "component_kb": "300477",
+    "affected_component": "Microsoft Internet Information Server 4.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0341"
+  },
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-035",
+    "bulletin_kb": "300477",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "FrontPage Server Extension Sub-Component Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "300477",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0341"
+  }
+]

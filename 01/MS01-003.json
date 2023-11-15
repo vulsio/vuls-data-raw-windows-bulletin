@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "01-24-01",
+    "bulletin_id": "MS01-003",
+    "bulletin_kb": "279336",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Weak Permissions on Winsock Mutex Can Allow Service Failure",
+    "affected_product": "Microsoft Windows NT 4.0",
+    "component_kb": "279336",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0006"
+  },
+  {
+    "date_posted": "01-24-01",
+    "bulletin_id": "MS01-003",
+    "bulletin_kb": "279336",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Weak Permissions on Winsock Mutex Can Allow Service Failure",
+    "affected_product": "Microsoft Windows NT Server 4.0 Terminal Server Edition",
+    "component_kb": "279336",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0006"
+  }
+]

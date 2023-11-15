@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-80009]8/13/2013",
+    "bulletin_id": "MS13-064",
+    "bulletin_kb": "2849568",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows NAT Driver Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012",
+    "component_kb": "2849568",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3182"
+  }
+]

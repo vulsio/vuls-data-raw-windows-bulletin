@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-095",
+    "bulletin_kb": "3089665",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Security Update for Microsoft Edge",
+    "affected_product": "Windows 10 for 32-bit Systems",
+    "component_kb": "3081455",
+    "affected_component": "Microsoft Edge",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-2485,CVE-2015-2486,CVE-2015-2494,CVE-2015-2542"
+  },
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-095",
+    "bulletin_kb": "3089665",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Security Update for Microsoft Edge",
+    "affected_product": "Windows 10 for x64-based Systems",
+    "component_kb": "3081455",
+    "affected_component": "Microsoft Edge",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-2485,CVE-2015-2486,CVE-2015-2494,CVE-2015-2542"
+  }
+]

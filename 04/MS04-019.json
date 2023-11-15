@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "06-13-04",
+    "bulletin_id": "MS04-019",
+    "bulletin_kb": "842526",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Utility Manager Could Allow Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "842526",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CAN-2004-0213"
+  },
+  {
+    "date_posted": "06-13-04",
+    "bulletin_id": "MS04-019",
+    "bulletin_kb": "842526",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Utility Manager Could Allow Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 3",
+    "component_kb": "842526",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CAN-2004-0213"
+  },
+  {
+    "date_posted": "06-13-04",
+    "bulletin_id": "MS04-019",
+    "bulletin_kb": "842526",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Utility Manager Could Allow Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "842526",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CAN-2004-0213"
+  }
+]

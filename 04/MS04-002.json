@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "01-13-04",
+    "bulletin_id": "MS04-002",
+    "bulletin_kb": "832759",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Exchange Server 2003 Could Lead to Privilege Escalation",
+    "affected_product": "Microsoft Exchange Server 2003",
+    "component_kb": "832759",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2003-0904"
+  }
+]

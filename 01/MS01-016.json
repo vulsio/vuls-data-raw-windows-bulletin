@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "03-08-01",
+    "bulletin_id": "MS01-016",
+    "bulletin_kb": "291845",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed WebDAV Request Can Cause IIS to Exhaust CPU Resources",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "291845",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0151"
+  },
+  {
+    "date_posted": "03-08-01",
+    "bulletin_id": "MS01-016",
+    "bulletin_kb": "291845",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed WebDAV Request Can Cause IIS to Exhaust CPU Resources",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "291845",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0151"
+  }
+]

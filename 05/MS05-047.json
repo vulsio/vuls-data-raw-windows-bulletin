@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-047",
+    "bulletin_kb": "905749",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Plug and Play Could Allow Remote Code Execution and Local Elevation of Privilege",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "905749",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-2120"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-047",
+    "bulletin_kb": "905749",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Plug and Play Could Allow Remote Code Execution and Local Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "905749",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-2120"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-047",
+    "bulletin_kb": "905749",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Plug and Play Could Allow Remote Code Execution and Local Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "905749",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-2120"
+  }
+]

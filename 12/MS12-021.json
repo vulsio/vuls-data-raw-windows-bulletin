@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-30009]3/13/2012",
+    "bulletin_id": "MS12-021",
+    "bulletin_kb": "2651019",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Visual Studio Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Visual Studio 2008 Service Pack 1",
+    "component_kb": "2669970",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0008"
+  },
+  {
+    "date_posted": "[$-30009]3/13/2012",
+    "bulletin_id": "MS12-021",
+    "bulletin_kb": "2651019",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Visual Studio Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Visual Studio 2010",
+    "component_kb": "2644980",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0008"
+  },
+  {
+    "date_posted": "[$-30009]3/13/2012",
+    "bulletin_id": "MS12-021",
+    "bulletin_kb": "2651019",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Visual Studio Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Visual Studio 2010 Service Pack 1",
+    "component_kb": "2645410",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0008"
+  }
+]

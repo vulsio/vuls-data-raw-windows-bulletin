@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "07-10-02",
+    "bulletin_id": "MS02-035",
+    "bulletin_kb": "263968",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "SQL Server Installation Process May Leave Passwords on System",
+    "affected_product": "Microsoft SQL Server 7.0",
+    "component_kb": "263968",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0643"
+  },
+  {
+    "date_posted": "07-10-02",
+    "bulletin_id": "MS02-035",
+    "bulletin_kb": "263968",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "SQL Server Installation Process May Leave Passwords on System",
+    "affected_product": "Microsoft SQL Server 2000",
+    "component_kb": "263968",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0643"
+  },
+  {
+    "date_posted": "07-10-02",
+    "bulletin_id": "MS02-035",
+    "bulletin_kb": "263968",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "SQL Server Installation Process May Leave Passwords on System",
+    "affected_product": "Microsoft Data Engine 1.0",
+    "component_kb": "263968",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0643"
+  }
+]

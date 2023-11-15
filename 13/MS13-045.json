@@ -1,0 +1,29 @@
+[
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-045",
+    "bulletin_kb": "2813707",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Windows Essentials Could Allow Information Disclosure",
+    "affected_product": "Windows Essentials 2011",
+    "component_kb": "2813707",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "cves": "CVE-2013-0096"
+  },
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-045",
+    "bulletin_kb": "2813707",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Windows Essentials Could Allow Information Disclosure",
+    "affected_product": "Windows Essentials 2012",
+    "component_kb": "2813707",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2013-0096"
+  }
+]

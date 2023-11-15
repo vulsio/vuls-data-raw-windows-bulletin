@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "02-05-01",
+    "bulletin_id": "MS01-007",
+    "bulletin_kb": "285851",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Network DDE Agent Requests Can Enable Code to Run in System Context",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "285851",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "cves": "CAN-2001-0015"
+  },
+  {
+    "date_posted": "02-05-01",
+    "bulletin_id": "MS01-007",
+    "bulletin_kb": "285851",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Network DDE Agent Requests Can Enable Code to Run in System Context",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "285851",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "cves": "CAN-2001-0015"
+  }
+]

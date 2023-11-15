@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "12-11-07",
+    "bulletin_id": "MS07-065",
+    "bulletin_kb": "937894",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Message Queuing Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "937894",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-3039"
+  },
+  {
+    "date_posted": "12-11-07",
+    "bulletin_id": "MS07-065",
+    "bulletin_kb": "937894",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Message Queuing Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "937894",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2007-3039"
+  }
+]

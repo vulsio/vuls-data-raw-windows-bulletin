@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "06-04-03",
+    "bulletin_id": "MS03-020",
+    "bulletin_kb": "818529",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for Internet Explorer",
+    "affected_product": "Microsoft Internet Explorer 5.01",
+    "component_kb": "818529",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0309,CAN-2003-0344"
+  },
+  {
+    "date_posted": "06-04-03",
+    "bulletin_id": "MS03-020",
+    "bulletin_kb": "818529",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for Internet Explorer",
+    "affected_product": "Microsoft Internet Explorer 5.5",
+    "component_kb": "818529",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0309,CAN-2003-0344"
+  },
+  {
+    "date_posted": "06-04-03",
+    "bulletin_id": "MS03-020",
+    "bulletin_kb": "818529",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for Internet Explorer",
+    "affected_product": "Microsoft Internet Explorer 6.0",
+    "component_kb": "818529",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0309,CAN-2003-0344"
+  },
+  {
+    "date_posted": "06-04-03",
+    "bulletin_id": "MS03-020",
+    "bulletin_kb": "818529",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for Internet Explorer",
+    "affected_product": "Microsoft Internet Explorer 6.0",
+    "component_kb": "818529",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0309,CAN-2003-0344"
+  }
+]

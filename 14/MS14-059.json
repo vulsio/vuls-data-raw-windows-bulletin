@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-100009]10/14/2014",
+    "bulletin_id": "MS14-059",
+    "bulletin_kb": "2990942",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in ASP.NET MVC Could Allow Security Feature Bypass",
+    "affected_product": "ASP.NET MVC 4.0",
+    "component_kb": "2993928",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4075"
+  },
+  {
+    "date_posted": "[$-100009]10/14/2014",
+    "bulletin_id": "MS14-059",
+    "bulletin_kb": "2990942",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in ASP.NET MVC Could Allow Security Feature Bypass",
+    "affected_product": "ASP.NET MVC 2.0",
+    "component_kb": "2993939",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4075"
+  },
+  {
+    "date_posted": "[$-100009]10/14/2014",
+    "bulletin_id": "MS14-059",
+    "bulletin_kb": "2990942",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in ASP.NET MVC Could Allow Security Feature Bypass",
+    "affected_product": "ASP.NET MVC 3.0",
+    "component_kb": "2993937",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4075"
+  },
+  {
+    "date_posted": "[$-100009]10/14/2014",
+    "bulletin_id": "MS14-059",
+    "bulletin_kb": "2990942",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in ASP.NET MVC Could Allow Security Feature Bypass",
+    "affected_product": "ASP.NET MVC 5.1",
+    "component_kb": "2994397",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4075"
+  },
+  {
+    "date_posted": "[$-100009]10/14/2014",
+    "bulletin_id": "MS14-059",
+    "bulletin_kb": "2990942",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in ASP.NET MVC Could Allow Security Feature Bypass",
+    "affected_product": "ASP.NET MVC 5.0",
+    "component_kb": "2992080",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4075"
+  }
+]

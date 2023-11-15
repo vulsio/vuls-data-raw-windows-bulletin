@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "03-01-01",
+    "bulletin_id": "MS01-014",
+    "bulletin_kb": "286818",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed URL can Cause Service Failure in IIS 5.0 and Exchange 2000",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "286818",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0146"
+  },
+  {
+    "date_posted": "03-01-01",
+    "bulletin_id": "MS01-014",
+    "bulletin_kb": "286818",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed URL can Cause Service Failure in IIS 5.0 and Exchange 2000",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "286818",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0146"
+  },
+  {
+    "date_posted": "03-01-01",
+    "bulletin_id": "MS01-014",
+    "bulletin_kb": "286818",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed URL can Cause Service Failure in IIS 5.0 and Exchange 2000",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "287678",
+    "affected_component": "Microsoft Exchange Server 2000",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0146"
+  },
+  {
+    "date_posted": "03-01-01",
+    "bulletin_id": "MS01-014",
+    "bulletin_kb": "286818",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed URL can Cause Service Failure in IIS 5.0 and Exchange 2000",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "287678",
+    "affected_component": "Microsoft Exchange Server 2000",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0146"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "10-10-01",
+    "bulletin_id": "MS01-051",
+    "bulletin_kb": "306121",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Malformed Dotless IP Address Can Cause Web Page to be Handled in Intranet Zone",
+    "affected_product": "Microsoft Internet Explorer 5.01",
+    "component_kb": "306121",
+    "impact": "Spoofing",
+    "severity": "None",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0664,CAN-2001-0665,CAN-2001-0667"
+  },
+  {
+    "date_posted": "10-10-01",
+    "bulletin_id": "MS01-051",
+    "bulletin_kb": "306121",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Malformed Dotless IP Address Can Cause Web Page to be Handled in Intranet Zone",
+    "affected_product": "Microsoft Internet Explorer 5.5",
+    "component_kb": "306121",
+    "impact": "Spoofing",
+    "severity": "None",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0664,CAN-2001-0665,CAN-2001-0667"
+  },
+  {
+    "date_posted": "10-10-01",
+    "bulletin_id": "MS01-051",
+    "bulletin_kb": "306121",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Malformed Dotless IP Address Can Cause Web Page to be Handled in Intranet Zone",
+    "affected_product": "Microsoft Internet Explorer 5.5 Service Pack 2",
+    "component_kb": "306121",
+    "impact": "Spoofing",
+    "severity": "None",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0664,CAN-2001-0665,CAN-2001-0667"
+  },
+  {
+    "date_posted": "10-10-01",
+    "bulletin_id": "MS01-051",
+    "bulletin_kb": "306121",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Malformed Dotless IP Address Can Cause Web Page to be Handled in Intranet Zone",
+    "affected_product": "Microsoft Internet Explorer 6.0",
+    "component_kb": "306121",
+    "impact": "Spoofing",
+    "severity": "None",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0664,CAN-2001-0665,CAN-2001-0667"
+  }
+]

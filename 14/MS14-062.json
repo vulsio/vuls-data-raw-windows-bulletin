@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-100009]10/14/2014",
+    "bulletin_id": "MS14-062",
+    "bulletin_kb": "2993254",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Message Queuing Service Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "2993254",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-4971"
+  },
+  {
+    "date_posted": "[$-100009]10/14/2014",
+    "bulletin_id": "MS14-062",
+    "bulletin_kb": "2993254",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Message Queuing Service Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 x64 Edition Service Pack 2",
+    "component_kb": "2993254",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-4971"
+  },
+  {
+    "date_posted": "[$-100009]10/14/2014",
+    "bulletin_id": "MS14-062",
+    "bulletin_kb": "2993254",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Message Queuing Service Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2",
+    "component_kb": "2993254",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-4971"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "07-24-02",
+    "bulletin_id": "MS02-037",
+    "bulletin_kb": "326322",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Server Response To SMTP Client EHLO Command Results In Buffer Overrun",
+    "affected_product": "Microsoft Exchange Server 5.5",
+    "component_kb": "326322",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0698"
+  }
+]

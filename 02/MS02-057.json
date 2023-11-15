@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "10-02-02",
+    "bulletin_id": "MS02-057",
+    "bulletin_kb": "329209",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Services for Unix 3.0 Interix SDK Could Allow Code Execution",
+    "affected_product": "Microsoft Windows NT4",
+    "component_kb": "329209",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0391,CAN-2002-1140,CAN-2002-1141"
+  },
+  {
+    "date_posted": "10-02-02",
+    "bulletin_id": "MS02-057",
+    "bulletin_kb": "329209",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Services for Unix 3.0 Interix SDK Could Allow Code Execution",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "329209",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0391,CAN-2002-1140,CAN-2002-1141"
+  },
+  {
+    "date_posted": "10-02-02",
+    "bulletin_id": "MS02-057",
+    "bulletin_kb": "329209",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Services for Unix 3.0 Interix SDK Could Allow Code Execution",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "329209",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0391,CAN-2002-1140,CAN-2002-1141"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date_posted": "12-20-01",
+    "bulletin_id": "MS01-059",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Universal Plug and Play can Lead to System Compromise",
+    "affected_product": "Microsoft Windows 98",
+    "component_kb": "314941",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0876,CAN-2001-0877"
+  },
+  {
+    "date_posted": "12-20-01",
+    "bulletin_id": "MS01-059",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Universal Plug and Play can Lead to System Compromise",
+    "affected_product": "Microsoft Windows 98 Second Edition",
+    "component_kb": "314941",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0876,CAN-2001-0877"
+  },
+  {
+    "date_posted": "12-20-01",
+    "bulletin_id": "MS01-059",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Universal Plug and Play can Lead to System Compromise",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "314757",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0876,CAN-2001-0877"
+  },
+  {
+    "date_posted": "12-20-01",
+    "bulletin_id": "MS01-059",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Universal Plug and Play can Lead to System Compromise",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "315000",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0876,CAN-2001-0877"
+  }
+]

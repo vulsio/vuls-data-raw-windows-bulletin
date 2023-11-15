@@ -1,0 +1,80 @@
+[
+  {
+    "date_posted": "07-23-01",
+    "bulletin_id": "MS01-039",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Services for Unix 2.0 Telnet and NFS Services Contain Memory Leaks",
+    "affected_product": "Microsoft Windows NT 4.0 Service Pack 6a",
+    "component_kb": "294380",
+    "affected_component": "Microsoft Windows Services for UNIX 2.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0505"
+  },
+  {
+    "date_posted": "07-23-01",
+    "bulletin_id": "MS01-039",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Services for Unix 2.0 Telnet and NFS Services Contain Memory Leaks",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "294380",
+    "affected_component": "Microsoft Windows Services for UNIX 2.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0505"
+  },
+  {
+    "date_posted": "07-23-01",
+    "bulletin_id": "MS01-039",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Services for Unix 2.0 Telnet and NFS Services Contain Memory Leaks",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "294380",
+    "affected_component": "Microsoft Windows Services for UNIX 2.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0505"
+  },
+  {
+    "date_posted": "07-23-01",
+    "bulletin_id": "MS01-039",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Services for Unix 2.0 Telnet and NFS Services Contain Memory Leaks",
+    "affected_product": "Microsoft Windows NT 4.0 Service Pack 6a",
+    "component_kb": "301514",
+    "affected_component": "Microsoft Windows Services for UNIX 2.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0505"
+  },
+  {
+    "date_posted": "07-23-01",
+    "bulletin_id": "MS01-039",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Services for Unix 2.0 Telnet and NFS Services Contain Memory Leaks",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "301514",
+    "affected_component": "Microsoft Windows Services for UNIX 2.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0505"
+  },
+  {
+    "date_posted": "07-23-01",
+    "bulletin_id": "MS01-039",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Services for Unix 2.0 Telnet and NFS Services Contain Memory Leaks",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "301514",
+    "affected_component": "Microsoft Windows Services for UNIX 2.0",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0505"
+  }
+]

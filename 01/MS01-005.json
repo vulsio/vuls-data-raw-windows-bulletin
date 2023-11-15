@@ -1,0 +1,74 @@
+[
+  {
+    "date_posted": "01-30-01",
+    "bulletin_id": "MS01-005",
+    "bulletin_kb": "285083",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Bypass",
+    "title": "Packaging Anomaly Could Cause Hotfixes to be Removed",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "285083",
+    "impact": "Security Bypass",
+    "severity": "Important"
+  },
+  {
+    "date_posted": "01-30-01",
+    "bulletin_id": "MS01-005",
+    "bulletin_kb": "285083",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Bypass",
+    "title": "Packaging Anomaly Could Cause Hotfixes to be Removed",
+    "affected_product": "Microsoft Windows 2000 Advanced Server",
+    "component_kb": "285083",
+    "impact": "Security Bypass",
+    "severity": "Important"
+  },
+  {
+    "date_posted": "01-30-01",
+    "bulletin_id": "MS01-005",
+    "bulletin_kb": "285083",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Bypass",
+    "title": "Packaging Anomaly Could Cause Hotfixes to be Removed",
+    "affected_product": "Microsoft Windows 2000 Datacenter Server",
+    "component_kb": "285083",
+    "impact": "Security Bypass",
+    "severity": "Important"
+  },
+  {
+    "date_posted": "01-30-01",
+    "bulletin_id": "MS01-005",
+    "bulletin_kb": "285083",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Bypass",
+    "title": "Packaging Anomaly Could Cause Hotfixes to be Removed",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "285083",
+    "impact": "Security Bypass",
+    "severity": "Important"
+  },
+  {
+    "date_posted": "01-30-01",
+    "bulletin_id": "MS01-005",
+    "bulletin_kb": "285083",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Bypass",
+    "title": "Packaging Anomaly Could Cause Hotfixes to be Removed",
+    "affected_product": "Microsoft Windows 2000 Advanced Server Service Pack 1",
+    "component_kb": "285083",
+    "impact": "Security Bypass",
+    "severity": "Important"
+  },
+  {
+    "date_posted": "01-30-01",
+    "bulletin_id": "MS01-005",
+    "bulletin_kb": "285083",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Bypass",
+    "title": "Packaging Anomaly Could Cause Hotfixes to be Removed",
+    "affected_product": "Microsoft Windows 2000 Datacenter Server Service Pack 1",
+    "component_kb": "285083",
+    "impact": "Security Bypass",
+    "severity": "Important"
+  }
+]

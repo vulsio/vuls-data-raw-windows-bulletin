@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-50009]5/10/2016",
+    "bulletin_id": "MS16-066",
+    "bulletin_kb": "3155451",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Security Update for Virtual Secure Mode",
+    "affected_product": "Windows 10 for 32-bit Systems",
+    "component_kb": "3156387",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-0181"
+  },
+  {
+    "date_posted": "[$-50009]5/10/2016",
+    "bulletin_id": "MS16-066",
+    "bulletin_kb": "3155451",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Security Update for Virtual Secure Mode",
+    "affected_product": "Windows 10 for x64-based Systems",
+    "component_kb": "3156387",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-0181"
+  },
+  {
+    "date_posted": "[$-50009]5/10/2016",
+    "bulletin_id": "MS16-066",
+    "bulletin_kb": "3155451",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Security Update for Virtual Secure Mode",
+    "affected_product": "Windows 10 Version 1511 for 32-bit Systems",
+    "component_kb": "3156421",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-0181"
+  },
+  {
+    "date_posted": "[$-50009]5/10/2016",
+    "bulletin_id": "MS16-066",
+    "bulletin_kb": "3155451",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Security Update for Virtual Secure Mode",
+    "affected_product": "Windows 10 Version 1511 for x64-based Systems",
+    "component_kb": "3156421",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-0181"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date_posted": "[$-70009]7/12/2016",
+    "bulletin_id": "MS16-085",
+    "bulletin_kb": "3169999",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Security Update for Microsoft Edge",
+    "affected_product": "Windows 10 for 32-bit Systems",
+    "component_kb": "3163912",
+    "affected_component": "Microsoft Edge",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3244,CVE-2016-3246,CVE-2016-3248,CVE-2016-3259,CVE-2016-3260,CVE-2016-3264,CVE-2016-3265,CVE-2016-3269,CVE-2016-3271,CVE-2016-3273,CVE-2016-3274,CVE-2016-3276,CVE-2016-3277"
+  },
+  {
+    "date_posted": "[$-70009]7/12/2016",
+    "bulletin_id": "MS16-085",
+    "bulletin_kb": "3169999",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Security Update for Microsoft Edge",
+    "affected_product": "Windows 10 for x64-based Systems",
+    "component_kb": "3163912",
+    "affected_component": "Microsoft Edge",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3244,CVE-2016-3246,CVE-2016-3248,CVE-2016-3259,CVE-2016-3260,CVE-2016-3264,CVE-2016-3265,CVE-2016-3269,CVE-2016-3271,CVE-2016-3273,CVE-2016-3274,CVE-2016-3276,CVE-2016-3277"
+  },
+  {
+    "date_posted": "[$-70009]7/12/2016",
+    "bulletin_id": "MS16-085",
+    "bulletin_kb": "3169999",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Security Update for Microsoft Edge",
+    "affected_product": "Windows 10 Version 1511 for 32-bit Systems",
+    "component_kb": "3172985",
+    "affected_component": "Microsoft Edge",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3244,CVE-2016-3246,CVE-2016-3248,CVE-2016-3259,CVE-2016-3260,CVE-2016-3264,CVE-2016-3265,CVE-2016-3269,CVE-2016-3271,CVE-2016-3273,CVE-2016-3274,CVE-2016-3276,CVE-2016-3277"
+  },
+  {
+    "date_posted": "[$-70009]7/12/2016",
+    "bulletin_id": "MS16-085",
+    "bulletin_kb": "3169999",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Security Update for Microsoft Edge",
+    "affected_product": "Windows 10 Version 1511 for x64-based Systems",
+    "component_kb": "3172985",
+    "affected_component": "Microsoft Edge",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3244,CVE-2016-3246,CVE-2016-3248,CVE-2016-3259,CVE-2016-3260,CVE-2016-3264,CVE-2016-3265,CVE-2016-3269,CVE-2016-3271,CVE-2016-3273,CVE-2016-3274,CVE-2016-3276,CVE-2016-3277"
+  }
+]

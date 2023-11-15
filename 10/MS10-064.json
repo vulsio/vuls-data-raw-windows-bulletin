@@ -1,0 +1,47 @@
+[
+  {
+    "date_posted": "[$-90009]9/14/2010",
+    "bulletin_id": "MS10-064",
+    "bulletin_kb": "2315011",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Outlook Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office XP Service Pack 3",
+    "component_kb": "2293422",
+    "affected_component": "Microsoft Outlook 2002 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2728"
+  },
+  {
+    "date_posted": "[$-90009]9/14/2010",
+    "bulletin_id": "MS10-064",
+    "bulletin_kb": "2315011",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Outlook Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 3",
+    "component_kb": "2293428",
+    "affected_component": "Microsoft Outlook 2003 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2728"
+  },
+  {
+    "date_posted": "[$-90009]9/14/2010",
+    "bulletin_id": "MS10-064",
+    "bulletin_kb": "2315011",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Outlook Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2007 Service Pack 2",
+    "component_kb": "2288953",
+    "affected_component": "Microsoft Outlook 2007 Service Pack 2",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2728"
+  }
+]

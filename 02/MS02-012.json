@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "02-27-02",
+    "bulletin_id": "MS02-012",
+    "bulletin_kb": "313450",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed Data Transfer Request can Cause Windows SMTP Service to Fail",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "313450",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0055"
+  },
+  {
+    "date_posted": "02-27-02",
+    "bulletin_id": "MS02-012",
+    "bulletin_kb": "313450",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed Data Transfer Request can Cause Windows SMTP Service to Fail",
+    "affected_product": "Microsoft Windows XP Professional",
+    "component_kb": "313450",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0055"
+  },
+  {
+    "date_posted": "02-27-02",
+    "bulletin_id": "MS02-012",
+    "bulletin_kb": "313450",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed Data Transfer Request can Cause Windows SMTP Service to Fail",
+    "affected_product": "Microsoft Exchange Server 2000",
+    "component_kb": "313450",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0055"
+  }
+]

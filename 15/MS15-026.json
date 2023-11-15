@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-30009]3/10/2015",
+    "bulletin_id": "MS15-026",
+    "bulletin_kb": "3040856",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft Exchange Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Exchange Server 2013 Cumulative Update 7",
+    "component_kb": "3040856",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-1628,CVE-2015-1629,CVE-2015-1630,CVE-2015-1631,CVE-2015-1632"
+  },
+  {
+    "date_posted": "[$-30009]3/10/2015",
+    "bulletin_id": "MS15-026",
+    "bulletin_kb": "3040856",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft Exchange Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Exchange Server 2013 Service Pack 1",
+    "component_kb": "3040856",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-1628,CVE-2015-1629,CVE-2015-1630,CVE-2015-1631,CVE-2015-1632"
+  }
+]

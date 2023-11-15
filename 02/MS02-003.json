@@ -1,0 +1,15 @@
+[
+  {
+    "date_posted": "02-07-02",
+    "bulletin_id": "MS02-003",
+    "bulletin_kb": "316056",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Defense in Depth",
+    "title": "Exchange 2000 System Attendant Incorrectly Sets Remote Registry Permissions",
+    "affected_product": "Microsoft Exchange Server 2000",
+    "component_kb": "316056",
+    "impact": "Defense in Depth",
+    "severity": "Low",
+    "cves": "CAN-2002-0049"
+  }
+]

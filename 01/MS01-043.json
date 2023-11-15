@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "08-14-01",
+    "bulletin_id": "MS01-043",
+    "bulletin_kb": "303984",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "System administrators offering newsgroup services via Microsoft® Windows NT® 4.0, Windows® 2000, or Exchange 2000.",
+    "affected_product": "Microsoft Windows NT Server 4.0 Service Pack 6a",
+    "component_kb": "303984",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0543"
+  },
+  {
+    "date_posted": "08-14-01",
+    "bulletin_id": "MS01-043",
+    "bulletin_kb": "303984",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "System administrators offering newsgroup services via Microsoft® Windows NT® 4.0, Windows® 2000, or Exchange 2000.",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "303984",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0543"
+  },
+  {
+    "date_posted": "08-14-01",
+    "bulletin_id": "MS01-043",
+    "bulletin_kb": "303984",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "System administrators offering newsgroup services via Microsoft® Windows NT® 4.0, Windows® 2000, or Exchange 2000.",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "303984",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0543"
+  },
+  {
+    "date_posted": "08-14-01",
+    "bulletin_id": "MS01-043",
+    "bulletin_kb": "303984",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "System administrators offering newsgroup services via Microsoft® Windows NT® 4.0, Windows® 2000, or Exchange 2000.",
+    "affected_product": "Microsoft Exchange 2000",
+    "component_kb": "303984",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0543"
+  }
+]

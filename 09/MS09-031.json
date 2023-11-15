@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-70009]7/14/2009",
+    "bulletin_id": "MS09-031",
+    "bulletin_kb": "970953",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft ISA Server 2006 Could Cause Elevation of Privilege",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2006",
+    "component_kb": "970811",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2009-1135"
+  },
+  {
+    "date_posted": "[$-70009]7/14/2009",
+    "bulletin_id": "MS09-031",
+    "bulletin_kb": "970953",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft ISA Server 2006 Could Cause Elevation of Privilege",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2006 Supportability Update",
+    "component_kb": "970811",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2009-1135"
+  },
+  {
+    "date_posted": "[$-70009]7/14/2009",
+    "bulletin_id": "MS09-031",
+    "bulletin_kb": "970953",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft ISA Server 2006 Could Cause Elevation of Privilege",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2006 Service Pack 1",
+    "component_kb": "971143",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2009-1135"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-042",
+    "bulletin_kb": "3047234",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows Hyper-V Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012 R2 (server core installation)",
+    "component_kb": "3047234",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-1647"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-042",
+    "bulletin_kb": "3047234",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows Hyper-V Could Allow Denial of Service",
+    "affected_product": "Windows 8.1 for x64-based systems",
+    "component_kb": "3047234",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-1647"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-042",
+    "bulletin_kb": "3047234",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows Hyper-V Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012 R2",
+    "component_kb": "3047234",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-1647"
+  }
+]

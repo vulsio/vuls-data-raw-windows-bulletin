@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "07-10-02",
+    "bulletin_id": "MS02-034",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for SQL Server",
+    "affected_product": "Microsoft SQL Server 2000",
+    "component_kb": "316333",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0641,CAN-2002-0642,CAN-2002-0674"
+  },
+  {
+    "date_posted": "07-10-02",
+    "bulletin_id": "MS02-034",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patch for SQL Server",
+    "affected_product": "Microsoft SQL Server 2000 Desktop Engine (MSDE)",
+    "component_kb": "316333",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0641,CAN-2002-0642,CAN-2002-0674"
+  }
+]

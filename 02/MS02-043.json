@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "08-14-02",
+    "bulletin_id": "MS02-043",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Cumulative Patch for SQL Server",
+    "affected_product": "Microsoft SQL Server 7.0",
+    "component_kb": "316333",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0721"
+  },
+  {
+    "date_posted": "08-14-02",
+    "bulletin_id": "MS02-043",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Cumulative Patch for SQL Server",
+    "affected_product": "Microsoft Data Engine (MSDE) 1.0",
+    "component_kb": "316333",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0721"
+  },
+  {
+    "date_posted": "08-14-02",
+    "bulletin_id": "MS02-043",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Cumulative Patch for SQL Server",
+    "affected_product": "Microsoft SQL Server 2000",
+    "component_kb": "316333",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0721"
+  },
+  {
+    "date_posted": "08-14-02",
+    "bulletin_id": "MS02-043",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Cumulative Patch for SQL Server",
+    "affected_product": "Microsoft SQL Server 2000 Desktop Engine (MSDE)",
+    "component_kb": "316333",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0721"
+  }
+]

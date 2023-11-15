@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "12-13-05",
+    "bulletin_id": "MS05-055",
+    "bulletin_kb": "908523",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "908523",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-2827"
+  }
+]

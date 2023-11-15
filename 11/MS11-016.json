@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-30009]3/8/2011",
+    "bulletin_id": "MS11-016",
+    "bulletin_kb": "2494047",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Groove Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Groove 2007 Service Pack 2",
+    "component_kb": "2494047",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-3146"
+  }
+]

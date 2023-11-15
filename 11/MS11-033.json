@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-40009]4/12/2011",
+    "bulletin_id": "MS11-033",
+    "bulletin_kb": "2485663",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in WordPad Text Converters Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "2485663",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-0028"
+  },
+  {
+    "date_posted": "[$-40009]4/12/2011",
+    "bulletin_id": "MS11-033",
+    "bulletin_kb": "2485663",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in WordPad Text Converters Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition Service Pack 2",
+    "component_kb": "2485663",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-0028"
+  },
+  {
+    "date_posted": "[$-40009]4/12/2011",
+    "bulletin_id": "MS11-033",
+    "bulletin_kb": "2485663",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in WordPad Text Converters Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "2485663",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-0028"
+  },
+  {
+    "date_posted": "[$-40009]4/12/2011",
+    "bulletin_id": "MS11-033",
+    "bulletin_kb": "2485663",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in WordPad Text Converters Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 x64 Edition Service Pack 2",
+    "component_kb": "2485663",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-0028"
+  },
+  {
+    "date_posted": "[$-40009]4/12/2011",
+    "bulletin_id": "MS11-033",
+    "bulletin_kb": "2485663",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in WordPad Text Converters Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2",
+    "component_kb": "2485663",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-0028"
+  }
+]

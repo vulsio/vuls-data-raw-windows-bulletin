@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-20009]2/9/2010",
+    "bulletin_id": "MS10-003",
+    "bulletin_kb": "978214",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Office (MSO) Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office XP Service Pack 3",
+    "component_kb": "977896",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0243"
+  },
+  {
+    "date_posted": "[$-20009]2/9/2010",
+    "bulletin_id": "MS10-003",
+    "bulletin_kb": "978214",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Office (MSO) Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2004 for Mac",
+    "component_kb": "979674",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2010-0243"
+  }
+]

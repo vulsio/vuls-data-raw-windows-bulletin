@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "10-02-02",
+    "bulletin_id": "MS02-054",
+    "bulletin_kb": "329048",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in File Decompression Functions Could Lead to Code Execution",
+    "affected_product": "Microsoft Windows 98 with Plus! Pack",
+    "component_kb": "329048",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0370,CAN-2002-1139"
+  },
+  {
+    "date_posted": "10-02-02",
+    "bulletin_id": "MS02-054",
+    "bulletin_kb": "329048",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in File Decompression Functions Could Lead to Code Execution",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "329048",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0370,CAN-2002-1139"
+  },
+  {
+    "date_posted": "10-02-02",
+    "bulletin_id": "MS02-054",
+    "bulletin_kb": "329048",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in File Decompression Functions Could Lead to Code Execution",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "329048",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0370,CAN-2002-1139"
+  }
+]

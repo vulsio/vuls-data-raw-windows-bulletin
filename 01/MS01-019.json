@@ -1,0 +1,41 @@
+[
+  {
+    "date_posted": "03-28-01",
+    "bulletin_id": "MS01-019",
+    "bulletin_kb": "252694",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Passwords for Compressed Folders are Recoverable",
+    "affected_product": "Microsoft Windows 98",
+    "component_kb": "252694",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0152"
+  },
+  {
+    "date_posted": "03-28-01",
+    "bulletin_id": "MS01-019",
+    "bulletin_kb": "252694",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Passwords for Compressed Folders are Recoverable",
+    "affected_product": "Microsoft Windows 98 Second Edition",
+    "component_kb": "252694",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0152"
+  },
+  {
+    "date_posted": "03-28-01",
+    "bulletin_id": "MS01-019",
+    "bulletin_kb": "252694",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Passwords for Compressed Folders are Recoverable",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "252694",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "cves": "CAN-2001-0152"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "06-25-03",
+    "bulletin_id": "MS03-022",
+    "bulletin_kb": "822343",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in ISAPI Extension for Windows Media Services Could Cause Code Execution",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "822343",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2003-0349"
+  }
+]

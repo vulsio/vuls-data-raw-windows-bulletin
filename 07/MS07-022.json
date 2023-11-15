@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "04-10-07",
+    "bulletin_id": "MS07-022",
+    "bulletin_kb": "931784",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "931784",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-1206"
+  },
+  {
+    "date_posted": "04-10-07",
+    "bulletin_id": "MS07-022",
+    "bulletin_kb": "931784",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "931784",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-1206"
+  },
+  {
+    "date_posted": "04-10-07",
+    "bulletin_id": "MS07-022",
+    "bulletin_kb": "931784",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003",
+    "component_kb": "931784",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-1206"
+  },
+  {
+    "date_posted": "04-10-07",
+    "bulletin_id": "MS07-022",
+    "bulletin_kb": "931784",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 1",
+    "component_kb": "931784",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-1206"
+  },
+  {
+    "date_posted": "04-10-07",
+    "bulletin_id": "MS07-022",
+    "bulletin_kb": "931784",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "931784",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-1206"
+  }
+]

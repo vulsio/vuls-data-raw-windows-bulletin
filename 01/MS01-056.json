@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "11-20-01",
+    "bulletin_id": "MS01-056",
+    "bulletin_kb": "308567",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .ASF Processor Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows Media Player 6.4",
+    "component_kb": "308567",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2001-0719"
+  },
+  {
+    "date_posted": "11-20-01",
+    "bulletin_id": "MS01-056",
+    "bulletin_kb": "308567",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .ASF Processor Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows Media Player 7",
+    "component_kb": "308567",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2001-0719"
+  },
+  {
+    "date_posted": "11-20-01",
+    "bulletin_id": "MS01-056",
+    "bulletin_kb": "308567",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .ASF Processor Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows Media Player 7.1",
+    "component_kb": "308567",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2001-0719"
+  },
+  {
+    "date_posted": "11-20-01",
+    "bulletin_id": "MS01-056",
+    "bulletin_kb": "308567",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .ASF Processor Contains Unchecked Buffer",
+    "affected_product": "Windows Media Player for Windows XP",
+    "component_kb": "308567",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2001-0719"
+  }
+]

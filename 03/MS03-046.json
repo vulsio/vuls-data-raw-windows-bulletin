@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "10-15-03",
+    "bulletin_id": "MS03-046",
+    "bulletin_kb": "829436",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Exchange Server Could Allow Arbitrary Code Execution",
+    "affected_product": "Microsoft Exchange Server 5.0, Service Pack 2",
+    "component_kb": "829436",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2003-0714"
+  },
+  {
+    "date_posted": "10-15-03",
+    "bulletin_id": "MS03-046",
+    "bulletin_kb": "829436",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Exchange Server Could Allow Arbitrary Code Execution",
+    "affected_product": "Microsoft Exchange Server 5.5 Service Pack 4",
+    "component_kb": "829436",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2003-0714"
+  },
+  {
+    "date_posted": "10-15-03",
+    "bulletin_id": "MS03-046",
+    "bulletin_kb": "829436",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Exchange Server Could Allow Arbitrary Code Execution",
+    "affected_product": "Microsoft Exchange Server 2000 Service Pack 3",
+    "component_kb": "829436",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2003-0714"
+  }
+]

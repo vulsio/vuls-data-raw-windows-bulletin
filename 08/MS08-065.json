@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "10-14-08",
+    "bulletin_id": "MS08-065",
+    "bulletin_kb": "951071",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Message Queuing Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "951071",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2008-3479"
+  }
+]

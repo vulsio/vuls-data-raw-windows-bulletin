@@ -1,0 +1,67 @@
+[
+  {
+    "date_posted": "05-21-01",
+    "bulletin_id": "MS01-028",
+    "bulletin_kb": "288266",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "RTF document linked to template can run macros without warning",
+    "affected_product": "Microsoft Word 97",
+    "component_kb": "326585",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0240"
+  },
+  {
+    "date_posted": "05-21-01",
+    "bulletin_id": "MS01-028",
+    "bulletin_kb": "288266",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "RTF document linked to template can run macros without warning",
+    "affected_product": "Microsoft Word 2000",
+    "component_kb": "326585",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0240"
+  },
+  {
+    "date_posted": "05-21-01",
+    "bulletin_id": "MS01-028",
+    "bulletin_kb": "288266",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "RTF document linked to template can run macros without warning",
+    "affected_product": "Microsoft Word 98 (J)",
+    "component_kb": "288266",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0240"
+  },
+  {
+    "date_posted": "05-21-01",
+    "bulletin_id": "MS01-028",
+    "bulletin_kb": "288266",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "RTF document linked to template can run macros without warning",
+    "affected_product": "Microsoft Word 98 for the Mac",
+    "component_kb": "288266",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0240"
+  },
+  {
+    "date_posted": "05-21-01",
+    "bulletin_id": "MS01-028",
+    "bulletin_kb": "288266",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "RTF document linked to template can run macros without warning",
+    "affected_product": "Microsoft Word 2001 for the Mac",
+    "component_kb": "288266",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0240"
+  }
+]

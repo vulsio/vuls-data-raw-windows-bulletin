@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-100009]10/9/2012",
+    "bulletin_id": "MS12-065",
+    "bulletin_kb": "2754670",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Works Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Works 9",
+    "component_kb": "2754670",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-2550"
+  }
+]

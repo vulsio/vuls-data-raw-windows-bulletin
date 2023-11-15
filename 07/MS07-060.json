@@ -1,0 +1,46 @@
+[
+  {
+    "date_posted": "10-09-07",
+    "bulletin_id": "MS07-060",
+    "bulletin_kb": "942695",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Word Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2000 Service Pack 3",
+    "component_kb": "942669",
+    "affected_component": "Microsoft Word 2000 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2007-3899"
+  },
+  {
+    "date_posted": "10-09-07",
+    "bulletin_id": "MS07-060",
+    "bulletin_kb": "942695",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Word Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office XP Service Pack 3",
+    "component_kb": "942670",
+    "affected_component": "Microsoft Word 2002 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2007-3899"
+  },
+  {
+    "date_posted": "10-09-07",
+    "bulletin_id": "MS07-060",
+    "bulletin_kb": "942695",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Word Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2004 for Mac",
+    "component_kb": "942695",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2007-3899"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "date_posted": "[$-60009]6/12/2012",
+    "bulletin_id": "MS12-040",
+    "bulletin_kb": "2709100",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Dynamics AX Enterprise Portal Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Dynamics AX 2012",
+    "component_kb": "2706738",
+    "affected_component": "Microsoft Dynamics AX 2012 Enterprise Portal",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-1857"
+  },
+  {
+    "date_posted": "[$-60009]6/12/2012",
+    "bulletin_id": "MS12-040",
+    "bulletin_kb": "2709100",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Dynamics AX Enterprise Portal Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Dynamics AX 2012",
+    "component_kb": "2710639",
+    "affected_component": "Microsoft Dynamics AX 2012 Enterprise Portal",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-1857"
+  },
+  {
+    "date_posted": "[$-60009]6/12/2012",
+    "bulletin_id": "MS12-040",
+    "bulletin_kb": "2709100",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Dynamics AX Enterprise Portal Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Dynamics AX 2012",
+    "component_kb": "2711239",
+    "affected_component": "Microsoft Dynamics AX 2012 Enterprise Portal",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-1857"
+  }
+]

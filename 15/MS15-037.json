@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-037",
+    "bulletin_kb": "3046269",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Task Scheduler Could Allow Elevation of Privilege",
+    "affected_product": "Windows 7 for 32-bit Systems Service Pack 1",
+    "component_kb": "3046269",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-0098"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-037",
+    "bulletin_kb": "3046269",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Task Scheduler Could Allow Elevation of Privilege",
+    "affected_product": "Windows 7 for x64-based Systems Service Pack 1",
+    "component_kb": "3046269",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-0098"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-037",
+    "bulletin_kb": "3046269",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Task Scheduler Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+    "component_kb": "3046269",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-0098"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-037",
+    "bulletin_kb": "3046269",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Task Scheduler Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1",
+    "component_kb": "3046269",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-0098"
+  }
+]

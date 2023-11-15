@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "06-26-02",
+    "bulletin_id": "MS02-032",
+    "bulletin_kb": "320920",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "26 June 2002 Cumulative Patch for Windows Media Player",
+    "affected_product": "Microsoft Windows Media Player 6.4",
+    "component_kb": "320920",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2002-0372,CAN-2002-0373,CAN-2002-0615"
+  },
+  {
+    "date_posted": "06-26-02",
+    "bulletin_id": "MS02-032",
+    "bulletin_kb": "320920",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "26 June 2002 Cumulative Patch for Windows Media Player",
+    "affected_product": "Microsoft Windows Media Player 7.1",
+    "component_kb": "320920",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2002-0372,CAN-2002-0373,CAN-2002-0615"
+  },
+  {
+    "date_posted": "06-26-02",
+    "bulletin_id": "MS02-032",
+    "bulletin_kb": "320920",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "26 June 2002 Cumulative Patch for Windows Media Player",
+    "affected_product": "Microsoft Windows Media Player for Windows XP",
+    "component_kb": "320920",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2002-0372,CAN-2002-0373,CAN-2002-0615"
+  }
+]

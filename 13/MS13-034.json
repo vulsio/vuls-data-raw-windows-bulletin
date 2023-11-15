@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-40009]4/9/2013",
+    "bulletin_id": "MS13-034",
+    "bulletin_kb": "2823482",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft Antimalware Client Could Allow Elevation of Privilege",
+    "affected_product": "Windows Defender",
+    "component_kb": "2781197",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-0078"
+  }
+]

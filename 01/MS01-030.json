@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "06-06-01",
+    "bulletin_id": "MS01-030",
+    "bulletin_kb": "30136",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Incorrect Attachment Handling in Exchange OWA Can Execute Script",
+    "affected_product": "Microsoft Exchange Server 5.5 Service Pack 4",
+    "component_kb": "30136",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0340"
+  },
+  {
+    "date_posted": "06-06-01",
+    "bulletin_id": "MS01-030",
+    "bulletin_kb": "30136",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Incorrect Attachment Handling in Exchange OWA Can Execute Script",
+    "affected_product": "Microsoft Exchange Server 2000",
+    "component_kb": "30136",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0340"
+  }
+]

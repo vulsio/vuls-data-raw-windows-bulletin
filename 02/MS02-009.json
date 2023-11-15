@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "02-21-02",
+    "bulletin_id": "MS02-009",
+    "bulletin_kb": "318089",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Incorrect VBScript Handling in IE can Allow Web Pages to Read Local Files",
+    "affected_product": "Microsoft Internet Explorer 5.01",
+    "component_kb": "318089",
+    "impact": "Information Disclosure",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0052"
+  },
+  {
+    "date_posted": "02-21-02",
+    "bulletin_id": "MS02-009",
+    "bulletin_kb": "318089",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Incorrect VBScript Handling in IE can Allow Web Pages to Read Local Files",
+    "affected_product": "Microsoft Internet Explorer 5.5",
+    "component_kb": "318089",
+    "impact": "Information Disclosure",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0052"
+  },
+  {
+    "date_posted": "02-21-02",
+    "bulletin_id": "MS02-009",
+    "bulletin_kb": "318089",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Incorrect VBScript Handling in IE can Allow Web Pages to Read Local Files",
+    "affected_product": "Microsoft Internet Explorer 6.0",
+    "component_kb": "318089",
+    "impact": "Information Disclosure",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0052"
+  }
+]

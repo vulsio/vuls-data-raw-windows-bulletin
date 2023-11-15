@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-106",
+    "bulletin_kb": "2905238",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in a Microsoft Office Shared Component Could Allow Security Feature Bypass",
+    "affected_product": "Microsoft Office 2007 Service Pack 3",
+    "component_kb": "2850022",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5057"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-106",
+    "bulletin_kb": "2905238",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in a Microsoft Office Shared Component Could Allow Security Feature Bypass",
+    "affected_product": "Microsoft Office 2010 Service Pack 1 (32-bit editions)",
+    "component_kb": "2850016",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5057"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-106",
+    "bulletin_kb": "2905238",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in a Microsoft Office Shared Component Could Allow Security Feature Bypass",
+    "affected_product": "Microsoft Office 2010 Service Pack 2 (32-bit editions)",
+    "component_kb": "2850016",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5057"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-106",
+    "bulletin_kb": "2905238",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in a Microsoft Office Shared Component Could Allow Security Feature Bypass",
+    "affected_product": "Microsoft Office 2010 Service Pack 1 (64-bit editions)",
+    "component_kb": "2850016",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5057"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-106",
+    "bulletin_kb": "2905238",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in a Microsoft Office Shared Component Could Allow Security Feature Bypass",
+    "affected_product": "Microsoft Office 2010 Service Pack 2 (64-bit editions)",
+    "component_kb": "2850016",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5057"
+  }
+]

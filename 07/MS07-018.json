@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "04-10-07",
+    "bulletin_id": "MS07-018",
+    "bulletin_kb": "925939",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Content Management Server Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Content Management Server 2001 Service Pack 1",
+    "component_kb": "924430",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2007-0938,CVE-2007-0939"
+  },
+  {
+    "date_posted": "04-10-07",
+    "bulletin_id": "MS07-018",
+    "bulletin_kb": "925939",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Content Management Server Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Content Management Server 2002 Service Pack 2",
+    "component_kb": "924429",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2007-0938,CVE-2007-0939"
+  }
+]

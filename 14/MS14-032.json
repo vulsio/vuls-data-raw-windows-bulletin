@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "[$-60009]6/10/2014",
+    "bulletin_id": "MS14-032",
+    "bulletin_kb": "2969258",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft Lync Server Could Allow Information Disclosure",
+    "affected_product": "Microsoft Lync Server 2010",
+    "component_kb": "2963286",
+    "affected_component": "Microsoft Lync Server 2013",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2014-1823"
+  },
+  {
+    "date_posted": "[$-60009]6/10/2014",
+    "bulletin_id": "MS14-032",
+    "bulletin_kb": "2969258",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft Lync Server Could Allow Information Disclosure",
+    "affected_product": "Microsoft Lync Server 2013",
+    "component_kb": "2963288",
+    "affected_component": "Microsoft Lync Server 2013",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2014-1823"
+  }
+]

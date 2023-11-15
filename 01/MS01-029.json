@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "05-23-01",
+    "bulletin_id": "MS01-029",
+    "bulletin_kb": "47366",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .ASX Processor Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows Media Player 6.4",
+    "component_kb": "47366",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0242,CAN-2001-0243"
+  },
+  {
+    "date_posted": "05-23-01",
+    "bulletin_id": "MS01-029",
+    "bulletin_kb": "47366",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .ASX Processor Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows Media Player 7",
+    "component_kb": "47366",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0242,CAN-2001-0243"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "02-10-04",
+    "bulletin_id": "MS04-005",
+    "bulletin_kb": "835150",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Virtual PC for Mac Could Allow Privilege Elevation",
+    "affected_product": "Microsoft Virtual PC for Mac version 6.0",
+    "component_kb": "835150",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2004-0115"
+  },
+  {
+    "date_posted": "02-10-04",
+    "bulletin_id": "MS04-005",
+    "bulletin_kb": "835150",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Virtual PC for Mac Could Allow Privilege Elevation",
+    "affected_product": "Microsoft Virtual PC for Mac version 6.01",
+    "component_kb": "835150",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2004-0115"
+  },
+  {
+    "date_posted": "02-10-04",
+    "bulletin_id": "MS04-005",
+    "bulletin_kb": "835150",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Virtual PC for Mac Could Allow Privilege Elevation",
+    "affected_product": "Microsoft Virtual PC for Mac version 6.02",
+    "component_kb": "835150",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2004-0115"
+  },
+  {
+    "date_posted": "02-10-04",
+    "bulletin_id": "MS04-005",
+    "bulletin_kb": "835150",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Virtual PC for Mac Could Allow Privilege Elevation",
+    "affected_product": "Microsoft Virtual PC for Mac Version 6.1",
+    "component_kb": "835150",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2004-0115"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-110009]11/10/2009",
+    "bulletin_id": "MS09-064",
+    "bulletin_kb": "974783",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in License Logging Server Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "974783",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2009-2523"
+  }
+]

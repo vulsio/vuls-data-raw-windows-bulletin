@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-040",
+    "bulletin_kb": "3045711",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Active Directory Federation Services Could Allow Information Disclosure",
+    "affected_product": "Windows Server 2012 R2",
+    "component_kb": "3045711",
+    "affected_component": "Active Directory Federation Services 3.0",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-1638"
+  },
+  {
+    "date_posted": "[$-40009]4/14/2015",
+    "bulletin_id": "MS15-040",
+    "bulletin_kb": "3045711",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Active Directory Federation Services Could Allow Information Disclosure",
+    "affected_product": "Windows Server 2012 R2 (server core installation)",
+    "component_kb": "3045711",
+    "affected_component": "Active Directory Federation Services 3.0",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2015-1638"
+  }
+]

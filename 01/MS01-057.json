@@ -1,0 +1,17 @@
+[
+  {
+    "date_posted": "12-06-01",
+    "bulletin_id": "MS01-057",
+    "bulletin_kb": "313576",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Specially Formed Script in HTML Mail can Execute in Exchange 5.5 OWA",
+    "affected_product": "Microsoft Exchange Server 5.5 Service Pack 4",
+    "component_kb": "313576",
+    "affected_component": "Outlook Web Access",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0726"
+  }
+]

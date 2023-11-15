@@ -1,0 +1,41 @@
+[
+  {
+    "date_posted": "02-20-01",
+    "bulletin_id": "MS01-011",
+    "bulletin_kb": "287397",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed Request to Domain Controller can Cause CPU Exhaustion",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "287397",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0018"
+  },
+  {
+    "date_posted": "02-20-01",
+    "bulletin_id": "MS01-011",
+    "bulletin_kb": "287397",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed Request to Domain Controller can Cause CPU Exhaustion",
+    "affected_product": "Microsoft Windows 2000 Advanced Server",
+    "component_kb": "287397",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0018"
+  },
+  {
+    "date_posted": "02-20-01",
+    "bulletin_id": "MS01-011",
+    "bulletin_kb": "287397",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed Request to Domain Controller can Cause CPU Exhaustion",
+    "affected_product": "Microsoft Windows 2000 Datacenter Server",
+    "component_kb": "287397",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0018"
+  }
+]

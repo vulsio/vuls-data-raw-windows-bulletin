@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "06-14-05",
+    "bulletin_id": "MS05-029",
+    "bulletin_kb": "895179",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Outlook Web Access for Exchange Server 5.5 Could Allow Cross-Site Scripting Attacks",
+    "affected_product": "Microsoft Exchange Server 5.5 Service Pack 4",
+    "component_kb": "895179",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2005-0563"
+  }
+]

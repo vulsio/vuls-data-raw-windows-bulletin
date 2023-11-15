@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-40009]4/13/2010",
+    "bulletin_id": "MS10-025",
+    "bulletin_kb": "980858",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Windows Media Services Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "980858",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0478"
+  }
+]

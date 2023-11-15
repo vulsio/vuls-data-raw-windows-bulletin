@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "02-12-08",
+    "bulletin_id": "MS08-004",
+    "bulletin_kb": "946456",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows TCP/IP Could Allow Denial of Service",
+    "affected_product": "Windows Vista",
+    "component_kb": "946456",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2008-0084"
+  },
+  {
+    "date_posted": "02-12-08",
+    "bulletin_id": "MS08-004",
+    "bulletin_kb": "946456",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows TCP/IP Could Allow Denial of Service",
+    "affected_product": "Windows Vista x64 Edition",
+    "component_kb": "946456",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2008-0084"
+  }
+]

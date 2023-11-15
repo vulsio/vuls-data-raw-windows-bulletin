@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "09-12-06",
+    "bulletin_id": "MS06-052",
+    "bulletin_kb": "919007",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Pragmatic General Multicast (PGM) Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "919007",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2006-3442"
+  },
+  {
+    "date_posted": "09-12-06",
+    "bulletin_id": "MS06-052",
+    "bulletin_kb": "919007",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Pragmatic General Multicast (PGM) Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "919007",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2006-3442"
+  }
+]

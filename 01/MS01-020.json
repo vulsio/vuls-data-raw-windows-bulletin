@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "03-29-01",
+    "bulletin_id": "MS01-020",
+    "bulletin_kb": "290108",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Incorrect MIME Header Can Cause IE to Execute E-mail Attachment",
+    "affected_product": "Microsoft Internet Explorer 5.01",
+    "component_kb": "290108",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0154"
+  },
+  {
+    "date_posted": "03-29-01",
+    "bulletin_id": "MS01-020",
+    "bulletin_kb": "290108",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Incorrect MIME Header Can Cause IE to Execute E-mail Attachment",
+    "affected_product": "Microsoft Internet Explorer 5.5",
+    "component_kb": "290108",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0154"
+  }
+]

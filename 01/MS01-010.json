@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "02-14-01",
+    "bulletin_id": "MS01-010",
+    "bulletin_kb": "287045",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player Skins Files Can Enable Java Code to Execute",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "287045",
+    "affected_component": "Microsoft Windows Media Player 7",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0137"
+  },
+  {
+    "date_posted": "02-14-01",
+    "bulletin_id": "MS01-010",
+    "bulletin_kb": "287045",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player Skins Files Can Enable Java Code to Execute",
+    "affected_product": "Microsoft Windows 98",
+    "component_kb": "287045",
+    "affected_component": "Microsoft Windows Media Player 7",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0137"
+  },
+  {
+    "date_posted": "02-14-01",
+    "bulletin_id": "MS01-010",
+    "bulletin_kb": "287045",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player Skins Files Can Enable Java Code to Execute",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "287045",
+    "affected_component": "Microsoft Windows Media Player 7",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0137"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "08-21-01",
+    "bulletin_id": "MS01-046",
+    "bulletin_kb": "252795",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Access Violation in Windows 2000 IrDA Driver Can Cause System to Restart",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "252795",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0659"
+  },
+  {
+    "date_posted": "08-21-01",
+    "bulletin_id": "MS01-046",
+    "bulletin_kb": "252795",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Access Violation in Windows 2000 IrDA Driver Can Cause System to Restart",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "252795",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0659"
+  }
+]

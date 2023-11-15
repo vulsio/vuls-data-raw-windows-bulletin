@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-20009]2/10/2015",
+    "bulletin_id": "MS15-017",
+    "bulletin_kb": "3035898",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Virtual Machine Manager Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft System Center Virtual Machine Manager 2012 R2 Update Rollup 4",
+    "component_kb": "2992024",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-0012"
+  }
+]

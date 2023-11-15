@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "03-14-06",
+    "bulletin_id": "MS06-011",
+    "bulletin_kb": "914798",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Permissive Windows Services DACLs Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "914798",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2006-0023"
+  },
+  {
+    "date_posted": "03-14-06",
+    "bulletin_id": "MS06-011",
+    "bulletin_kb": "914798",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Permissive Windows Services DACLs Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003",
+    "component_kb": "914798",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CVE-2006-0023"
+  },
+  {
+    "date_posted": "03-14-06",
+    "bulletin_id": "MS06-011",
+    "bulletin_kb": "914798",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Permissive Windows Services DACLs Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003, Enterprise Edition for Itanium-based Systems",
+    "component_kb": "914798",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CVE-2006-0023"
+  }
+]

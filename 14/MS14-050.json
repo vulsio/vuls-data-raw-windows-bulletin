@@ -1,0 +1,62 @@
+[
+  {
+    "date_posted": "[$-80009]8/12/2014",
+    "bulletin_id": "MS14-050",
+    "bulletin_kb": "2977202",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft SharePoint Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Sharepoint Server 2013",
+    "component_kb": "2880994",
+    "affected_component": "Microsoft Sharepoint Server 2013",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-2816"
+  },
+  {
+    "date_posted": "[$-80009]8/12/2014",
+    "bulletin_id": "MS14-050",
+    "bulletin_kb": "2977202",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft SharePoint Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2013 Service Pack 1",
+    "component_kb": "2880994",
+    "affected_component": "Microsoft SharePoint Server 2013 Service Pack 1",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-2816"
+  },
+  {
+    "date_posted": "[$-80009]8/12/2014",
+    "bulletin_id": "MS14-050",
+    "bulletin_kb": "2977202",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft SharePoint Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Sharepoint Server 2013",
+    "component_kb": "2880994",
+    "affected_component": "Microsoft SharePoint Foundation 2013",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-2816"
+  },
+  {
+    "date_posted": "[$-80009]8/12/2014",
+    "bulletin_id": "MS14-050",
+    "bulletin_kb": "2977202",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft SharePoint Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2013 Service Pack 1",
+    "component_kb": "2880994",
+    "affected_component": "Microsoft SharePoint Foundation 2013 Service Pack 1",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-2816"
+  }
+]

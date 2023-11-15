@@ -1,0 +1,47 @@
+[
+  {
+    "date_posted": "[$-70009]7/8/2014",
+    "bulletin_id": "MS14-042",
+    "bulletin_kb": "2972621",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Service Bus Could Allow Denial of Service",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+    "component_kb": "2972621",
+    "affected_component": "Microsoft Service Bus 1.1",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-2814"
+  },
+  {
+    "date_posted": "[$-70009]7/8/2014",
+    "bulletin_id": "MS14-042",
+    "bulletin_kb": "2972621",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Service Bus Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012",
+    "component_kb": "2972621",
+    "affected_component": "Microsoft Service Bus 1.1",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-2814"
+  },
+  {
+    "date_posted": "[$-70009]7/8/2014",
+    "bulletin_id": "MS14-042",
+    "bulletin_kb": "2972621",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Service Bus Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012 R2",
+    "component_kb": "2972621",
+    "affected_component": "Microsoft Service Bus 1.1",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-2814"
+  }
+]

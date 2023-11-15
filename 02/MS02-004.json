@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "02-07-02",
+    "bulletin_id": "MS02-004",
+    "bulletin_kb": "307298",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Unchecked Buffer in Telnet Server Could Lead to Arbitrary Code Execution",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "307298",
+    "affected_component": "Telnet Service",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2002-0020"
+  },
+  {
+    "date_posted": "02-07-02",
+    "bulletin_id": "MS02-004",
+    "bulletin_kb": "307298",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Unchecked Buffer in Telnet Server Could Lead to Arbitrary Code Execution",
+    "affected_product": "Microsoft Interix 2.2",
+    "component_kb": "307298",
+    "affected_component": "Telnet Daemon",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "cves": "CAN-2002-0020"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "09-06-01",
+    "bulletin_id": "MS01-047",
+    "bulletin_kb": "307195",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Information Disclosure",
+    "title": "OWA Function Allows Unauthenticated User to Enumerate Global Address List",
+    "affected_product": "Microsoft Exchange Server 5.5 Service Pack 4",
+    "component_kb": "307195",
+    "impact": "Information Disclosure",
+    "severity": "Low",
+    "reboot": "No",
+    "cves": "CAN-2001-0660"
+  }
+]

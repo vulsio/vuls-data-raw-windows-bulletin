@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "[$-40009]4/8/2014",
+    "bulletin_id": "MS14-020",
+    "bulletin_kb": "2950145",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 3",
+    "component_kb": "2878299",
+    "affected_component": "Microsoft Publisher 2003 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-1759"
+  },
+  {
+    "date_posted": "[$-40009]4/8/2014",
+    "bulletin_id": "MS14-020",
+    "bulletin_kb": "2950145",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2007 Service Pack 3",
+    "component_kb": "2817565",
+    "affected_component": "Microsoft Publisher 2007 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-1759"
+  }
+]

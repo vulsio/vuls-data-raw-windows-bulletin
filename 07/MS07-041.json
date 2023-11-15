@@ -1,0 +1,17 @@
+[
+  {
+    "date_posted": "07-10-07",
+    "bulletin_id": "MS07-041",
+    "bulletin_kb": "939373",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Internet Information Services Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "939373",
+    "affected_component": "Microsoft Internet Information Services 5.1",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2005-4360"
+  }
+]

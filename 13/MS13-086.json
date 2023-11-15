@@ -1,0 +1,46 @@
+[
+  {
+    "date_posted": "[$-100009]10/8/2013",
+    "bulletin_id": "MS13-086",
+    "bulletin_kb": "2885084",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Word Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 3",
+    "component_kb": "2826020",
+    "affected_component": "Microsoft Word 2003 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-3891,CVE-2013-3892"
+  },
+  {
+    "date_posted": "[$-100009]10/8/2013",
+    "bulletin_id": "MS13-086",
+    "bulletin_kb": "2885084",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Word Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2007 Service Pack 3",
+    "component_kb": "2827330",
+    "affected_component": "Microsoft Word 2007 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-3891,CVE-2013-3892"
+  },
+  {
+    "date_posted": "[$-100009]10/8/2013",
+    "bulletin_id": "MS13-086",
+    "bulletin_kb": "2885084",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Word Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office Compatibility Pack Service Pack 3",
+    "component_kb": "2827329",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-3891,CVE-2013-3892"
+  }
+]

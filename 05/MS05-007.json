@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "02-08-05",
+    "bulletin_id": "MS05-007",
+    "bulletin_kb": "888302",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Windows Could Allow Information Disclosure",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "888302",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2005-0051"
+  },
+  {
+    "date_posted": "02-08-05",
+    "bulletin_id": "MS05-007",
+    "bulletin_kb": "888302",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Windows Could Allow Information Disclosure",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "888302",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2005-0051"
+  },
+  {
+    "date_posted": "02-08-05",
+    "bulletin_id": "MS05-007",
+    "bulletin_kb": "888302",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Windows Could Allow Information Disclosure",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition Service Pack 2",
+    "component_kb": "888302",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2005-0051"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-104",
+    "bulletin_kb": "3089952",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Skype for Business Server and Lync Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Lync Server 2013",
+    "component_kb": "3080353",
+    "affected_component": "Microsoft Lync Server 2013",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-2531,CVE-2015-2532,CVE-2015-2536"
+  },
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-104",
+    "bulletin_kb": "3089952",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Skype for Business Server and Lync Server Could Allow Elevation of Privilege",
+    "affected_product": "Skype for Business Server 2015",
+    "component_kb": "3080355",
+    "affected_component": "Skype for Business Server 2015",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-2531,CVE-2015-2532,CVE-2015-2536"
+  },
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-104",
+    "bulletin_kb": "3089952",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Skype for Business Server and Lync Server Could Allow Elevation of Privilege",
+    "affected_product": "Skype for Business Server 2015",
+    "component_kb": "3080352",
+    "affected_component": "Skype for Business Server 2015",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-2531,CVE-2015-2532,CVE-2015-2536"
+  }
+]

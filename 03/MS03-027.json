@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "07-16-03",
+    "bulletin_id": "MS03-027",
+    "bulletin_kb": "821557",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Windows Shell Could Enable System Compromise",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "821557",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0306"
+  }
+]

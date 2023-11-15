@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-110009]11/9/2010",
+    "bulletin_id": "MS10-089",
+    "bulletin_kb": "2316074",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Forefront Unified Access Gateway (UAG) Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010",
+    "component_kb": "2433585",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2732,CVE-2010-2733,CVE-2010-2734,CVE-2010-3936"
+  },
+  {
+    "date_posted": "[$-110009]11/9/2010",
+    "bulletin_id": "MS10-089",
+    "bulletin_kb": "2316074",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Forefront Unified Access Gateway (UAG) Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010 Update 1",
+    "component_kb": "2433584",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2732,CVE-2010-2733,CVE-2010-2734,CVE-2010-3936"
+  },
+  {
+    "date_posted": "[$-110009]11/9/2010",
+    "bulletin_id": "MS10-089",
+    "bulletin_kb": "2316074",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Forefront Unified Access Gateway (UAG) Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010 Update 2",
+    "component_kb": "2418933",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2732,CVE-2010-2733,CVE-2010-2734,CVE-2010-3936"
+  }
+]

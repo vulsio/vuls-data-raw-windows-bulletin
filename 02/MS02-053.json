@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "09-25-02",
+    "bulletin_id": "MS02-053",
+    "bulletin_kb": "324096",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Denial of Service",
+    "title": "Buffer Overrun in SmartHTML Interpreter Could Allow Code Execution",
+    "affected_product": "Microsoft FrontPage 2000 Server Extensions",
+    "component_kb": "324096",
+    "impact": "Denial of Service",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0692"
+  },
+  {
+    "date_posted": "09-25-02",
+    "bulletin_id": "MS02-053",
+    "bulletin_kb": "324096",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Denial of Service",
+    "title": "Buffer Overrun in SmartHTML Interpreter Could Allow Code Execution",
+    "affected_product": "Microsoft FrontPage 2002 Server Extensions",
+    "component_kb": "324096",
+    "impact": "Denial of Service",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0692"
+  },
+  {
+    "date_posted": "09-25-02",
+    "bulletin_id": "MS02-053",
+    "bulletin_kb": "324096",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Denial of Service",
+    "title": "Buffer Overrun in SmartHTML Interpreter Could Allow Code Execution",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "324096",
+    "impact": "Denial of Service",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0692"
+  },
+  {
+    "date_posted": "09-25-02",
+    "bulletin_id": "MS02-053",
+    "bulletin_kb": "324096",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Denial of Service",
+    "title": "Buffer Overrun in SmartHTML Interpreter Could Allow Code Execution",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "324096",
+    "impact": "Denial of Service",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0692"
+  },
+  {
+    "date_posted": "09-25-02",
+    "bulletin_id": "MS02-053",
+    "bulletin_kb": "324096",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Denial of Service",
+    "title": "Buffer Overrun in SmartHTML Interpreter Could Allow Code Execution",
+    "affected_product": "SharePoint Team Services 2002",
+    "component_kb": "324096",
+    "impact": "Denial of Service",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0692"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-042",
+    "bulletin_kb": "2830397",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 3",
+    "component_kb": "2810047",
+    "affected_component": "Microsoft Publisher 2003 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-1316,CVE-2013-1317,CVE-2013-1318,CVE-2013-1319,CVE-2013-1320,CVE-2013-1321,CVE-2013-1322,CVE-2013-1323,CVE-2013-1327,CVE-2013-1328,CVE-2013-1329"
+  },
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-042",
+    "bulletin_kb": "2830397",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2007 Service Pack 3",
+    "component_kb": "2597971",
+    "affected_component": "Microsoft Publisher 2007 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-1316,CVE-2013-1317,CVE-2013-1318,CVE-2013-1319,CVE-2013-1320,CVE-2013-1321,CVE-2013-1322,CVE-2013-1323,CVE-2013-1327,CVE-2013-1328,CVE-2013-1329"
+  },
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-042",
+    "bulletin_kb": "2830397",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2010 Service Pack 1 (32-bit editions)",
+    "component_kb": "2553147",
+    "affected_component": "Microsoft Publisher 2010 Service Pack 1 (32-bit editions)",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-1316,CVE-2013-1317,CVE-2013-1318,CVE-2013-1319,CVE-2013-1320,CVE-2013-1321,CVE-2013-1322,CVE-2013-1323,CVE-2013-1327,CVE-2013-1328,CVE-2013-1329"
+  },
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-042",
+    "bulletin_kb": "2830397",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2010 Service Pack 1 (64-bit editions)",
+    "component_kb": "2553147",
+    "affected_component": "Microsoft Publisher 2010 Service Pack 1 (64-bit editions)",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-1316,CVE-2013-1317,CVE-2013-1318,CVE-2013-1319,CVE-2013-1320,CVE-2013-1321,CVE-2013-1322,CVE-2013-1323,CVE-2013-1327,CVE-2013-1328,CVE-2013-1329"
+  }
+]

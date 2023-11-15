@@ -1,0 +1,15 @@
+[
+  {
+    "date_posted": "03-04-02",
+    "bulletin_id": "MS02-013",
+    "bulletin_kb": "300845",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "04 March 2002 Cumulative VM Update",
+    "affected_product": "Microsoft Virtual Machine",
+    "component_kb": "300845",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2002-0058,CAN-2002-0076"
+  }
+]

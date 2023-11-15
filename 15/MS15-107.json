@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "[$-100009]10/13/2015",
+    "bulletin_id": "MS15-107",
+    "bulletin_kb": "3096448",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Cumulative Security Update for Microsoft Edge",
+    "affected_product": "Windows 10 for 32-bit Systems",
+    "component_kb": "3097617",
+    "affected_component": "Microsoft Edge",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-6057,CVE-2015-6058"
+  },
+  {
+    "date_posted": "[$-100009]10/13/2015",
+    "bulletin_id": "MS15-107",
+    "bulletin_kb": "3096448",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Cumulative Security Update for Microsoft Edge",
+    "affected_product": "Windows 10 for x64-based Systems",
+    "component_kb": "3097617",
+    "affected_component": "Microsoft Edge",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-6057,CVE-2015-6058"
+  }
+]

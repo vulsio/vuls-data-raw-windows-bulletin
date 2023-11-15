@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "04-12-05",
+    "bulletin_id": "MS05-022",
+    "bulletin_kb": "896597",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in MSN Messenger Could Lead to Remote Code Execution",
+    "affected_product": "MSN Messenger 6.2",
+    "component_kb": "896597",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2005-0562"
+  }
+]

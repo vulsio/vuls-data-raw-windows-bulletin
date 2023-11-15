@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "11-09-04",
+    "bulletin_id": "MS04-039",
+    "bulletin_kb": "888258",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Spoofing",
+    "title": "Vulnerability in ISA Server 2000 and Proxy Server 2.0 Could Allow Internet Content Spoofing",
+    "affected_product": "Microsoft Proxy Server 2.0 Service Pack 1",
+    "component_kb": "888258",
+    "impact": "Spoofing",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2004-0892"
+  },
+  {
+    "date_posted": "11-09-04",
+    "bulletin_id": "MS04-039",
+    "bulletin_kb": "888258",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Spoofing",
+    "title": "Vulnerability in ISA Server 2000 and Proxy Server 2.0 Could Allow Internet Content Spoofing",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000 Service Pack 1",
+    "component_kb": "888258",
+    "impact": "Spoofing",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2004-0892"
+  },
+  {
+    "date_posted": "11-09-04",
+    "bulletin_id": "MS04-039",
+    "bulletin_kb": "888258",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Spoofing",
+    "title": "Vulnerability in ISA Server 2000 and Proxy Server 2.0 Could Allow Internet Content Spoofing",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000 Service Pack 2",
+    "component_kb": "888258",
+    "impact": "Spoofing",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2004-0892"
+  }
+]

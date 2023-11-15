@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-90009]9/14/2010",
+    "bulletin_id": "MS10-066",
+    "bulletin_kb": "982802",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Remote Procedure Call Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "982802",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-2567"
+  },
+  {
+    "date_posted": "[$-90009]9/14/2010",
+    "bulletin_id": "MS10-066",
+    "bulletin_kb": "982802",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Remote Procedure Call Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition Service Pack 2",
+    "component_kb": "982802",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-2567"
+  },
+  {
+    "date_posted": "[$-90009]9/14/2010",
+    "bulletin_id": "MS10-066",
+    "bulletin_kb": "982802",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Remote Procedure Call Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "982802",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-2567"
+  },
+  {
+    "date_posted": "[$-90009]9/14/2010",
+    "bulletin_id": "MS10-066",
+    "bulletin_kb": "982802",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Remote Procedure Call Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 x64 Edition Service Pack 2",
+    "component_kb": "982802",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-2567"
+  },
+  {
+    "date_posted": "[$-90009]9/14/2010",
+    "bulletin_id": "MS10-066",
+    "bulletin_kb": "982802",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Remote Procedure Call Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2",
+    "component_kb": "982802",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-2567"
+  }
+]

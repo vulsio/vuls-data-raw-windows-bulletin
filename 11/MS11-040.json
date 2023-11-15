@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-60009]6/14/2011",
+    "bulletin_id": "MS11-040",
+    "bulletin_kb": "2520426",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Threat Management Gateway Firewall Client Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Forefront Threat Management Gateway 2010 Client",
+    "component_kb": "2520426",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2011-1889"
+  }
+]

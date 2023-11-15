@@ -1,0 +1,15 @@
+[
+  {
+    "date_posted": "04-16-01",
+    "bulletin_id": "MS01-021",
+    "bulletin_kb": "295279",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Web Request Can Cause Access Violation in ISA Server Web Proxy Service",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000",
+    "component_kb": "295279",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0239"
+  }
+]

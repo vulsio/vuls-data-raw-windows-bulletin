@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "03-11-08",
+    "bulletin_id": "MS08-018",
+    "bulletin_kb": "950183",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Project Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Project 2000 Service Pack 1",
+    "component_kb": "949043",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2008-1088"
+  },
+  {
+    "date_posted": "03-11-08",
+    "bulletin_id": "MS08-018",
+    "bulletin_kb": "950183",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Project Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Project 2002 Service Pack 1",
+    "component_kb": "949005",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2008-1088"
+  },
+  {
+    "date_posted": "03-11-08",
+    "bulletin_id": "MS08-018",
+    "bulletin_kb": "950183",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Project Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Project 2003 Service Pack 2",
+    "component_kb": "948962",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2008-1088"
+  },
+  {
+    "date_posted": "03-11-08",
+    "bulletin_id": "MS08-018",
+    "bulletin_kb": "950183",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Project Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Project 2003 Service Pack 3",
+    "component_kb": "948962",
+    "impact": "Not a Vulnerability",
+    "severity": "None",
+    "reboot": "No",
+    "cves": "CVE-2008-1088"
+  }
+]

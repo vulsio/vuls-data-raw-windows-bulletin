@@ -1,0 +1,40 @@
+[
+  {
+    "date_posted": "01-21-01",
+    "bulletin_id": "MS01-002",
+    "bulletin_kb": "285978",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "PowerPoint File Parser Contains Unchecked Buffer",
+    "component_kb": "326585",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0005"
+  },
+  {
+    "date_posted": "01-21-01",
+    "bulletin_id": "MS01-002",
+    "bulletin_kb": "285978",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "PowerPoint File Parser Contains Unchecked Buffer",
+    "affected_product": "Microsoft PowerPoint 97",
+    "component_kb": "326585",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0005"
+  },
+  {
+    "date_posted": "01-21-01",
+    "bulletin_id": "MS01-002",
+    "bulletin_kb": "285978",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "PowerPoint File Parser Contains Unchecked Buffer",
+    "affected_product": "Microsoft PowerPoint 2000",
+    "component_kb": "268477",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0005"
+  }
+]

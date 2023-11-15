@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "06-08-04",
+    "bulletin_id": "MS04-017",
+    "bulletin_kb": "842689",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Crystal Reports Web Viewer Could Allow Information Disclosure and Denial of Service",
+    "affected_product": "Microsoft Visual Studio .NET 2003",
+    "component_kb": "841870",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2004-0204"
+  },
+  {
+    "date_posted": "06-08-04",
+    "bulletin_id": "MS04-017",
+    "bulletin_kb": "842689",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Crystal Reports Web Viewer Could Allow Information Disclosure and Denial of Service",
+    "affected_product": "Outlook 2003 with Business Contact Manager",
+    "component_kb": "842496",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2004-0204"
+  },
+  {
+    "date_posted": "06-08-04",
+    "bulletin_id": "MS04-017",
+    "bulletin_kb": "842689",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Crystal Reports Web Viewer Could Allow Information Disclosure and Denial of Service",
+    "affected_product": "Microsoft Business Solutions CRM 1.2",
+    "component_kb": "842689",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2004-0204"
+  }
+]

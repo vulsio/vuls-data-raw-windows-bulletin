@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "10-14-08",
+    "bulletin_id": "MS08-056",
+    "bulletin_kb": "957699",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft Office Could Allow Information Disclosure",
+    "affected_product": "Microsoft Office XP Service Pack 3",
+    "component_kb": "956464",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CVE-2008-4020"
+  }
+]

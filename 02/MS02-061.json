@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "10-16-02",
+    "bulletin_id": "MS02-061",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Elevation of Privilege in SQL Server Web Tasks",
+    "affected_product": "Microsoft SQL Server 7.0",
+    "component_kb": "316333",
+    "impact": "Elevation of Privilege",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-1145"
+  },
+  {
+    "date_posted": "10-16-02",
+    "bulletin_id": "MS02-061",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Elevation of Privilege in SQL Server Web Tasks",
+    "affected_product": "Microsoft Data Engine 1.0",
+    "component_kb": "316333",
+    "impact": "Elevation of Privilege",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-1145"
+  },
+  {
+    "date_posted": "10-16-02",
+    "bulletin_id": "MS02-061",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Elevation of Privilege in SQL Server Web Tasks",
+    "affected_product": "Microsoft SQL Server 2000",
+    "component_kb": "316333",
+    "impact": "Elevation of Privilege",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-1145"
+  },
+  {
+    "date_posted": "10-16-02",
+    "bulletin_id": "MS02-061",
+    "bulletin_kb": "316333",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Elevation of Privilege in SQL Server Web Tasks",
+    "affected_product": "Microsoft SQL Server 2000 Desktop Engine (MSDE)",
+    "component_kb": "316333",
+    "impact": "Elevation of Privilege",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-1145"
+  }
+]

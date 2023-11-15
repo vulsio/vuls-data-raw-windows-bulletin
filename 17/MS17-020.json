@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-30009]3/14/2017",
+    "bulletin_id": "MS17-020",
+    "bulletin_kb": "3208223",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Security Update for Windows DVD Maker",
+    "affected_product": "Windows Vista Service Pack 2",
+    "component_kb": "3205715",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2017-0045 "
+  },
+  {
+    "date_posted": "[$-30009]3/14/2017",
+    "bulletin_id": "MS17-020",
+    "bulletin_kb": "3208223",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Security Update for Windows DVD Maker",
+    "affected_product": "Windows Vista x64 Edition Service Pack 2",
+    "component_kb": "3205715",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2017-0045 "
+  },
+  {
+    "date_posted": "[$-30009]3/14/2017",
+    "bulletin_id": "MS17-020",
+    "bulletin_kb": "3208223",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Security Update for Windows DVD Maker",
+    "affected_product": "Windows 7 for 32-bit Systems Service Pack 1",
+    "component_kb": "4012212",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2017-0045 "
+  },
+  {
+    "date_posted": "[$-30009]3/14/2017",
+    "bulletin_id": "MS17-020",
+    "bulletin_kb": "3208223",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Security Update for Windows DVD Maker",
+    "affected_product": "Windows 7 for x64-based Systems Service Pack 1",
+    "component_kb": "4012212",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2017-0045 "
+  }
+]

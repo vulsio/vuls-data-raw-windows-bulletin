@@ -1,0 +1,50 @@
+[
+  {
+    "date_posted": "11-01-01",
+    "bulletin_id": "MS01-054",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid Universal Plug and Play Request can Disrupt System Operation",
+    "affected_product": "Microsoft Windows 98",
+    "component_kb": "309521",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "cves": "CAN-2001-0721"
+  },
+  {
+    "date_posted": "11-01-01",
+    "bulletin_id": "MS01-054",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid Universal Plug and Play Request can Disrupt System Operation",
+    "affected_product": "Microsoft Windows 98 Second Edition",
+    "component_kb": "309521",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "cves": "CAN-2001-0721"
+  },
+  {
+    "date_posted": "11-01-01",
+    "bulletin_id": "MS01-054",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid Universal Plug and Play Request can Disrupt System Operation",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "309521",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "cves": "CAN-2001-0721"
+  },
+  {
+    "date_posted": "11-01-01",
+    "bulletin_id": "MS01-054",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid Universal Plug and Play Request can Disrupt System Operation",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "311311",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "cves": "CAN-2001-0721"
+  }
+]

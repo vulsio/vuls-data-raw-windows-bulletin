@@ -1,0 +1,83 @@
+[
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-034",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Word Document Could Enable Macro to Run Automatically",
+    "affected_product": "Microsoft Word 2002",
+    "component_kb": "326585",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0501"
+  },
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-034",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Word Document Could Enable Macro to Run Automatically",
+    "affected_product": "Microsoft Word 2000",
+    "component_kb": "326585",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0501"
+  },
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-034",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Word Document Could Enable Macro to Run Automatically",
+    "affected_product": "Microsoft Word 97",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0501"
+  },
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-034",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Word Document Could Enable Macro to Run Automatically",
+    "affected_product": "Microsoft Word 98 (J)",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0501"
+  },
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-034",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Word Document Could Enable Macro to Run Automatically",
+    "affected_product": "Microsoft Word 2001 for Macintosh",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0501"
+  },
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-034",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Word Document Could Enable Macro to Run Automatically",
+    "affected_product": "Microsoft Word 98 for Macintosh",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0501"
+  },
+  {
+    "date_posted": "06-21-01",
+    "bulletin_id": "MS01-034",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Word Document Could Enable Macro to Run Automatically",
+    "affected_product": "Microsoft Office XP",
+    "component_kb": "324458",
+    "affected_component": "Microsoft Word 2002",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0501"
+  }
+]

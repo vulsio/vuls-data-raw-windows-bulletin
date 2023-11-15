@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-100009]10/11/2011",
+    "bulletin_id": "MS11-082",
+    "bulletin_kb": "2607670",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerabilities in Host Integration Server Could Allow Denial of Service",
+    "affected_product": "Microsoft Host Integration Server 2004 Service Pack 1",
+    "component_kb": "2578757",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-2007,CVE-2011-2008"
+  },
+  {
+    "date_posted": "[$-100009]10/11/2011",
+    "bulletin_id": "MS11-082",
+    "bulletin_kb": "2607670",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerabilities in Host Integration Server Could Allow Denial of Service",
+    "affected_product": "Microsoft Host Integration Server 2006 Service Pack 1",
+    "component_kb": "2579597",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-2007,CVE-2011-2008"
+  },
+  {
+    "date_posted": "[$-100009]10/11/2011",
+    "bulletin_id": "MS11-082",
+    "bulletin_kb": "2607670",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerabilities in Host Integration Server Could Allow Denial of Service",
+    "affected_product": "Microsoft Host Integration Server 2009",
+    "component_kb": "2579598",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-2007,CVE-2011-2008"
+  },
+  {
+    "date_posted": "[$-100009]10/11/2011",
+    "bulletin_id": "MS11-082",
+    "bulletin_kb": "2607670",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerabilities in Host Integration Server Could Allow Denial of Service",
+    "affected_product": "Microsoft Host Integration Server 2010",
+    "component_kb": "2579599",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-2007,CVE-2011-2008"
+  }
+]

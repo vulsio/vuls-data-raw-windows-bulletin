@@ -1,0 +1,29 @@
+[
+  {
+    "date_posted": "02-05-03",
+    "bulletin_id": "MS03-003",
+    "bulletin_kb": "812262",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Flaw in how Outlook 2002 handles V1 Exchange Server Security Certificates could lead to Information Disclosure",
+    "affected_product": "Microsoft Outlook 2002",
+    "component_kb": "812262",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2003-0007"
+  },
+  {
+    "date_posted": "02-05-03",
+    "bulletin_id": "MS03-003",
+    "bulletin_kb": "812262",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Flaw in how Outlook 2002 handles V1 Exchange Server Security Certificates could lead to Information Disclosure",
+    "affected_product": "Microsoft Outlook 2002 Service Pack 2",
+    "component_kb": "812262",
+    "impact": "Not a Vulnerability",
+    "severity": "None",
+    "cves": "CAN-2003-0007"
+  }
+]

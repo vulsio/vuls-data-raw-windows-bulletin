@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "02-26-03",
+    "bulletin_id": "MS03-006",
+    "bulletin_kb": "812709",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Windows Me Help and Support Center Could Enable Code Execution",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "812709",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0009"
+  }
+]

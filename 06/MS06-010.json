@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "02-14-06",
+    "bulletin_id": "MS06-010",
+    "bulletin_kb": "889167",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in PowerPoint 2000 Could Allow Information Disclosure",
+    "affected_product": "Microsoft PowerPoint 2000 Service Pack 3",
+    "component_kb": "889167",
+    "impact": "Information Disclosure",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2006-0004"
+  },
+  {
+    "date_posted": "02-14-06",
+    "bulletin_id": "MS06-010",
+    "bulletin_kb": "889167",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in PowerPoint 2000 Could Allow Information Disclosure",
+    "affected_product": "Microsoft Office 2000 Service Pack 3",
+    "component_kb": "889167",
+    "impact": "Information Disclosure",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2006-0004"
+  }
+]

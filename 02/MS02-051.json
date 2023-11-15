@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "09-18-02",
+    "bulletin_id": "MS02-051",
+    "bulletin_kb": "324380",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Cryptographic Flaw in RDP Protocol can Lead to Information Disclosure",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "324380",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0863,CAN-2002-0864"
+  },
+  {
+    "date_posted": "09-18-02",
+    "bulletin_id": "MS02-051",
+    "bulletin_kb": "324380",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Cryptographic Flaw in RDP Protocol can Lead to Information Disclosure",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "324380",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0863,CAN-2002-0864"
+  }
+]

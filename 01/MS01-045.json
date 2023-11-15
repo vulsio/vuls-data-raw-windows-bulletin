@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "08-16-01",
+    "bulletin_id": "MS01-045",
+    "bulletin_kb": "289503",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "ISA Server H.323 Gatekeeper Service Contains Memory Leak",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000",
+    "component_kb": "289503",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0546,CAN-2001-0547,CAN-2001-0658"
+  },
+  {
+    "date_posted": "08-16-01",
+    "bulletin_id": "MS01-045",
+    "bulletin_kb": "289503",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "ISA Server H.323 Gatekeeper Service Contains Memory Leak",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000 Service Pack 1",
+    "component_kb": "289503",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0546,CAN-2001-0547,CAN-2001-0658"
+  }
+]

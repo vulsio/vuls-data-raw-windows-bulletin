@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "[$-90009]9/10/2013",
+    "bulletin_id": "MS13-075",
+    "bulletin_kb": "2878687",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft Office IME (Chinese) Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Office 2010 Service Pack 1 (32-bit editions)",
+    "component_kb": "2687413",
+    "affected_component": "Microsoft Pinyin IME 2010 (32-bit version)",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-3859"
+  },
+  {
+    "date_posted": "[$-90009]9/10/2013",
+    "bulletin_id": "MS13-075",
+    "bulletin_kb": "2878687",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft Office IME (Chinese) Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Office 2010 Service Pack 1 (64-bit editions)",
+    "component_kb": "2687413",
+    "affected_component": "Microsoft Pinyin IME 2010 (64-bit version)",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-3859"
+  }
+]

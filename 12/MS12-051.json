@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-70009]7/10/2012",
+    "bulletin_id": "MS12-051",
+    "bulletin_kb": "2721015",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Microsoft Office for Mac Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Office for Mac 2011",
+    "component_kb": "2721015",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2012-1894"
+  }
+]

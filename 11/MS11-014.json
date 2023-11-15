@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-20009]2/8/2011",
+    "bulletin_id": "MS11-014",
+    "bulletin_kb": "2478960",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Local Security Authority Subsystem Service Could Allow Local Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "2478960",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-0039"
+  },
+  {
+    "date_posted": "[$-20009]2/8/2011",
+    "bulletin_id": "MS11-014",
+    "bulletin_kb": "2478960",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Local Security Authority Subsystem Service Could Allow Local Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition Service Pack 2",
+    "component_kb": "2478960",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-0039"
+  },
+  {
+    "date_posted": "[$-20009]2/8/2011",
+    "bulletin_id": "MS11-014",
+    "bulletin_kb": "2478960",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Local Security Authority Subsystem Service Could Allow Local Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "2478960",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-0039"
+  },
+  {
+    "date_posted": "[$-20009]2/8/2011",
+    "bulletin_id": "MS11-014",
+    "bulletin_kb": "2478960",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Local Security Authority Subsystem Service Could Allow Local Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "2478960",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-0039"
+  },
+  {
+    "date_posted": "[$-20009]2/8/2011",
+    "bulletin_id": "MS11-014",
+    "bulletin_kb": "2478960",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Local Security Authority Subsystem Service Could Allow Local Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 x64 Edition Service Pack 2",
+    "component_kb": "2478960",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-0039"
+  }
+]

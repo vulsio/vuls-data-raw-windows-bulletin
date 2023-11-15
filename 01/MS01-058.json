@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "12-13-01",
+    "bulletin_id": "MS01-058",
+    "bulletin_kb": "313675",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "13 December 2001 Cumulative Patch for IE",
+    "affected_product": "Microsoft Internet Explorer 5.5 Service Pack 2",
+    "component_kb": "313675",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0727,CAN-2001-0874,CAN-2001-0875"
+  },
+  {
+    "date_posted": "12-13-01",
+    "bulletin_id": "MS01-058",
+    "bulletin_kb": "313675",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "13 December 2001 Cumulative Patch for IE",
+    "affected_product": "Microsoft Internet Explorer 6.0",
+    "component_kb": "313675",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0727,CAN-2001-0874,CAN-2001-0875"
+  }
+]

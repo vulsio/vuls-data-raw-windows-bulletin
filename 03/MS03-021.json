@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "06-25-03",
+    "bulletin_id": "MS03-021",
+    "bulletin_kb": "819639",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Flaw In Windows Media Player May Allow Media Library Access",
+    "affected_product": "Microsoft Windows Media Player 9 Series",
+    "component_kb": "819639",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2003-0348"
+  }
+]

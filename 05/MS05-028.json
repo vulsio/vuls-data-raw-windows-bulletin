@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "06-14-05",
+    "bulletin_id": "MS05-028",
+    "bulletin_kb": "896426",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web Client Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "896426",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1207"
+  },
+  {
+    "date_posted": "06-14-05",
+    "bulletin_id": "MS05-028",
+    "bulletin_kb": "896426",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web Client Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition Service Pack 2",
+    "component_kb": "896426",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1207"
+  },
+  {
+    "date_posted": "06-14-05",
+    "bulletin_id": "MS05-028",
+    "bulletin_kb": "896426",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web Client Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition",
+    "component_kb": "896426",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1207"
+  },
+  {
+    "date_posted": "06-14-05",
+    "bulletin_id": "MS05-028",
+    "bulletin_kb": "896426",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web Client Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003",
+    "component_kb": "896426",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1207"
+  },
+  {
+    "date_posted": "06-14-05",
+    "bulletin_id": "MS05-028",
+    "bulletin_kb": "896426",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web Client Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003, Enterprise Edition for Itanium-based Systems",
+    "component_kb": "896426",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1207"
+  }
+]

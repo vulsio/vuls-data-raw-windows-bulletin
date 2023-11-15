@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "07-16-03",
+    "bulletin_id": "MS03-028",
+    "bulletin_kb": "816456",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in ISA Server Error Pages Could Allow Cross-Site Scripting Attack",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000",
+    "component_kb": "816456",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2003-0526"
+  }
+]

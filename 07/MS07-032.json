@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "06-12-07",
+    "bulletin_id": "MS07-032",
+    "bulletin_kb": "931213",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Windows Vista Could Allow Information Disclosure",
+    "affected_product": "Windows Vista",
+    "component_kb": "931213",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2007-2229"
+  },
+  {
+    "date_posted": "06-12-07",
+    "bulletin_id": "MS07-032",
+    "bulletin_kb": "931213",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Windows Vista Could Allow Information Disclosure",
+    "affected_product": "Windows Vista x64 Edition",
+    "component_kb": "931213",
+    "impact": "Information Disclosure",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2007-2229"
+  }
+]

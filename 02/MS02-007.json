@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "02-20-02",
+    "bulletin_id": "MS02-007",
+    "bulletin_kb": "317979",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "SQL Server Remote Data Source Function Contain Unchecked Buffers",
+    "affected_product": "Microsoft SQL Server 7.0",
+    "component_kb": "317979",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0056"
+  },
+  {
+    "date_posted": "02-20-02",
+    "bulletin_id": "MS02-007",
+    "bulletin_kb": "317979",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "SQL Server Remote Data Source Function Contain Unchecked Buffers",
+    "affected_product": "Microsoft SQL Server 2000",
+    "component_kb": "317979",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0056"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "12-11-07",
+    "bulletin_id": "MS07-063",
+    "bulletin_kb": "942624",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in SMBv2 Could Allow Remote Code Execution",
+    "affected_product": "Windows Vista",
+    "component_kb": "942624",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-5351"
+  },
+  {
+    "date_posted": "12-11-07",
+    "bulletin_id": "MS07-063",
+    "bulletin_kb": "942624",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in SMBv2 Could Allow Remote Code Execution",
+    "affected_product": "Windows Vista x64 Edition",
+    "component_kb": "942624",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-5351"
+  }
+]

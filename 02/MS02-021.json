@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "04-25-02",
+    "bulletin_id": "MS02-021",
+    "bulletin_kb": "321804",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "E-mail Editor Flaw Could Lead to Script Execution on Reply or Forward",
+    "affected_product": "Microsoft Outlook 2000",
+    "component_kb": "321804",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-1056"
+  },
+  {
+    "date_posted": "04-25-02",
+    "bulletin_id": "MS02-021",
+    "bulletin_kb": "321804",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "E-mail Editor Flaw Could Lead to Script Execution on Reply or Forward",
+    "affected_product": "Microsoft Outlook 2002",
+    "component_kb": "321804",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-1056"
+  }
+]

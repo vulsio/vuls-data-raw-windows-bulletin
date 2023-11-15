@@ -1,0 +1,47 @@
+[
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-093",
+    "bulletin_kb": "2424434",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Windows Movie Maker Could Allow Remote Code Execution",
+    "affected_product": "Windows Vista Service Pack 1",
+    "component_kb": "2424434",
+    "affected_component": "Windows Movie Maker 2.6 for Vista",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2010-3967"
+  },
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-093",
+    "bulletin_kb": "2424434",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Windows Movie Maker Could Allow Remote Code Execution",
+    "affected_product": "Windows Vista Service Pack 2",
+    "component_kb": "2424434",
+    "affected_component": "Windows Movie Maker 2.6 for Vista",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2010-3967"
+  },
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-093",
+    "bulletin_kb": "2424434",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Windows Movie Maker Could Allow Remote Code Execution",
+    "affected_product": "Windows Vista x64 Edition Service Pack 1",
+    "component_kb": "2424434",
+    "affected_component": "Windows Movie Maker 2.6 for Vista",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2010-3967"
+  }
+]

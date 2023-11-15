@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "11-14-06",
+    "bulletin_id": "MS06-069",
+    "bulletin_kb": "923789",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Macromedia Flash Player from Adobe Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "923789",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2006-3014,CVE-2006-3311,CVE-2006-3587,CVE-2006-3588,CVE-2006-4640"
+  },
+  {
+    "date_posted": "11-14-06",
+    "bulletin_id": "MS06-069",
+    "bulletin_kb": "923789",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Macromedia Flash Player from Adobe Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "923789",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2006-3014,CVE-2006-3311,CVE-2006-3587,CVE-2006-3588,CVE-2006-4640"
+  },
+  {
+    "date_posted": "11-14-06",
+    "bulletin_id": "MS06-069",
+    "bulletin_kb": "923789",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Macromedia Flash Player from Adobe Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition",
+    "component_kb": "923789",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2006-3014,CVE-2006-3311,CVE-2006-3587,CVE-2006-3588,CVE-2006-4640"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-30009]3/14/2017",
+    "bulletin_id": "MS17-015",
+    "bulletin_kb": "4013242",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Security Update for Microsoft Exchange Server",
+    "affected_product": "Microsoft Exchange Server 2013 Service Pack 1",
+    "component_kb": "4012178",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2017-0110 "
+  },
+  {
+    "date_posted": "[$-30009]3/14/2017",
+    "bulletin_id": "MS17-015",
+    "bulletin_kb": "4013242",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Security Update for Microsoft Exchange Server",
+    "affected_product": "Microsoft Exchange Server 2013 Cumulative Update 14",
+    "component_kb": "4012178",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2017-0110 "
+  },
+  {
+    "date_posted": "[$-30009]3/14/2017",
+    "bulletin_id": "MS17-015",
+    "bulletin_kb": "4013242",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Security Update for Microsoft Exchange Server",
+    "affected_product": "Microsoft Exchange Server 2016 Cumulative Update 3",
+    "component_kb": "4012178",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2017-0110 "
+  }
+]

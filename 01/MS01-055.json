@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "11-08-01",
+    "bulletin_id": "MS01-055",
+    "bulletin_kb": "312461",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Spoofing",
+    "title": "13 November 2001 Cumulative Patch for IE",
+    "affected_product": "Microsoft Internet Explorer 5.5 Service Pack 2",
+    "component_kb": "312461",
+    "impact": "Spoofing",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0722,CAN-2001-0723,CAN-2001-0724"
+  },
+  {
+    "date_posted": "11-08-01",
+    "bulletin_id": "MS01-055",
+    "bulletin_kb": "312461",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Spoofing",
+    "title": "13 November 2001 Cumulative Patch for IE",
+    "affected_product": "Microsoft Internet Explorer 6.0",
+    "component_kb": "312461",
+    "impact": "Spoofing",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0722,CAN-2001-0723,CAN-2001-0724"
+  }
+]

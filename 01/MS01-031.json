@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "06-07-01",
+    "bulletin_id": "MS01-031",
+    "bulletin_kb": "299553",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Predictable Name Pipes Could Enable Privilege Elevation via Telnet",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "299553",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2001-0345,CAN-2001-0346,CAN-2001-0347,CAN-2001-0348,CAN-2001-0349,CAN-2001-0350,CAN-2001-0351"
+  },
+  {
+    "date_posted": "06-07-01",
+    "bulletin_id": "MS01-031",
+    "bulletin_kb": "299553",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Predictable Name Pipes Could Enable Privilege Elevation via Telnet",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "299553",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2001-0345,CAN-2001-0346,CAN-2001-0347,CAN-2001-0348,CAN-2001-0349,CAN-2001-0350,CAN-2001-0351"
+  }
+]

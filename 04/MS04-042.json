@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "12-14-04",
+    "bulletin_id": "MS04-042",
+    "bulletin_kb": "885249",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in DHCP Could Allow Remote Code Execution and Denial of Service",
+    "affected_product": "Microsoft Windows NT Server 4.0 Service Pack 6a",
+    "component_kb": "885249",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2004-0899,CAN-2004-0900"
+  },
+  {
+    "date_posted": "12-14-04",
+    "bulletin_id": "MS04-042",
+    "bulletin_kb": "885249",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in DHCP Could Allow Remote Code Execution and Denial of Service",
+    "affected_product": "Microsoft Windows NT Server 4.0 Terminal Server Edition Service Pack 6",
+    "component_kb": "885249",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2004-0899,CAN-2004-0900"
+  }
+]

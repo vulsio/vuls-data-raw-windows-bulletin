@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "07-26-01",
+    "bulletin_id": "MS01-042",
+    "bulletin_kb": "55362",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .NSC Processor Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows Media Player 6.4",
+    "component_kb": "55362",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0541"
+  },
+  {
+    "date_posted": "07-26-01",
+    "bulletin_id": "MS01-042",
+    "bulletin_kb": "55362",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .NSC Processor Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows Media Player 7.0",
+    "component_kb": "55362",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0541"
+  },
+  {
+    "date_posted": "07-26-01",
+    "bulletin_id": "MS01-042",
+    "bulletin_kb": "55362",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows Media Player .NSC Processor Contains Unchecked Buffer",
+    "affected_product": "Microsoft Windows Media Player 7.1",
+    "component_kb": "55362",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0541"
+  }
+]

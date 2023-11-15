@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "07-13-04",
+    "bulletin_id": "MS04-021",
+    "bulletin_kb": "841373",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for IIS 4.0",
+    "affected_product": "Microsoft Windows NT Workstation 4.0 Service Pack 6a",
+    "component_kb": "841373",
+    "affected_component": "Microsoft Internet Information Server 4.0",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2004-0205"
+  },
+  {
+    "date_posted": "07-13-04",
+    "bulletin_id": "MS04-021",
+    "bulletin_kb": "841373",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Security Update for IIS 4.0",
+    "affected_product": "Microsoft Windows NT Server 4.0 Service Pack 6a",
+    "component_kb": "841373",
+    "affected_component": "Microsoft Internet Information Server 4.0",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2004-0205"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "date_posted": "[$-110009]11/9/2010",
+    "bulletin_id": "MS10-088",
+    "bulletin_kb": "2293386",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft PowerPoint Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office XP Service Pack 3",
+    "component_kb": "2413272",
+    "affected_component": "Microsoft PowerPoint 2002 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2572,CVE-2010-2573"
+  },
+  {
+    "date_posted": "[$-110009]11/9/2010",
+    "bulletin_id": "MS10-088",
+    "bulletin_kb": "2293386",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft PowerPoint Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 3",
+    "component_kb": "2413304",
+    "affected_component": "Microsoft PowerPoint 2003 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2572,CVE-2010-2573"
+  },
+  {
+    "date_posted": "[$-110009]11/9/2010",
+    "bulletin_id": "MS10-088",
+    "bulletin_kb": "2293386",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft PowerPoint Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2004 for Mac",
+    "component_kb": "2293386",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2572,CVE-2010-2573"
+  },
+  {
+    "date_posted": "[$-110009]11/9/2010",
+    "bulletin_id": "MS10-088",
+    "bulletin_kb": "2293386",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft PowerPoint Could Allow Remote Code Execution",
+    "affected_product": "Microsoft PowerPoint Viewer 2007 Service Pack 2",
+    "component_kb": "2413381",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-2572,CVE-2010-2573"
+  }
+]

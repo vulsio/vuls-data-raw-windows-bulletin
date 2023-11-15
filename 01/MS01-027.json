@@ -1,0 +1,26 @@
+[
+  {
+    "date_posted": "05-16-01",
+    "bulletin_id": "MS01-027",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Flaws in Web Server Certificate Validation Could Enable Spoofing",
+    "affected_product": "Microsoft Internet Explorer 5.01",
+    "component_kb": "295106",
+    "impact": "Spoofing",
+    "severity": "None",
+    "cves": "CAN-2001-0246,CAN-2001-0332,CAN-2001-0338,CAN-2001-0339"
+  },
+  {
+    "date_posted": "05-16-01",
+    "bulletin_id": "MS01-027",
+    "bulletin_severity": "None",
+    "bulletin_impact": "Spoofing",
+    "title": "Flaws in Web Server Certificate Validation Could Enable Spoofing",
+    "affected_product": "Microsoft Internet Explorer 5.5",
+    "component_kb": "299618",
+    "impact": "Spoofing",
+    "severity": "None",
+    "cves": "CAN-2001-0246,CAN-2001-0332,CAN-2001-0338,CAN-2001-0339"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-20009]2/12/2013",
+    "bulletin_id": "MS13-020",
+    "bulletin_kb": "2802968",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in OLE Automation Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "2802968",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2013-1313"
+  }
+]

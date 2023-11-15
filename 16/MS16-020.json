@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "[$-20009]2/9/2016",
+    "bulletin_id": "MS16-020",
+    "bulletin_kb": "3134222",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Security Update for Active Directory Federation Services to Address Denial of Service",
+    "affected_product": "Windows Server 2012 R2",
+    "component_kb": "3134222",
+    "affected_component": "Active Directory Federation Services 3.0",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2016-0037"
+  },
+  {
+    "date_posted": "[$-20009]2/9/2016",
+    "bulletin_id": "MS16-020",
+    "bulletin_kb": "3134222",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Security Update for Active Directory Federation Services to Address Denial of Service",
+    "affected_product": "Windows Server 2012 R2 (server core installation)",
+    "component_kb": "3134222",
+    "affected_component": "Active Directory Federation Services 3.0",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2016-0037"
+  }
+]

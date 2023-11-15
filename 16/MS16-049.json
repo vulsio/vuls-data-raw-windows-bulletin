@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-40009]4/12/2016",
+    "bulletin_id": "MS16-049",
+    "bulletin_kb": "3148795",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Security Update for HTTP.sys",
+    "affected_product": "Windows 10 for 32-bit Systems",
+    "component_kb": "3147461",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-0150"
+  },
+  {
+    "date_posted": "[$-40009]4/12/2016",
+    "bulletin_id": "MS16-049",
+    "bulletin_kb": "3148795",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Security Update for HTTP.sys",
+    "affected_product": "Windows 10 for x64-based Systems",
+    "component_kb": "3147461",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-0150"
+  },
+  {
+    "date_posted": "[$-40009]4/12/2016",
+    "bulletin_id": "MS16-049",
+    "bulletin_kb": "3148795",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Security Update for HTTP.sys",
+    "affected_product": "Windows 10 Version 1511 for 32-bit Systems",
+    "component_kb": "3147458",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-0150"
+  },
+  {
+    "date_posted": "[$-40009]4/12/2016",
+    "bulletin_id": "MS16-049",
+    "bulletin_kb": "3148795",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Security Update for HTTP.sys",
+    "affected_product": "Windows 10 Version 1511 for x64-based Systems",
+    "component_kb": "3147458",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-0150"
+  }
+]

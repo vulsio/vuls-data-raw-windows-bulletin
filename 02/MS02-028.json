@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "06-12-02",
+    "bulletin_id": "MS02-028",
+    "bulletin_kb": "321599",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Heap Overrun in HTR Chunked Encoding Could Enable Web Server Compromise",
+    "affected_product": "Microsoft Internet Information Server 4.0",
+    "component_kb": "321599",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2002-0364"
+  },
+  {
+    "date_posted": "06-12-02",
+    "bulletin_id": "MS02-028",
+    "bulletin_kb": "321599",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Heap Overrun in HTR Chunked Encoding Could Enable Web Server Compromise",
+    "affected_product": "Microsoft Internet Information Services 5.0",
+    "component_kb": "321599",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CAN-2002-0364"
+  }
+]

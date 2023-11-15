@@ -1,0 +1,62 @@
+[
+  {
+    "date_posted": "08-15-01",
+    "bulletin_id": "MS01-044",
+    "bulletin_kb": "285985",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "15 August 2001 Cumulative Patch for IIS",
+    "affected_product": "Microsoft Windows NT 4.0 Service Pack 5",
+    "component_kb": "285985",
+    "affected_component": "Microsoft Internet Information Server 4.0",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0506,CAN-2001-0507,CAN-2001-0508,CAN-2001-0544,CAN-2001-0545"
+  },
+  {
+    "date_posted": "08-15-01",
+    "bulletin_id": "MS01-044",
+    "bulletin_kb": "285985",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "15 August 2001 Cumulative Patch for IIS",
+    "affected_product": "Microsoft Windows NT 4.0 Service Pack 6a",
+    "component_kb": "285985",
+    "affected_component": "Microsoft Internet Information Server 4.0",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0506,CAN-2001-0507,CAN-2001-0508,CAN-2001-0544,CAN-2001-0545"
+  },
+  {
+    "date_posted": "08-15-01",
+    "bulletin_id": "MS01-044",
+    "bulletin_kb": "285985",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "15 August 2001 Cumulative Patch for IIS",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "285985",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0506,CAN-2001-0507,CAN-2001-0508,CAN-2001-0544,CAN-2001-0545"
+  },
+  {
+    "date_posted": "08-15-01",
+    "bulletin_id": "MS01-044",
+    "bulletin_kb": "285985",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "15 August 2001 Cumulative Patch for IIS",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "285985",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0506,CAN-2001-0507,CAN-2001-0508,CAN-2001-0544,CAN-2001-0545"
+  }
+]

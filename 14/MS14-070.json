@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-110009]11/11/2014",
+    "bulletin_id": "MS14-070",
+    "bulletin_kb": "2989935",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in TCP/IP Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2",
+    "component_kb": "2989935",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4076"
+  },
+  {
+    "date_posted": "[$-110009]11/11/2014",
+    "bulletin_id": "MS14-070",
+    "bulletin_kb": "2989935",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in TCP/IP Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "2989935",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4076"
+  },
+  {
+    "date_posted": "[$-110009]11/11/2014",
+    "bulletin_id": "MS14-070",
+    "bulletin_kb": "2989935",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in TCP/IP Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 x64 Edition Service Pack 2",
+    "component_kb": "2989935",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2014-4076"
+  }
+]

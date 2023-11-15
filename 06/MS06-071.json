@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "11-14-06",
+    "bulletin_id": "MS06-071",
+    "bulletin_kb": "928088",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft XML Core Services Could Allow Remote Code Execution",
+    "affected_product": "Microsoft XML Core Services 4.0",
+    "component_kb": "927978",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2006-5745"
+  },
+  {
+    "date_posted": "11-14-06",
+    "bulletin_id": "MS06-071",
+    "bulletin_kb": "928088",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft XML Core Services Could Allow Remote Code Execution",
+    "affected_product": "Microsoft XML Core Services 6.0",
+    "component_kb": "927977",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2006-5745"
+  }
+]

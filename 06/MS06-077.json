@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "12-12-06",
+    "bulletin_id": "MS06-077",
+    "bulletin_kb": "926121",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Remote Installation Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "926121",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2006-5584"
+  }
+]

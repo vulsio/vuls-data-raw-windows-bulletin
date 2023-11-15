@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-003",
+    "bulletin_kb": "2913602",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege",
+    "affected_product": "Windows 7 for 32-bit Systems Service Pack 1",
+    "component_kb": "2913602",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0262"
+  },
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-003",
+    "bulletin_kb": "2913602",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege",
+    "affected_product": "Windows 7 for x64-based Systems Service Pack 1",
+    "component_kb": "2913602",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0262"
+  },
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-003",
+    "bulletin_kb": "2913602",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1",
+    "component_kb": "2913602",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0262"
+  },
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-003",
+    "bulletin_kb": "2913602",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1",
+    "component_kb": "2913602",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0262"
+  },
+  {
+    "date_posted": "[$-10009]1/14/2014",
+    "bulletin_id": "MS14-003",
+    "bulletin_kb": "2913602",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)",
+    "component_kb": "2913602",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0262"
+  }
+]

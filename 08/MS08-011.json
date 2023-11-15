@@ -1,0 +1,62 @@
+[
+  {
+    "date_posted": "02-12-08",
+    "bulletin_id": "MS08-011",
+    "bulletin_kb": "947081",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Works File Converter Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 2",
+    "component_kb": "943973",
+    "affected_component": "Microsoft Works 6.0",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CVE-2007-0216,CVE-2008-0105,CVE-2008-0108"
+  },
+  {
+    "date_posted": "02-12-08",
+    "bulletin_id": "MS08-011",
+    "bulletin_kb": "947081",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Works File Converter Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 3",
+    "component_kb": "943973",
+    "affected_component": "Microsoft Works 6.0",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CVE-2007-0216,CVE-2008-0105,CVE-2008-0108"
+  },
+  {
+    "date_posted": "02-12-08",
+    "bulletin_id": "MS08-011",
+    "bulletin_kb": "947081",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Works File Converter Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Works 8",
+    "component_kb": "943973",
+    "affected_component": "Microsoft Works 6.0",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2007-0216,CVE-2008-0105,CVE-2008-0108"
+  },
+  {
+    "date_posted": "02-12-08",
+    "bulletin_id": "MS08-011",
+    "bulletin_kb": "947081",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Works File Converter Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Works Suite 2005",
+    "component_kb": "943973",
+    "affected_component": "Microsoft Works 6.0",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2007-0216,CVE-2008-0105,CVE-2008-0108"
+  }
+]

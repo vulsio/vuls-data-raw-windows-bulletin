@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "06-19-02",
+    "bulletin_id": "MS02-031",
+    "bulletin_kb": "324458",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patches for Excel and Word for Windows",
+    "affected_product": "Microsoft Excel 2000",
+    "component_kb": "324458",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0616,CAN-2002-0617,CAN-2002-0618,CAN-2002-0619"
+  },
+  {
+    "date_posted": "06-19-02",
+    "bulletin_id": "MS02-031",
+    "bulletin_kb": "324458",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patches for Excel and Word for Windows",
+    "affected_product": "Microsoft Excel 2002",
+    "component_kb": "324458",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0616,CAN-2002-0617,CAN-2002-0618,CAN-2002-0619"
+  },
+  {
+    "date_posted": "06-19-02",
+    "bulletin_id": "MS02-031",
+    "bulletin_kb": "324458",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patches for Excel and Word for Windows",
+    "affected_product": "Microsoft Word 2002",
+    "component_kb": "324458",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0616,CAN-2002-0617,CAN-2002-0618,CAN-2002-0619"
+  },
+  {
+    "date_posted": "06-19-02",
+    "bulletin_id": "MS02-031",
+    "bulletin_kb": "324458",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patches for Excel and Word for Windows",
+    "affected_product": "Microsoft Office 2000",
+    "component_kb": "324458",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0616,CAN-2002-0617,CAN-2002-0618,CAN-2002-0619"
+  },
+  {
+    "date_posted": "06-19-02",
+    "bulletin_id": "MS02-031",
+    "bulletin_kb": "324458",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Cumulative Patches for Excel and Word for Windows",
+    "affected_product": "Microsoft Office XP",
+    "component_kb": "324458",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0616,CAN-2002-0617,CAN-2002-0618,CAN-2002-0619"
+  }
+]

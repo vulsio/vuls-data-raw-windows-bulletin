@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "02-08-05",
+    "bulletin_id": "MS05-006",
+    "bulletin_kb": "887981",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Windows SharePoint Services and SharePoint Team Services Could Allow Cross-Site Scripting and Spoofing Attacks",
+    "affected_product": "Microsoft Windows SharePoint Services Service Pack 1",
+    "component_kb": "887981",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2005-0049"
+  },
+  {
+    "date_posted": "02-08-05",
+    "bulletin_id": "MS05-006",
+    "bulletin_kb": "887981",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Windows SharePoint Services and SharePoint Team Services Could Allow Cross-Site Scripting and Spoofing Attacks",
+    "affected_product": "SharePoint Team Services 2002",
+    "component_kb": "890829",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2005-0049"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-100009]10/12/2010",
+    "bulletin_id": "MS10-084",
+    "bulletin_kb": "2360937",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Local Procedure Call Could Cause Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "2360937",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3222"
+  },
+  {
+    "date_posted": "[$-100009]10/12/2010",
+    "bulletin_id": "MS10-084",
+    "bulletin_kb": "2360937",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Local Procedure Call Could Cause Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition Service Pack 2",
+    "component_kb": "2360937",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3222"
+  },
+  {
+    "date_posted": "[$-100009]10/12/2010",
+    "bulletin_id": "MS10-084",
+    "bulletin_kb": "2360937",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Local Procedure Call Could Cause Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "2360937",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3222"
+  },
+  {
+    "date_posted": "[$-100009]10/12/2010",
+    "bulletin_id": "MS10-084",
+    "bulletin_kb": "2360937",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Local Procedure Call Could Cause Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 x64 Edition Service Pack 2",
+    "component_kb": "2360937",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3222"
+  },
+  {
+    "date_posted": "[$-100009]10/12/2010",
+    "bulletin_id": "MS10-084",
+    "bulletin_kb": "2360937",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in Windows Local Procedure Call Could Cause Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2",
+    "component_kb": "2360937",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3222"
+  }
+]

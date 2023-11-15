@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-60009]6/14/2016",
+    "bulletin_id": "MS16-078",
+    "bulletin_kb": "3165479",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Security Update for Windows Diagnostic Hub",
+    "affected_product": "Windows 10 Version 1511 for 32-bit Systems",
+    "component_kb": "3163018",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3231"
+  },
+  {
+    "date_posted": "[$-60009]6/14/2016",
+    "bulletin_id": "MS16-078",
+    "bulletin_kb": "3165479",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Security Update for Windows Diagnostic Hub",
+    "affected_product": "Windows 10 Version 1511 for x64-based Systems",
+    "component_kb": "3163018",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3231"
+  },
+  {
+    "date_posted": "[$-60009]6/14/2016",
+    "bulletin_id": "MS16-078",
+    "bulletin_kb": "3165479",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Security Update for Windows Diagnostic Hub",
+    "affected_product": "Windows 10 for 32-bit Systems",
+    "component_kb": "3163017",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3231"
+  },
+  {
+    "date_posted": "[$-60009]6/14/2016",
+    "bulletin_id": "MS16-078",
+    "bulletin_kb": "3165479",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Security Update for Windows Diagnostic Hub",
+    "affected_product": "Windows 10 for x64-based Systems",
+    "component_kb": "3163017",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2016-3231"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "05-09-03",
+    "bulletin_id": "MS03-017",
+    "bulletin_kb": "817787",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Windows Media Player Skins Downloading could allow Code Execution",
+    "affected_product": "Microsoft Windows Media Player 7.1",
+    "component_kb": "817787",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2003-0228"
+  },
+  {
+    "date_posted": "05-09-03",
+    "bulletin_id": "MS03-017",
+    "bulletin_kb": "817787",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Windows Media Player Skins Downloading could allow Code Execution",
+    "affected_product": "Microsoft Windows Media Player for Windows XP (Version 8.0)",
+    "component_kb": "817787",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2003-0228"
+  }
+]

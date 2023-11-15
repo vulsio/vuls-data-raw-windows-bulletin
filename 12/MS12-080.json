@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-120009]12/11/2012",
+    "bulletin_id": "MS12-080",
+    "bulletin_kb": "2784126",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Exchange Server Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Exchange Server 2007 Service Pack 3",
+    "component_kb": "2746157",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2012-4791"
+  },
+  {
+    "date_posted": "[$-120009]12/11/2012",
+    "bulletin_id": "MS12-080",
+    "bulletin_kb": "2784126",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Exchange Server Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Exchange Server 2010 Service Pack 1",
+    "component_kb": "2787763",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2012-4791"
+  },
+  {
+    "date_posted": "[$-120009]12/11/2012",
+    "bulletin_id": "MS12-080",
+    "bulletin_kb": "2784126",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Exchange Server Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Exchange Server 2010 Service Pack 2",
+    "component_kb": "2785908",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2012-4791"
+  }
+]

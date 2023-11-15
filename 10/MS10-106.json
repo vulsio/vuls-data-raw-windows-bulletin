@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-106",
+    "bulletin_kb": "2407132",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Exchange Server Could Allow Denial of Service",
+    "affected_product": "Microsoft Exchange Server 2007 Service Pack 2",
+    "component_kb": "2407132",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CVE-2010-3937"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "06-14-05",
+    "bulletin_id": "MS05-034",
+    "bulletin_kb": "899753",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Cumulative Security Update for ISA Server 2000",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000 Service Pack 2",
+    "component_kb": "899753",
+    "impact": "Elevation of Privilege",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2005-1215,CAN-2005-1216"
+  }
+]

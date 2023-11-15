@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-90009]9/10/2013",
+    "bulletin_id": "MS13-078",
+    "bulletin_kb": "2825621",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in FrontPage Could Allow Information Disclosure",
+    "affected_product": "Microsoft FrontPage 2003 Service Pack 3",
+    "component_kb": "2825621",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-3137"
+  }
+]

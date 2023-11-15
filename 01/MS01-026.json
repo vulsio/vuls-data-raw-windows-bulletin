@@ -1,0 +1,54 @@
+[
+  {
+    "date_posted": "05-14-01",
+    "bulletin_id": "MS01-026",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "14 May 2001 Cumulative Patch for IIS",
+    "affected_product": "Microsoft Windows NT Server 4.0 Service Pack 6a",
+    "component_kb": "295534",
+    "affected_component": "Microsoft Internet Information Server 4.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0333,CAN-2001-0334,CAN-2001-0335,CAN-2001-0336,CAN-2001-0337"
+  },
+  {
+    "date_posted": "05-14-01",
+    "bulletin_id": "MS01-026",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "14 May 2001 Cumulative Patch for IIS",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "293826",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0333,CAN-2001-0334,CAN-2001-0335,CAN-2001-0336,CAN-2001-0337"
+  },
+  {
+    "date_posted": "05-14-01",
+    "bulletin_id": "MS01-026",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "14 May 2001 Cumulative Patch for IIS",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "293826",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0333,CAN-2001-0334,CAN-2001-0335,CAN-2001-0336,CAN-2001-0337"
+  },
+  {
+    "date_posted": "05-14-01",
+    "bulletin_id": "MS01-026",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "14 May 2001 Cumulative Patch for IIS",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "293826",
+    "affected_component": "Microsoft Internet Information Services 5.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0333,CAN-2001-0334,CAN-2001-0335,CAN-2001-0336,CAN-2001-0337"
+  }
+]

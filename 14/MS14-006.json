@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-20009]2/11/2014",
+    "bulletin_id": "MS14-006",
+    "bulletin_kb": "2904659",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in TCP/IP IPv6 Could Allow Denial of Service",
+    "affected_product": "Windows RT",
+    "component_kb": "2904659",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0254"
+  },
+  {
+    "date_posted": "[$-20009]2/11/2014",
+    "bulletin_id": "MS14-006",
+    "bulletin_kb": "2904659",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in TCP/IP IPv6 Could Allow Denial of Service",
+    "affected_product": "Windows 8 for 32-bit Systems",
+    "component_kb": "2904659",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0254"
+  },
+  {
+    "date_posted": "[$-20009]2/11/2014",
+    "bulletin_id": "MS14-006",
+    "bulletin_kb": "2904659",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in TCP/IP IPv6 Could Allow Denial of Service",
+    "affected_product": "Windows 8 for x64-based Systems",
+    "component_kb": "2904659",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0254"
+  },
+  {
+    "date_posted": "[$-20009]2/11/2014",
+    "bulletin_id": "MS14-006",
+    "bulletin_kb": "2904659",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in TCP/IP IPv6 Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012 (Server Core installation)",
+    "component_kb": "2904659",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0254"
+  },
+  {
+    "date_posted": "[$-20009]2/11/2014",
+    "bulletin_id": "MS14-006",
+    "bulletin_kb": "2904659",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in TCP/IP IPv6 Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012",
+    "component_kb": "2904659",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2014-0254"
+  }
+]

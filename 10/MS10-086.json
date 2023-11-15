@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-100009]10/12/2010",
+    "bulletin_id": "MS10-086",
+    "bulletin_kb": "2294255",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Tampering",
+    "title": "Vulnerability in Windows Shared Cluster Disks Could Allow Tampering",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems (Server Core installation)",
+    "component_kb": "2294255",
+    "impact": "Tampering",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3223"
+  },
+  {
+    "date_posted": "[$-100009]10/12/2010",
+    "bulletin_id": "MS10-086",
+    "bulletin_kb": "2294255",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Tampering",
+    "title": "Vulnerability in Windows Shared Cluster Disks Could Allow Tampering",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems",
+    "component_kb": "2294255",
+    "impact": "Tampering",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3223"
+  },
+  {
+    "date_posted": "[$-100009]10/12/2010",
+    "bulletin_id": "MS10-086",
+    "bulletin_kb": "2294255",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Tampering",
+    "title": "Vulnerability in Windows Shared Cluster Disks Could Allow Tampering",
+    "affected_product": "Windows Server 2008 R2 for Itanium-Based Systems",
+    "component_kb": "2294255",
+    "impact": "Tampering",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3223"
+  }
+]

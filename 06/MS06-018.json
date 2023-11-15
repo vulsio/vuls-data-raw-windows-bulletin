@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "05-09-06",
+    "bulletin_id": "MS06-018",
+    "bulletin_kb": "913580",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Distributed Transaction Coordinator Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "913580",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CVE-2006-0034,CVE-2006-1184"
+  },
+  {
+    "date_posted": "05-09-06",
+    "bulletin_id": "MS06-018",
+    "bulletin_kb": "913580",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Distributed Transaction Coordinator Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "913580",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "reboot": "Maybe",
+    "cves": "CVE-2006-0034,CVE-2006-1184"
+  },
+  {
+    "date_posted": "05-09-06",
+    "bulletin_id": "MS06-018",
+    "bulletin_kb": "913580",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Distributed Transaction Coordinator Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "913580",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "reboot": "Maybe",
+    "cves": "CVE-2006-0034,CVE-2006-1184"
+  },
+  {
+    "date_posted": "05-09-06",
+    "bulletin_id": "MS06-018",
+    "bulletin_kb": "913580",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Distributed Transaction Coordinator Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows Server 2003",
+    "component_kb": "913580",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "reboot": "Maybe",
+    "cves": "CVE-2006-0034,CVE-2006-1184"
+  },
+  {
+    "date_posted": "05-09-06",
+    "bulletin_id": "MS06-018",
+    "bulletin_kb": "913580",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Microsoft Distributed Transaction Coordinator Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows Server 2003, Enterprise Edition for Itanium-based Systems",
+    "component_kb": "913580",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "reboot": "Maybe",
+    "cves": "CVE-2006-0034,CVE-2006-1184"
+  }
+]

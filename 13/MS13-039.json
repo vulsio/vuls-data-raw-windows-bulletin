@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-039",
+    "bulletin_kb": "2829254",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in HTTP.sys Could Allow Denial of Service",
+    "affected_product": "Windows 8 for x64-based Systems",
+    "component_kb": "2829254",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-1305"
+  },
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-039",
+    "bulletin_kb": "2829254",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in HTTP.sys Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012",
+    "component_kb": "2829254",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-1305"
+  },
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-039",
+    "bulletin_kb": "2829254",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in HTTP.sys Could Allow Denial of Service",
+    "affected_product": "Windows Server 2012 (Server Core installation)",
+    "component_kb": "2829254",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-1305"
+  },
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-039",
+    "bulletin_kb": "2829254",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in HTTP.sys Could Allow Denial of Service",
+    "affected_product": "Windows 8 for 32-bit Systems",
+    "component_kb": "2829254",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-1305"
+  },
+  {
+    "date_posted": "[$-50009]5/14/2013",
+    "bulletin_id": "MS13-039",
+    "bulletin_kb": "2829254",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in HTTP.sys Could Allow Denial of Service",
+    "affected_product": "Windows RT",
+    "component_kb": "2829254",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2013-1305"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "date_posted": "[$-120009]12/13/2011",
+    "bulletin_id": "MS11-096",
+    "bulletin_kb": "2640241",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Excel Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 3",
+    "component_kb": "2596954",
+    "affected_component": "Microsoft Excel 2003 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-3403"
+  },
+  {
+    "date_posted": "[$-120009]12/13/2011",
+    "bulletin_id": "MS11-096",
+    "bulletin_kb": "2640241",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Excel Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2004 for Mac",
+    "component_kb": "2644358",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2011-3403"
+  }
+]

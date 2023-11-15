@@ -1,0 +1,41 @@
+[
+  {
+    "date_posted": "02-22-01",
+    "bulletin_id": "MS01-012",
+    "bulletin_kb": "283908",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Outlook, Outlook Express VCard Handler Contains Unchecked Buffer",
+    "affected_product": "Microsoft Outlook 98",
+    "component_kb": "283908",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0145"
+  },
+  {
+    "date_posted": "02-22-01",
+    "bulletin_id": "MS01-012",
+    "bulletin_kb": "283908",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Outlook, Outlook Express VCard Handler Contains Unchecked Buffer",
+    "affected_product": "Microsoft Outlook 2000",
+    "component_kb": "283908",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0145"
+  },
+  {
+    "date_posted": "02-22-01",
+    "bulletin_id": "MS01-012",
+    "bulletin_kb": "283908",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Outlook, Outlook Express VCard Handler Contains Unchecked Buffer",
+    "affected_product": "Microsoft Outlook Express 5.x",
+    "component_kb": "283908",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0145"
+  }
+]

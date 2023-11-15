@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-100009]10/9/2012",
+    "bulletin_id": "MS12-067",
+    "bulletin_kb": "2742321",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in FAST Search Server 2010 for SharePoint Parsing Could Allow Remote Code Execution",
+    "affected_product": "FAST Search Server 2010 for SharePoint Service Pack 1",
+    "component_kb": "2553402",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-1766,CVE-2012-1767,CVE-2012-1768,CVE-2012-1769,CVE-2012-1770,CVE-2012-1771,CVE-2012-1772,CVE-2012-1773,CVE-2012-3106,CVE-2012-3107,CVE-2012-3108,CVE-2012-3109,CVE-2012-3110"
+  }
+]

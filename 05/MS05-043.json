@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "08-09-05",
+    "bulletin_id": "MS05-043",
+    "bulletin_kb": "896423",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Print Spooler Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "896423",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2005-1984"
+  },
+  {
+    "date_posted": "08-09-05",
+    "bulletin_id": "MS05-043",
+    "bulletin_kb": "896423",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Print Spooler Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "896423",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2005-1984"
+  },
+  {
+    "date_posted": "08-09-05",
+    "bulletin_id": "MS05-043",
+    "bulletin_kb": "896423",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Print Spooler Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "896423",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2005-1984"
+  },
+  {
+    "date_posted": "08-09-05",
+    "bulletin_id": "MS05-043",
+    "bulletin_kb": "896423",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Print Spooler Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003",
+    "component_kb": "896423",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2005-1984"
+  },
+  {
+    "date_posted": "08-09-05",
+    "bulletin_id": "MS05-043",
+    "bulletin_kb": "896423",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Print Spooler Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 1",
+    "component_kb": "896423",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2005-1984"
+  }
+]

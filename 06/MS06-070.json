@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "11-14-06",
+    "bulletin_id": "MS06-070",
+    "bulletin_kb": "924270",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Workstation Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "924270",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2006-4691"
+  },
+  {
+    "date_posted": "11-14-06",
+    "bulletin_id": "MS06-070",
+    "bulletin_kb": "924270",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Workstation Service Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "924270",
+    "impact": "Remote Code Execution",
+    "severity": "Low",
+    "reboot": "Yes",
+    "cves": "CVE-2006-4691"
+  }
+]

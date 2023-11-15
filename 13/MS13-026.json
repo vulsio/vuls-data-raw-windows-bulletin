@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-30009]3/12/2013",
+    "bulletin_id": "MS13-026",
+    "bulletin_kb": "2813682",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Office Outlook for Mac Could Allow Information Disclosure",
+    "affected_product": "Microsoft Office 2008 for Mac",
+    "component_kb": "2817449",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2013-0095"
+  },
+  {
+    "date_posted": "[$-30009]3/12/2013",
+    "bulletin_id": "MS13-026",
+    "bulletin_kb": "2813682",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Office Outlook for Mac Could Allow Information Disclosure",
+    "affected_product": "Microsoft Office for Mac 2011",
+    "component_kb": "2817452",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2013-0095"
+  }
+]

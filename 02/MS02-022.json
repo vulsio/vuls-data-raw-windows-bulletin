@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "05-08-02",
+    "bulletin_id": "MS02-022",
+    "bulletin_kb": "321661",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in MSN Chat Control Can Lead to Code Execution",
+    "affected_product": "Microsoft MSN Chat Control",
+    "component_kb": "321661",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-0155"
+  },
+  {
+    "date_posted": "05-08-02",
+    "bulletin_id": "MS02-022",
+    "bulletin_kb": "321661",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in MSN Chat Control Can Lead to Code Execution",
+    "affected_product": "Microsoft MSN Messenger 4.5",
+    "component_kb": "321661",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-0155"
+  },
+  {
+    "date_posted": "05-08-02",
+    "bulletin_id": "MS02-022",
+    "bulletin_kb": "321661",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in MSN Chat Control Can Lead to Code Execution",
+    "affected_product": "Microsoft MSN Messenger 4.6",
+    "component_kb": "321661",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-0155"
+  },
+  {
+    "date_posted": "05-08-02",
+    "bulletin_id": "MS02-022",
+    "bulletin_kb": "321661",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in MSN Chat Control Can Lead to Code Execution",
+    "affected_product": "Microsoft Exchange Instant Messenger 4.5",
+    "component_kb": "321661",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-0155"
+  },
+  {
+    "date_posted": "05-08-02",
+    "bulletin_id": "MS02-022",
+    "bulletin_kb": "321661",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in MSN Chat Control Can Lead to Code Execution",
+    "affected_product": "Microsoft Exchange Instant Messenger 4.6",
+    "component_kb": "321661",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2002-0155"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "[$-70009]7/12/2011",
+    "bulletin_id": "MS11-055",
+    "bulletin_kb": "2560847",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Visio Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Visio 2003 Service Pack 3",
+    "component_kb": "2493523",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-3148"
+  }
+]

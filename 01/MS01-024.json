@@ -1,0 +1,28 @@
+[
+  {
+    "date_posted": "05-08-01",
+    "bulletin_id": "MS01-024",
+    "bulletin_kb": "294391",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Request to Domain Controller can Cause Memory Exhaustion",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "294391",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0237"
+  },
+  {
+    "date_posted": "05-08-01",
+    "bulletin_id": "MS01-024",
+    "bulletin_kb": "294391",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Malformed Request to Domain Controller can Cause Memory Exhaustion",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "294391",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0237"
+  }
+]

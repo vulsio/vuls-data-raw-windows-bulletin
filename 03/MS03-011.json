@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "04-09-03",
+    "bulletin_id": "MS03-011",
+    "bulletin_kb": "816093",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Microsoft VM Could Enable System Compromise",
+    "affected_product": "Microsoft Virtual Machine",
+    "component_kb": "816093",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0111"
+  }
+]

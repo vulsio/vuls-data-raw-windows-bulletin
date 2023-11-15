@@ -1,0 +1,46 @@
+[
+  {
+    "date_posted": "01-13-04",
+    "bulletin_id": "MS04-001",
+    "bulletin_kb": "816458",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Internet Security and Acceleration Server 2000 H.323 Filter Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000",
+    "component_kb": "816458",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2003-0819"
+  },
+  {
+    "date_posted": "01-13-04",
+    "bulletin_id": "MS04-001",
+    "bulletin_kb": "816458",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Internet Security and Acceleration Server 2000 H.323 Filter Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Small Business Server 2000",
+    "component_kb": "816458",
+    "affected_component": "Microsoft Internet Security and Acceleration Server 2000",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2003-0819"
+  },
+  {
+    "date_posted": "01-13-04",
+    "bulletin_id": "MS04-001",
+    "bulletin_kb": "816458",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Internet Security and Acceleration Server 2000 H.323 Filter Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Small Business Server 2003",
+    "component_kb": "816458",
+    "affected_component": "Microsoft Internet Security and Acceleration Server 2000",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2003-0819"
+  }
+]

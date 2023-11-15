@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-100009]10/11/2011",
+    "bulletin_id": "MS11-079",
+    "bulletin_kb": "2544641",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Forefront Unified Access Gateway Could Cause Remote Code Execution",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010",
+    "component_kb": "2522482",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-1895,CVE-2011-1896,CVE-2011-1897,CVE-2011-1969,CVE-2011-2012"
+  },
+  {
+    "date_posted": "[$-100009]10/11/2011",
+    "bulletin_id": "MS11-079",
+    "bulletin_kb": "2544641",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Forefront Unified Access Gateway Could Cause Remote Code Execution",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010 Update 1",
+    "component_kb": "2522483",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-1895,CVE-2011-1896,CVE-2011-1897,CVE-2011-1969,CVE-2011-2012"
+  },
+  {
+    "date_posted": "[$-100009]10/11/2011",
+    "bulletin_id": "MS11-079",
+    "bulletin_kb": "2544641",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Forefront Unified Access Gateway Could Cause Remote Code Execution",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010 Update 2",
+    "component_kb": "2522484",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-1895,CVE-2011-1896,CVE-2011-1897,CVE-2011-1969,CVE-2011-2012"
+  },
+  {
+    "date_posted": "[$-100009]10/11/2011",
+    "bulletin_id": "MS11-079",
+    "bulletin_kb": "2544641",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Microsoft Forefront Unified Access Gateway Could Cause Remote Code Execution",
+    "affected_product": "Microsoft Forefront Unified Access Gateway 2010 Service Pack 1",
+    "component_kb": "2522485",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2011-1895,CVE-2011-1896,CVE-2011-1897,CVE-2011-1969,CVE-2011-2012"
+  }
+]

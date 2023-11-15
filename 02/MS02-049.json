@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "09-04-02",
+    "bulletin_id": "MS02-049",
+    "bulletin_kb": "326568",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw Could Enable Web Page to Launch Visual FoxPro 6.0 Application Without Warning",
+    "affected_product": "Microsoft Visual FoxPro 6.0",
+    "component_kb": "326568",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-0696"
+  }
+]

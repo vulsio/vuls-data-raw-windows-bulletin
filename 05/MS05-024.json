@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "05-10-05",
+    "bulletin_id": "MS05-024",
+    "bulletin_kb": "894320",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web View Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 3",
+    "component_kb": "894320",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1191"
+  },
+  {
+    "date_posted": "05-10-05",
+    "bulletin_id": "MS05-024",
+    "bulletin_kb": "894320",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web View Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "894320",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1191"
+  },
+  {
+    "date_posted": "05-10-05",
+    "bulletin_id": "MS05-024",
+    "bulletin_kb": "894320",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web View Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 98",
+    "component_kb": "894320",
+    "impact": "Remote Code Execution",
+    "severity": "None",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1191"
+  },
+  {
+    "date_posted": "05-10-05",
+    "bulletin_id": "MS05-024",
+    "bulletin_kb": "894320",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web View Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 98 Second Edition",
+    "component_kb": "894320",
+    "impact": "Remote Code Execution",
+    "severity": "None",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1191"
+  },
+  {
+    "date_posted": "05-10-05",
+    "bulletin_id": "MS05-024",
+    "bulletin_kb": "894320",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Web View Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "894320",
+    "impact": "Remote Code Execution",
+    "severity": "None",
+    "reboot": "Yes",
+    "cves": "CAN-2005-1191"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "02-05-03",
+    "bulletin_id": "MS03-005",
+    "bulletin_kb": "810577",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Unchecked buffer in Windows redirector may permit privilege elevation",
+    "affected_product": "Microsoft Windows XP",
+    "component_kb": "810577",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0004"
+  }
+]

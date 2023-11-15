@@ -1,0 +1,62 @@
+[
+  {
+    "date_posted": "[$-40009]4/13/2010",
+    "bulletin_id": "MS10-023",
+    "bulletin_kb": "981160",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office XP Service Pack 3",
+    "component_kb": "980466",
+    "affected_component": "Microsoft Publisher 2002 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0479"
+  },
+  {
+    "date_posted": "[$-40009]4/13/2010",
+    "bulletin_id": "MS10-023",
+    "bulletin_kb": "981160",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2003 Service Pack 3",
+    "component_kb": "980469",
+    "affected_component": "Microsoft Publisher 2003 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0479"
+  },
+  {
+    "date_posted": "[$-40009]4/13/2010",
+    "bulletin_id": "MS10-023",
+    "bulletin_kb": "981160",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2007 Service Pack 1",
+    "component_kb": "980470",
+    "affected_component": "Microsoft Publisher 2007 Service Pack 1",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0479"
+  },
+  {
+    "date_posted": "[$-40009]4/13/2010",
+    "bulletin_id": "MS10-023",
+    "bulletin_kb": "981160",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Publisher Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2007 Service Pack 2",
+    "component_kb": "980470",
+    "affected_component": "Microsoft Publisher 2007 Service Pack 2",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0479"
+  }
+]

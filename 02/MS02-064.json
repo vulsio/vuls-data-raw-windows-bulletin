@@ -1,0 +1,15 @@
+[
+  {
+    "date_posted": "10-30-02",
+    "bulletin_id": "MS02-064",
+    "bulletin_kb": "327522",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Windows 2000 Default Permissions Could Allow Trojan Horse Program",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "327522",
+    "impact": "Remote Code Execution",
+    "severity": "Moderate",
+    "cves": "CAN-2002-1184"
+  }
+]

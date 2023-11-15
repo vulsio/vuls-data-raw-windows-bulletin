@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-103",
+    "bulletin_kb": "2905244",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in ASP.NET SignalR Could Allow Elevation of Privilege",
+    "affected_product": "ASP.NET SignalR 2.0.x",
+    "component_kb": "2905244",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5042"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-103",
+    "bulletin_kb": "2905244",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in ASP.NET SignalR Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Visual Studio Team Foundation Server 2013",
+    "component_kb": "2903566",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5042"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-103",
+    "bulletin_kb": "2905244",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in ASP.NET SignalR Could Allow Elevation of Privilege",
+    "affected_product": "ASP.NET SignalR 1.1.x",
+    "component_kb": "2905244",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2013-5042"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date_posted": "[$-20009]2/14/2012",
+    "bulletin_id": "MS12-011",
+    "bulletin_kb": "2663841",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft SharePoint Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2010",
+    "component_kb": "2597124",
+    "affected_component": "Microsoft SharePoint Server 2010",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0017,CVE-2012-0144,CVE-2012-0145"
+  },
+  {
+    "date_posted": "[$-20009]2/14/2012",
+    "bulletin_id": "MS12-011",
+    "bulletin_kb": "2663841",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft SharePoint Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2010 Service Pack 1",
+    "component_kb": "2597124",
+    "affected_component": "Microsoft SharePoint Server 2010 Service Pack 1",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0017,CVE-2012-0144,CVE-2012-0145"
+  },
+  {
+    "date_posted": "[$-20009]2/14/2012",
+    "bulletin_id": "MS12-011",
+    "bulletin_kb": "2663841",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft SharePoint Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Foundation 2010",
+    "component_kb": "2553413",
+    "affected_component": "Microsoft SharePoint Foundation 2010",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0017,CVE-2012-0144,CVE-2012-0145"
+  },
+  {
+    "date_posted": "[$-20009]2/14/2012",
+    "bulletin_id": "MS12-011",
+    "bulletin_kb": "2663841",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in Microsoft SharePoint Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Foundation 2010 Service Pack 1",
+    "component_kb": "2553413",
+    "affected_component": "Microsoft SharePoint Foundation 2010 Service Pack 1",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0017,CVE-2012-0144,CVE-2012-0145"
+  }
+]

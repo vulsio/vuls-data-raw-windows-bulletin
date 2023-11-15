@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "01-22-03",
+    "bulletin_id": "MS03-002",
+    "bulletin_kb": "810487",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Cumulative Patch for Microsoft Content Management Server",
+    "affected_product": "Microsoft Content Management Server 2001",
+    "component_kb": "810487",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2003-0002"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "07-25-01",
+    "bulletin_id": "MS01-040",
+    "bulletin_kb": "292435",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid RDP Data Can Cause Memory Leak in Terminal Services",
+    "affected_product": "Microsoft Windows NT Server 4.0 Terminal Server Edition Service Pack 6",
+    "component_kb": "292435",
+    "affected_component": "Remote Data Protocol",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0540"
+  },
+  {
+    "date_posted": "07-25-01",
+    "bulletin_id": "MS01-040",
+    "bulletin_kb": "292435",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid RDP Data Can Cause Memory Leak in Terminal Services",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "292435",
+    "affected_component": "Remote Data Protocol",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0540"
+  },
+  {
+    "date_posted": "07-25-01",
+    "bulletin_id": "MS01-040",
+    "bulletin_kb": "292435",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Invalid RDP Data Can Cause Memory Leak in Terminal Services",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "292435",
+    "affected_component": "Remote Data Protocol",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "cves": "CAN-2001-0540"
+  }
+]

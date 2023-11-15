@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-30009]3/12/2013",
+    "bulletin_id": "MS13-025",
+    "bulletin_kb": "2816264",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft OneNote Could Allow Information Disclosure",
+    "affected_product": "Microsoft OneNote 2010 Service Pack 1 (32-bit editions)",
+    "component_kb": "2760600",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-0086"
+  },
+  {
+    "date_posted": "[$-30009]3/12/2013",
+    "bulletin_id": "MS13-025",
+    "bulletin_kb": "2816264",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft OneNote Could Allow Information Disclosure",
+    "affected_product": "Microsoft OneNote 2010 Service Pack 1 (64-bit editions)",
+    "component_kb": "2760600",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-0086"
+  }
+]

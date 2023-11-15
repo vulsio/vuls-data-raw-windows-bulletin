@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-104",
+    "bulletin_kb": "2909976",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft Office Could Allow Information Disclosure",
+    "affected_product": "Microsoft Office 2013 (32-bit editions)",
+    "component_kb": "2850064",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5054"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-104",
+    "bulletin_kb": "2909976",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft Office Could Allow Information Disclosure",
+    "affected_product": "Microsoft Office 2013 (64-bit editions)",
+    "component_kb": "2850064",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5054"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-104",
+    "bulletin_kb": "2909976",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft Office Could Allow Information Disclosure",
+    "affected_product": "Microsoft Office 2013 RT",
+    "component_kb": "2850064",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-5054"
+  }
+]

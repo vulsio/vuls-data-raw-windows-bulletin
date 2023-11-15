@@ -1,0 +1,17 @@
+[
+  {
+    "date_posted": "[$-40009]4/9/2013",
+    "bulletin_id": "MS13-030",
+    "bulletin_kb": "2827663",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in SharePoint Could Allow Information Disclosure",
+    "affected_product": "Microsoft Sharepoint Server 2013",
+    "component_kb": "2737969",
+    "affected_component": "Microsoft Sharepoint Server 2013",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-1290"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "08-14-07",
+    "bulletin_id": "MS07-048",
+    "bulletin_kb": "938123",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Windows Gadgets Could Allow Remote Code Execution",
+    "affected_product": "Windows Vista",
+    "component_kb": "938123",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-3032,CVE-2007-3033,CVE-2007-3891"
+  },
+  {
+    "date_posted": "08-14-07",
+    "bulletin_id": "MS07-048",
+    "bulletin_kb": "938123",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerabilities in Windows Gadgets Could Allow Remote Code Execution",
+    "affected_product": "Windows Vista x64 Edition",
+    "component_kb": "938123",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2007-3032,CVE-2007-3033,CVE-2007-3891"
+  }
+]

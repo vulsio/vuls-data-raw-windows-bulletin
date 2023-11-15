@@ -1,0 +1,69 @@
+[
+  {
+    "date_posted": "04-09-03",
+    "bulletin_id": "MS03-012",
+    "bulletin_kb": "331066",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Flaw In Winsock Proxy Service And ISA Firewall Service Can Cause Denial Of Service",
+    "affected_product": "Microsoft Proxy Server 2.0",
+    "component_kb": "331066",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0110"
+  },
+  {
+    "date_posted": "04-09-03",
+    "bulletin_id": "MS03-012",
+    "bulletin_kb": "331066",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Flaw In Winsock Proxy Service And ISA Firewall Service Can Cause Denial Of Service",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000",
+    "component_kb": "331066",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2003-0110"
+  },
+  {
+    "date_posted": "04-09-03",
+    "bulletin_id": "MS03-012",
+    "bulletin_kb": "331066",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Flaw In Winsock Proxy Service And ISA Firewall Service Can Cause Denial Of Service",
+    "affected_product": "Microsoft Proxy Server 2.0",
+    "component_kb": "331066",
+    "impact": "Not a Vulnerability",
+    "severity": "None",
+    "cves": "CAN-2003-0110"
+  },
+  {
+    "date_posted": "04-09-03",
+    "bulletin_id": "MS03-012",
+    "bulletin_kb": "331066",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Flaw In Winsock Proxy Service And ISA Firewall Service Can Cause Denial Of Service",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000 Service Pack 1",
+    "component_kb": "331066",
+    "impact": "Not a Vulnerability",
+    "severity": "None",
+    "cves": "CAN-2003-0110"
+  },
+  {
+    "date_posted": "04-09-03",
+    "bulletin_id": "MS03-012",
+    "bulletin_kb": "331066",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Flaw In Winsock Proxy Service And ISA Firewall Service Can Cause Denial Of Service",
+    "affected_product": "Microsoft Internet Security and Acceleration Server 2000 Service Pack 2",
+    "component_kb": "331066",
+    "impact": "Not a Vulnerability",
+    "severity": "None",
+    "cves": "CAN-2003-0110"
+  }
+]

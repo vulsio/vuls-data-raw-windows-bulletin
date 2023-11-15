@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-105",
+    "bulletin_kb": "3091287",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in Windows Hyper-V Could Allow Security Feature Bypass",
+    "affected_product": "Windows Server 2012 R2 (server core installation)",
+    "component_kb": "3087088",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-2534"
+  },
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-105",
+    "bulletin_kb": "3091287",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in Windows Hyper-V Could Allow Security Feature Bypass",
+    "affected_product": "Windows 10 for x64-based Systems",
+    "component_kb": "3081455",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-2534"
+  },
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-105",
+    "bulletin_kb": "3091287",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in Windows Hyper-V Could Allow Security Feature Bypass",
+    "affected_product": "Windows Server 2012 R2",
+    "component_kb": "3087088",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-2534"
+  },
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-105",
+    "bulletin_kb": "3091287",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Security Feature Bypass",
+    "title": "Vulnerability in Windows Hyper-V Could Allow Security Feature Bypass",
+    "affected_product": "Windows 8.1 for x64-based systems",
+    "component_kb": "3087088",
+    "impact": "Security Feature Bypass",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2015-2534"
+  }
+]

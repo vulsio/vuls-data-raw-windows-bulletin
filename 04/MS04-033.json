@@ -1,0 +1,60 @@
+[
+  {
+    "date_posted": "10-12-04",
+    "bulletin_id": "MS04-033",
+    "bulletin_kb": "886836",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Excel Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2000 Service Pack 3",
+    "component_kb": "873372",
+    "affected_component": "Microsoft Excel 2000 Service Pack 3",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2004-0846"
+  },
+  {
+    "date_posted": "10-12-04",
+    "bulletin_id": "MS04-033",
+    "bulletin_kb": "886836",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Excel Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office XP Service Pack 2",
+    "component_kb": "873366",
+    "affected_component": "Microsoft Excel 2002 Service Pack 2",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CAN-2004-0846"
+  },
+  {
+    "date_posted": "10-12-04",
+    "bulletin_id": "MS04-033",
+    "bulletin_kb": "886836",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Excel Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office 2001 for Mac",
+    "component_kb": "886836",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2004-0846"
+  },
+  {
+    "date_posted": "10-12-04",
+    "bulletin_id": "MS04-033",
+    "bulletin_kb": "886836",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Excel Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Office X for Mac",
+    "component_kb": "886836",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CAN-2004-0846"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "04-04-02",
+    "bulletin_id": "MS02-016",
+    "bulletin_kb": "318593",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Not a Vulnerability",
+    "title": "Opening Group Policy Files for Exclusive Read Blocks Policy Application",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "318593",
+    "impact": "Not a Vulnerability",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0051"
+  },
+  {
+    "date_posted": "04-04-02",
+    "bulletin_id": "MS02-016",
+    "bulletin_kb": "318593",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Not a Vulnerability",
+    "title": "Opening Group Policy Files for Exclusive Read Blocks Policy Application",
+    "affected_product": "Microsoft Windows 2000 Advanced Server",
+    "component_kb": "318593",
+    "impact": "Not a Vulnerability",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0051"
+  },
+  {
+    "date_posted": "04-04-02",
+    "bulletin_id": "MS02-016",
+    "bulletin_kb": "318593",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Not a Vulnerability",
+    "title": "Opening Group Policy Files for Exclusive Read Blocks Policy Application",
+    "affected_product": "Microsoft Windows 2000 Datacenter Server",
+    "component_kb": "318593",
+    "impact": "Not a Vulnerability",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0051"
+  }
+]

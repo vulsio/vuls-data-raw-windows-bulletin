@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "06-13-06",
+    "bulletin_id": "MS06-026",
+    "bulletin_kb": "918547",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Graphics Rendering Engine Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 98",
+    "component_kb": "918547",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2006-2376"
+  },
+  {
+    "date_posted": "06-13-06",
+    "bulletin_id": "MS06-026",
+    "bulletin_kb": "918547",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Graphics Rendering Engine Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 98 Second Edition",
+    "component_kb": "918547",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2006-2376"
+  },
+  {
+    "date_posted": "06-13-06",
+    "bulletin_id": "MS06-026",
+    "bulletin_kb": "918547",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Graphics Rendering Engine Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Millennium Edition",
+    "component_kb": "918547",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2006-2376"
+  }
+]

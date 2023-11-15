@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "07-12-01",
+    "bulletin_id": "MS01-038",
+    "bulletin_kb": "303825",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Outlook View Control Exposes Unsafe Functionality",
+    "affected_product": "Microsoft Office XP",
+    "component_kb": "324458",
+    "affected_component": "Microsoft Outlook 2002",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0538"
+  },
+  {
+    "date_posted": "07-12-01",
+    "bulletin_id": "MS01-038",
+    "bulletin_kb": "303825",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Outlook View Control Exposes Unsafe Functionality",
+    "affected_product": "Microsoft Office 2000",
+    "component_kb": "326585",
+    "affected_component": "Microsoft Outlook 2000",
+    "impact": "Not a Vulnerability",
+    "severity": "Low",
+    "cves": "CAN-2001-0538"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "12-04-02",
+    "bulletin_id": "MS02-067",
+    "bulletin_kb": "331866",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "E-mail Header Processing Flaw Could Cause Outlook 2002 to Fail",
+    "affected_product": "Microsoft Outlook 2002",
+    "component_kb": "331866",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "No",
+    "cves": "CAN-2002-1255"
+  }
+]

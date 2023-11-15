@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-30009]3/12/2013",
+    "bulletin_id": "MS13-024",
+    "bulletin_kb": "2780176",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in SharePoint Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Server 2010 Service Pack 1",
+    "component_kb": "2553407",
+    "impact": "Elevation of Privilege",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-0080,CVE-2013-0083,CVE-2013-0084,CVE-2013-0085"
+  },
+  {
+    "date_posted": "[$-30009]3/12/2013",
+    "bulletin_id": "MS13-024",
+    "bulletin_kb": "2780176",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerabilities in SharePoint Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft SharePoint Foundation 2010 Service Pack 1",
+    "component_kb": "2687418",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2013-0080,CVE-2013-0083,CVE-2013-0084,CVE-2013-0085"
+  }
+]

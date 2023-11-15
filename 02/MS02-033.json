@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "06-26-02",
+    "bulletin_id": "MS02-033",
+    "bulletin_kb": "322273",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Profile Service Could Allow Code Execution in Commerce Server",
+    "affected_product": "Microsoft Commerce Server 2000",
+    "component_kb": "322273",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0620,CAN-2002-0621,CAN-2002-0622,CAN-2002-0623"
+  },
+  {
+    "date_posted": "06-26-02",
+    "bulletin_id": "MS02-033",
+    "bulletin_kb": "322273",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Profile Service Could Allow Code Execution in Commerce Server",
+    "affected_product": "Microsoft Commerce Server 2002",
+    "component_kb": "322273",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0620,CAN-2002-0621,CAN-2002-0622,CAN-2002-0623"
+  }
+]

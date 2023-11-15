@@ -1,0 +1,47 @@
+[
+  {
+    "date_posted": "[$-40009]4/13/2010",
+    "bulletin_id": "MS10-027",
+    "bulletin_kb": "979402",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Windows Media Player Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "979402",
+    "affected_component": "Microsoft Windows Media Player 9 Series",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0268"
+  },
+  {
+    "date_posted": "[$-40009]4/13/2010",
+    "bulletin_id": "MS10-027",
+    "bulletin_kb": "979402",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Windows Media Player Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "979402",
+    "affected_component": "Microsoft Windows Media Player 9 Series",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0268"
+  },
+  {
+    "date_posted": "[$-40009]4/13/2010",
+    "bulletin_id": "MS10-027",
+    "bulletin_kb": "979402",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Windows Media Player Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "979402",
+    "affected_component": "Microsoft Windows Media Player 9 Series",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Maybe",
+    "cves": "CVE-2010-0268"
+  }
+]

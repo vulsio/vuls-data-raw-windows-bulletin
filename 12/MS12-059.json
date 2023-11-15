@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-80009]8/14/2012",
+    "bulletin_id": "MS12-059",
+    "bulletin_kb": "2733918",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Visio Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Visio 2010 Service Pack 1 (32-bit editions)",
+    "component_kb": "2733918",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-1888"
+  },
+  {
+    "date_posted": "[$-80009]8/14/2012",
+    "bulletin_id": "MS12-059",
+    "bulletin_kb": "2733918",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Visio Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Visio 2010 Service Pack 1 (64-bit editions)",
+    "component_kb": "2733918",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-1888"
+  },
+  {
+    "date_posted": "[$-80009]8/14/2012",
+    "bulletin_id": "MS12-059",
+    "bulletin_kb": "2733918",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Visio Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Visio Viewer 2010 Service Pack 1 (32-bit Edition)",
+    "component_kb": "2733918",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-1888"
+  },
+  {
+    "date_posted": "[$-80009]8/14/2012",
+    "bulletin_id": "MS12-059",
+    "bulletin_kb": "2733918",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Visio Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Visio Viewer 2010 Service Pack 1 (64-bit Edition)",
+    "component_kb": "2733918",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-1888"
+  }
+]

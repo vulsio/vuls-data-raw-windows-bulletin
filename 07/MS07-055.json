@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "10-09-07",
+    "bulletin_id": "MS07-055",
+    "bulletin_kb": "923810",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Kodak Image Viewer Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "923810",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2007-2217"
+  },
+  {
+    "date_posted": "10-09-07",
+    "bulletin_id": "MS07-055",
+    "bulletin_kb": "923810",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Kodak Image Viewer Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows XP Service Pack 2",
+    "component_kb": "923810",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2007-2217"
+  },
+  {
+    "date_posted": "10-09-07",
+    "bulletin_id": "MS07-055",
+    "bulletin_kb": "923810",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Kodak Image Viewer Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 1",
+    "component_kb": "923810",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2007-2217"
+  },
+  {
+    "date_posted": "10-09-07",
+    "bulletin_id": "MS07-055",
+    "bulletin_kb": "923810",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Kodak Image Viewer Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "923810",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2007-2217"
+  }
+]

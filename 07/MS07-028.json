@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "05-08-07",
+    "bulletin_id": "MS07-028",
+    "bulletin_kb": "931906",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in CAPICOM Could Allow Remote Code Execution",
+    "affected_product": "CAPICOM 2.1.0.1",
+    "component_kb": "931906",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2007-0940"
+  },
+  {
+    "date_posted": "05-08-07",
+    "bulletin_id": "MS07-028",
+    "bulletin_kb": "931906",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in CAPICOM Could Allow Remote Code Execution",
+    "affected_product": "CAPICOM 2.1.0.1",
+    "component_kb": "931906",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2007-0940"
+  },
+  {
+    "date_posted": "05-08-07",
+    "bulletin_id": "MS07-028",
+    "bulletin_kb": "931906",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in CAPICOM Could Allow Remote Code Execution",
+    "affected_product": "BizTalk Server 2004 Service Pack 1",
+    "component_kb": "931906",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2007-0940"
+  },
+  {
+    "date_posted": "05-08-07",
+    "bulletin_id": "MS07-028",
+    "bulletin_kb": "931906",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in CAPICOM Could Allow Remote Code Execution",
+    "affected_product": "BizTalk Server 2004 Service Pack 2",
+    "component_kb": "931906",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "No",
+    "cves": "CVE-2007-0940"
+  }
+]

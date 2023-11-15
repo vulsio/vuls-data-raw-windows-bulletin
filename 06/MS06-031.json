@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "06-13-06",
+    "bulletin_id": "MS06-031",
+    "bulletin_kb": "917736",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Spoofing",
+    "title": "Vulnerability in RPC Mutual Authentication Could Allow Spoofing",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "917736",
+    "impact": "Spoofing",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2006-2380"
+  }
+]

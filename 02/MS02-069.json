@@ -1,0 +1,15 @@
+[
+  {
+    "date_posted": "12-11-02",
+    "bulletin_id": "MS02-069",
+    "bulletin_kb": "810030",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Flaw in Microsoft VM Could Enable System Compromise",
+    "affected_product": "Microsoft Internet Explorer 5.01",
+    "component_kb": "810030",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2002-1257,CAN-2002-1258,CAN-2002-1259,CAN-2002-1260,CAN-2002-1261,CAN-2002-1263,CAN-2002-1325"
+  }
+]

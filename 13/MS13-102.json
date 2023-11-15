@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-102",
+    "bulletin_kb": "2898715",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in LPC Client or LPC Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "2898715",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3878"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-102",
+    "bulletin_kb": "2898715",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in LPC Client or LPC Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition Service Pack 2",
+    "component_kb": "2898715",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3878"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-102",
+    "bulletin_kb": "2898715",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in LPC Client or LPC Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "2898715",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3878"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-102",
+    "bulletin_kb": "2898715",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in LPC Client or LPC Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 x64 Edition Service Pack 2",
+    "component_kb": "2898715",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3878"
+  },
+  {
+    "date_posted": "[$-120009]12/10/2013",
+    "bulletin_id": "MS13-102",
+    "bulletin_kb": "2898715",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Vulnerability in LPC Client or LPC Server Could Allow Elevation of Privilege",
+    "affected_product": "Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2",
+    "component_kb": "2898715",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2013-3878"
+  }
+]

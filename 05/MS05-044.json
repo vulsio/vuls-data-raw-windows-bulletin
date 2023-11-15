@@ -1,0 +1,59 @@
+[
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-044",
+    "bulletin_kb": "905495",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Tampering",
+    "title": "Vulnerability in the Windows FTP Client Could Allow File Transfer Location Tampering",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "905495",
+    "affected_component": "Microsoft Internet Explorer 6.0 Service Pack 1",
+    "impact": "Tampering",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2005-2126"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-044",
+    "bulletin_kb": "905495",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Tampering",
+    "title": "Vulnerability in the Windows FTP Client Could Allow File Transfer Location Tampering",
+    "affected_product": "Microsoft Windows Server 2003, Enterprise Edition for Itanium-based Systems",
+    "component_kb": "905495",
+    "impact": "Tampering",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2005-2126"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-044",
+    "bulletin_kb": "905495",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Tampering",
+    "title": "Vulnerability in the Windows FTP Client Could Allow File Transfer Location Tampering",
+    "affected_product": "Microsoft Windows XP Service Pack 1",
+    "component_kb": "905495",
+    "impact": "Tampering",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2005-2126"
+  },
+  {
+    "date_posted": "10-11-05",
+    "bulletin_id": "MS05-044",
+    "bulletin_kb": "905495",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Tampering",
+    "title": "Vulnerability in the Windows FTP Client Could Allow File Transfer Location Tampering",
+    "affected_product": "Microsoft Windows Server 2003",
+    "component_kb": "905495",
+    "impact": "Tampering",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CAN-2005-2126"
+  }
+]

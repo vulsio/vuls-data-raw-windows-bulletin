@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-065",
+    "bulletin_kb": "2570222",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Remote Desktop Protocol Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows XP Service Pack 3",
+    "component_kb": "2570222",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2011-1968"
+  },
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-065",
+    "bulletin_kb": "2570222",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Remote Desktop Protocol Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows XP Professional x64 Edition Service Pack 2",
+    "component_kb": "2570222",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Yes",
+    "cves": "CVE-2011-1968"
+  },
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-065",
+    "bulletin_kb": "2570222",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Remote Desktop Protocol Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows Server 2003 Service Pack 2",
+    "component_kb": "2570222",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-1968"
+  },
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-065",
+    "bulletin_kb": "2570222",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Remote Desktop Protocol Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows Server 2003 x64 Edition Service Pack 2",
+    "component_kb": "2570222",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-1968"
+  },
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-065",
+    "bulletin_kb": "2570222",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Remote Desktop Protocol Could Allow Denial of Service",
+    "affected_product": "Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2",
+    "component_kb": "2570222",
+    "impact": "Denial of Service",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-1968"
+  }
+]

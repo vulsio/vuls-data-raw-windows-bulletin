@@ -1,0 +1,47 @@
+[
+  {
+    "date_posted": "03-09-04",
+    "bulletin_id": "MS04-008",
+    "bulletin_kb": "832359",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows Media Services Could Allow a Denial of Service",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "832359",
+    "affected_component": "Microsoft Windows Media Services 4.1",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2003-0905"
+  },
+  {
+    "date_posted": "03-09-04",
+    "bulletin_id": "MS04-008",
+    "bulletin_kb": "832359",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows Media Services Could Allow a Denial of Service",
+    "affected_product": "Microsoft Windows 2000 Service Pack 3",
+    "component_kb": "832359",
+    "affected_component": "Microsoft Windows Media Services 4.1",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2003-0905"
+  },
+  {
+    "date_posted": "03-09-04",
+    "bulletin_id": "MS04-008",
+    "bulletin_kb": "832359",
+    "bulletin_severity": "Moderate",
+    "bulletin_impact": "Denial of Service",
+    "title": "Vulnerability in Windows Media Services Could Allow a Denial of Service",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "832359",
+    "affected_component": "Microsoft Windows Media Services 4.1",
+    "impact": "Denial of Service",
+    "severity": "Moderate",
+    "reboot": "Maybe",
+    "cves": "CAN-2003-0905"
+  }
+]

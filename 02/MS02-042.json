@@ -1,0 +1,16 @@
+[
+  {
+    "date_posted": "08-14-02",
+    "bulletin_id": "MS02-042",
+    "bulletin_kb": "326886",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Flaw in Network Connection Manager Could Enable Privilege Elevation",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "326886",
+    "impact": "Elevation of Privilege",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CAN-2002-0720"
+  }
+]

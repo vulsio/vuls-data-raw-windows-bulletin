@@ -1,0 +1,32 @@
+[
+  {
+    "date_posted": "07-05-01",
+    "bulletin_id": "MS01-037",
+    "bulletin_kb": "302755",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Authentication Error in SMTP Service Could Allow Mail Relaying",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "302755",
+    "affected_component": "SMTP Service",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0504"
+  },
+  {
+    "date_posted": "07-05-01",
+    "bulletin_id": "MS01-037",
+    "bulletin_kb": "302755",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Elevation of Privilege",
+    "title": "Authentication Error in SMTP Service Could Allow Mail Relaying",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "302755",
+    "affected_component": "SMTP Service",
+    "impact": "Elevation of Privilege",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CAN-2001-0504"
+  }
+]

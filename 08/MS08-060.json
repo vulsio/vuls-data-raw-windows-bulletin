@@ -1,0 +1,17 @@
+[
+  {
+    "date_posted": "10-14-08",
+    "bulletin_id": "MS08-060",
+    "bulletin_kb": "957280",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Active Directory Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Windows 2000 Service Pack 4",
+    "component_kb": "957280",
+    "affected_component": "Active Directory",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2008-4023"
+  }
+]

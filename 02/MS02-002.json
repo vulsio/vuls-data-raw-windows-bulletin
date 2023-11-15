@@ -1,0 +1,15 @@
+[
+  {
+    "date_posted": "02-06-02",
+    "bulletin_id": "MS02-002",
+    "bulletin_kb": "317879",
+    "bulletin_severity": "Low",
+    "bulletin_impact": "Denial of Service",
+    "title": "Malformed Network Request can cause Office v. X for Mac to Fail",
+    "affected_product": "Microsoft Office X for Mac",
+    "component_kb": "317879",
+    "impact": "Denial of Service",
+    "severity": "Low",
+    "cves": "CAN-2002-0021"
+  }
+]

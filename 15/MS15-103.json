@@ -1,0 +1,44 @@
+[
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-103",
+    "bulletin_kb": "3089250",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerabilities in Microsoft Exchange Server Could Allow Information Disclosure",
+    "affected_product": "Microsoft Exchange Server 2013 Cumulative Update 8",
+    "component_kb": "3089250",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-2505,CVE-2015-2543,CVE-2015-2544"
+  },
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-103",
+    "bulletin_kb": "3089250",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerabilities in Microsoft Exchange Server Could Allow Information Disclosure",
+    "affected_product": "Microsoft Exchange Server 2013 Cumulative Update 9",
+    "component_kb": "3089250",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-2505,CVE-2015-2543,CVE-2015-2544"
+  },
+  {
+    "date_posted": "[$-90009]9/8/2015",
+    "bulletin_id": "MS15-103",
+    "bulletin_kb": "3089250",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerabilities in Microsoft Exchange Server Could Allow Information Disclosure",
+    "affected_product": "Microsoft Exchange Server 2013 Service Pack 1",
+    "component_kb": "3089250",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2015-2505,CVE-2015-2543,CVE-2015-2544"
+  }
+]

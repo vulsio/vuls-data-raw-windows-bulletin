@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-067",
+    "bulletin_kb": "2578230",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft Report Viewer Could Allow Information Disclosure",
+    "affected_product": "Microsoft Visual Studio 2005 Service Pack 1",
+    "component_kb": "2548826",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "No",
+    "cves": "CVE-2011-1976"
+  },
+  {
+    "date_posted": "[$-80009]8/9/2011",
+    "bulletin_id": "MS11-067",
+    "bulletin_kb": "2578230",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Information Disclosure",
+    "title": "Vulnerability in Microsoft Report Viewer Could Allow Information Disclosure",
+    "affected_product": "Microsoft Report Viewer Redistributable 2005 Service Pack 1",
+    "component_kb": "2579115",
+    "impact": "Information Disclosure",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2011-1976"
+  }
+]

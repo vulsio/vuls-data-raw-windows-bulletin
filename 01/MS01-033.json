@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "06-18-01",
+    "bulletin_id": "MS01-033",
+    "bulletin_kb": "300972",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Index Server ISAPI Extension Could Enable Web Server Compromise",
+    "affected_product": "Microsoft Windows NT Server 4.0 Service Pack 6a",
+    "component_kb": "300972",
+    "affected_component": "Microsoft Index Server 2.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0500"
+  },
+  {
+    "date_posted": "06-18-01",
+    "bulletin_id": "MS01-033",
+    "bulletin_kb": "300972",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Index Server ISAPI Extension Could Enable Web Server Compromise",
+    "affected_product": "Microsoft Windows 2000",
+    "component_kb": "300972",
+    "affected_component": "Microsoft Index Server 2.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0500"
+  },
+  {
+    "date_posted": "06-18-01",
+    "bulletin_id": "MS01-033",
+    "bulletin_kb": "300972",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Index Server ISAPI Extension Could Enable Web Server Compromise",
+    "affected_product": "Microsoft Windows 2000 Service Pack 1",
+    "component_kb": "300972",
+    "affected_component": "Microsoft Index Server 2.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0500"
+  },
+  {
+    "date_posted": "06-18-01",
+    "bulletin_id": "MS01-033",
+    "bulletin_kb": "300972",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Index Server ISAPI Extension Could Enable Web Server Compromise",
+    "affected_product": "Microsoft Windows 2000 Service Pack 2",
+    "component_kb": "300972",
+    "affected_component": "Microsoft Index Server 2.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0500"
+  },
+  {
+    "date_posted": "06-18-01",
+    "bulletin_id": "MS01-033",
+    "bulletin_kb": "300972",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Unchecked Buffer in Index Server ISAPI Extension Could Enable Web Server Compromise",
+    "affected_product": "Microsoft Windows NT Server 4.0 Terminal Server Edition Service Pack 6",
+    "component_kb": "317636",
+    "affected_component": "Microsoft Index Server 2.0",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "cves": "CAN-2001-0500"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-30009]3/13/2012",
+    "bulletin_id": "MS12-022",
+    "bulletin_kb": "2651018",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Expression Design Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Expression Design",
+    "component_kb": "2675064",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0016"
+  },
+  {
+    "date_posted": "[$-30009]3/13/2012",
+    "bulletin_id": "MS12-022",
+    "bulletin_kb": "2651018",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Expression Design Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Expression Design Service Pack 1",
+    "component_kb": "2667724",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0016"
+  },
+  {
+    "date_posted": "[$-30009]3/13/2012",
+    "bulletin_id": "MS12-022",
+    "bulletin_kb": "2651018",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Expression Design Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Expression Design 2",
+    "component_kb": "2667725",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0016"
+  },
+  {
+    "date_posted": "[$-30009]3/13/2012",
+    "bulletin_id": "MS12-022",
+    "bulletin_kb": "2651018",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Expression Design Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Expression Design 3",
+    "component_kb": "2667727",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0016"
+  },
+  {
+    "date_posted": "[$-30009]3/13/2012",
+    "bulletin_id": "MS12-022",
+    "bulletin_kb": "2651018",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Expression Design Could Allow Remote Code Execution",
+    "affected_product": "Microsoft Expression Design 4",
+    "component_kb": "2667730",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2012-0016"
+  }
+]

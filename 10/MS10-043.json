@@ -1,0 +1,30 @@
+[
+  {
+    "date_posted": "[$-70009]7/13/2010",
+    "bulletin_id": "MS10-043",
+    "bulletin_kb": "2032276",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Canonical Display Driver Could Allow Remote Code Execution",
+    "affected_product": "Windows 7 for x64-based Systems",
+    "component_kb": "2032276",
+    "impact": "Remote Code Execution",
+    "severity": "Critical",
+    "reboot": "Yes",
+    "cves": "CVE-2009-3678"
+  },
+  {
+    "date_posted": "[$-70009]7/13/2010",
+    "bulletin_id": "MS10-043",
+    "bulletin_kb": "2032276",
+    "bulletin_severity": "Critical",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Canonical Display Driver Could Allow Remote Code Execution",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems",
+    "component_kb": "2032276",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2009-3678"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date_posted": "[$-10009]1/12/2016",
+    "bulletin_id": "MS16-010",
+    "bulletin_kb": "3124557",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Spoofing",
+    "title": "Security Update in Microsoft Exchange Server to Address Spoofing",
+    "affected_product": "Microsoft Exchange Server 2013 Service Pack 1",
+    "component_kb": "3124557",
+    "impact": "Spoofing",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2016-0029,CVE-2016-0030,CVE-2016-0031,CVE-2016-0032"
+  },
+  {
+    "date_posted": "[$-10009]1/12/2016",
+    "bulletin_id": "MS16-010",
+    "bulletin_kb": "3124557",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Spoofing",
+    "title": "Security Update in Microsoft Exchange Server to Address Spoofing",
+    "affected_product": "Microsoft Exchange Server 2013 Cumulative Update 10",
+    "component_kb": "3124557",
+    "impact": "Spoofing",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2016-0029,CVE-2016-0030,CVE-2016-0031,CVE-2016-0032"
+  },
+  {
+    "date_posted": "[$-10009]1/12/2016",
+    "bulletin_id": "MS16-010",
+    "bulletin_kb": "3124557",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Spoofing",
+    "title": "Security Update in Microsoft Exchange Server to Address Spoofing",
+    "affected_product": "Microsoft Exchange Server 2013 Cumulative Update 11",
+    "component_kb": "3124557",
+    "impact": "Spoofing",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2016-0029,CVE-2016-0030,CVE-2016-0031,CVE-2016-0032"
+  },
+  {
+    "date_posted": "[$-10009]1/12/2016",
+    "bulletin_id": "MS16-010",
+    "bulletin_kb": "3124557",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Spoofing",
+    "title": "Security Update in Microsoft Exchange Server to Address Spoofing",
+    "affected_product": "Microsoft Exchange Server 2016",
+    "component_kb": "3124557",
+    "impact": "Spoofing",
+    "severity": "Important",
+    "reboot": "Maybe",
+    "cves": "CVE-2016-0029,CVE-2016-0030,CVE-2016-0031,CVE-2016-0032"
+  }
+]

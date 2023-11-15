@@ -1,0 +1,72 @@
+[
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-095",
+    "bulletin_kb": "2385678",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Windows Could Allow Remote Code Execution",
+    "affected_product": "Windows 7 for 32-bit Systems",
+    "component_kb": "2385678",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3966"
+  },
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-095",
+    "bulletin_kb": "2385678",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Windows Could Allow Remote Code Execution",
+    "affected_product": "Windows 7 for x64-based Systems",
+    "component_kb": "2385678",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3966"
+  },
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-095",
+    "bulletin_kb": "2385678",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Windows Could Allow Remote Code Execution",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems",
+    "component_kb": "2385678",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3966"
+  },
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-095",
+    "bulletin_kb": "2385678",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Windows Could Allow Remote Code Execution",
+    "affected_product": "Windows Server 2008 R2 for x64-based Systems (Server Core installation)",
+    "component_kb": "2385678",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3966"
+  },
+  {
+    "date_posted": "[$-120009]12/14/2010",
+    "bulletin_id": "MS10-095",
+    "bulletin_kb": "2385678",
+    "bulletin_severity": "Important",
+    "bulletin_impact": "Remote Code Execution",
+    "title": "Vulnerability in Microsoft Windows Could Allow Remote Code Execution",
+    "affected_product": "Windows Server 2008 R2 for Itanium-Based Systems",
+    "component_kb": "2385678",
+    "impact": "Remote Code Execution",
+    "severity": "Important",
+    "reboot": "Yes",
+    "cves": "CVE-2010-3966"
+  }
+]
